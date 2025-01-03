@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 9
-          feed_list: "https://thenewleafjournal.com/author/naferrell/feed/atom/"
+          feed_list: "https://thenewleafjournal.com/author/naferrell/feed/"
