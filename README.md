@@ -30,6 +30,12 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 
 ## The Newsletter Leaf Journal
 <!-- NLLJ-POST-LIST:START -->
+- [Newsletter Leaf Journal CCXXIII 〜 A Christmas promenade](https://buttondown.com/newsletterleafjournal/archive/213/)
+- [Newsletter Leaf Journal CCXII 〜 Before the sell-by date](https://buttondown.com/newsletterleafjournal/archive/212/)
+- [Newsletter Leaf Journal CCXI 〜 Not over-sharing](https://buttondown.com/newsletterleafjournal/archive/211/)
+- [Newsletter Leaf Journal CCX 〜 Chiming in](https://buttondown.com/newsletterleafjournal/archive/210/)
+- [Newsletter Leaf Journal CCIX 〜 Novender](https://buttondown.com/newsletterleafjournal/archive/209/)
+- [Newsletter Leaf Journal CCVIII 〜 Share at Thanksgiving dinner](https://buttondown.com/newsletterleafjournal/archive/208/)
 <!-- NLLJ-POST-LIST:END -->
 
 <!--
