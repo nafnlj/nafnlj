@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Determing Saw-whet Owl Age](https://social.emucafe.org/naferrell/01-03-25-saw-whet-owl-age/)
 - [Transcribing Podcasts](https://social.emucafe.org/naferrell/01-02-24-transcribing-podcasts/)
 - [Things I Learned: Sports Gambling in Q3 2024](https://social.emucafe.org/naferrell/learning25-01-02-25-sports-gambling/)
 - [Things I Learned: Machida Squirrel Garden](https://social.emucafe.org/naferrell/til-machida-squirrel-garden/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pixel 3a XL Goes from DivestOS to Ubuntu Tou…Droidian?](https://social.emucafe.org/naferrell/pixel-3a-xl-goes-from-divestos-to-ubuntu-tou-droidian/)
 - [Preferring Izzy on Droid F-Droid Repo for Breezy Weather](https://social.emucafe.org/naferrell/preferring-izzy-on-droid-f-droid-repo-for-breezy-weather/)
 - [Not Succumbing to Google Pixel Tablet Temptation](https://social.emucafe.org/naferrell/pixel-tablet-temptation/)
-- [X Thinks I’m Suspicious](https://social.emucafe.org/naferrell/x-thinks-im-suspicious/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
