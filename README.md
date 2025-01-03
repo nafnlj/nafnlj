@@ -26,12 +26,12 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Transcribing Podcasts](https://social.emucafe.org/naferrell/01-02-24-transcribing-podcasts/)
 - [Things I Learned: Sports Gambling in Q3 2024](https://social.emucafe.org/naferrell/learning25-01-02-25-sports-gambling/)
 - [Things I Learned: Machida Squirrel Garden](https://social.emucafe.org/naferrell/til-machida-squirrel-garden/)
-- [Spam Email &amp;#8220;Unsubscribe&amp;#8221;](https://social.emucafe.org/naferrell/spam-email-unsubscribe/)
+- [Spam Email “Unsubscribe”](https://social.emucafe.org/naferrell/spam-email-unsubscribe/)
 - [Guide to Using Element Desktop With Two Accounts](https://social.emucafe.org/naferrell/guide-to-using-element-desktop-with-two-accounts/)
-- [Pixel 3a XL Goes from DivestOS to Ubuntu Tou&amp;#8230;Droidian?](https://social.emucafe.org/naferrell/pixel-3a-xl-goes-from-divestos-to-ubuntu-tou-droidian/)
+- [Pixel 3a XL Goes from DivestOS to Ubuntu Tou…Droidian?](https://social.emucafe.org/naferrell/pixel-3a-xl-goes-from-divestos-to-ubuntu-tou-droidian/)
 - [Preferring Izzy on Droid F-Droid Repo for Breezy Weather](https://social.emucafe.org/naferrell/preferring-izzy-on-droid-f-droid-repo-for-breezy-weather/)
 - [Not Succumbing to Google Pixel Tablet Temptation](https://social.emucafe.org/naferrell/pixel-tablet-temptation/)
-- [X Thinks I&amp;#8217;m Suspicious](https://social.emucafe.org/naferrell/x-thinks-im-suspicious/)
+- [X Thinks I’m Suspicious](https://social.emucafe.org/naferrell/x-thinks-im-suspicious/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
