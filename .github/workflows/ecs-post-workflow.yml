@@ -18,4 +18,4 @@ jobs:
         with:
           comment_tag_name: ECS-POST-LIST
           max_post_count: 9
-          feed_list: "https://social.emucafe.org/author/naferrell/feed/atom/"
+          feed_list: "https://social.emucafe.org/author/naferrell/feed/"
