@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 24
-          feed_list: "https://thenewleafjournal.com/author/naferrell/feed/atom/,https://thenewleafjournal.com/collection/feed/atom/,https://social.emucafe.org/naferrell/feed/atom/,https://buttondown.com/newsletterleafjournal/rss"
+          max_post_count: 9
+          feed_list: "https://thenewleafjournal.com/author/naferrell/feed/atom/"
