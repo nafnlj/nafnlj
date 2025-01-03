@@ -19,15 +19,15 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 - [Newsletter Leaf Journal CCXI 〜 Not over-sharing](https://buttondown.com/newsletterleafjournal/archive/211/)
 - [mpv Media Player&amp;#8217;s December Santa Hat](https://thenewleafjournal.com/mpv-media-players-december-santa-hat/)
 - [TMI in Landlord-Tenant Relationships](https://thenewleafjournal.com/tmi-in-landlord-tenant-relationships/)
+- [November 2024 at The New Leaf Journal](https://thenewleafjournal.com/november-2024-at-the-new-leaf-journal/)
 - [Newsletter Leaf Journal CCX 〜 Chiming in](https://buttondown.com/newsletterleafjournal/archive/210/)
+- [Musing About Tesla Cybertruck at Brooklyn Bridge Park](https://thenewleafjournal.com/musing-about-tesla-cybertruck-at-brooklyn-bridge-park/)
+- [Victory Chimes Schooner in Brooklyn Bridge Park](https://thenewleafjournal.com/victory-chimes-schooner-in-brooklyn-bridge-park/)
 - [Newsletter Leaf Journal CCIX 〜 Novender](https://buttondown.com/newsletterleafjournal/archive/209/)
 - [Newsletter Leaf Journal CCVIII 〜 Share at Thanksgiving dinner](https://buttondown.com/newsletterleafjournal/archive/208/)
 - [Newsletter Leaf Journal CCVII 〜 On your desk](https://buttondown.com/newsletterleafjournal/archive/207/)
 - [Newsletter Leaf Journal CCVI 〜 Perennial poll leader](https://buttondown.com/newsletterleafjournal/archive/206/)
 - [Holiday Research and History Articles](https://thenewleafjournal.com/collection/holiday-research-and-history-articles/)
-- [Newsletter Leaf Journal CCV 〜 Boo Leaf Journal](https://buttondown.com/newsletterleafjournal/archive/205/)
-- [Newsletter Leaf Journal CCIV 〜 Tired &amp; Boo!](https://buttondown.com/newsletterleafjournal/archive/204/)
-- [Newsletter Leaf Journal CCIII 〜 Transmogrifying Issue](https://buttondown.com/newsletterleafjournal/archive/203/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social
