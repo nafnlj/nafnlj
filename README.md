@@ -57,18 +57,18 @@ Both *The New Leaf Journal* and *The Emu Café Social* support ActivityPub. I ha
 
 ### Follow My Sites on Activity Pub
 
-* /@newleafjournal@thenewleafjournal.com (only full site profile)
-* @naferrell@social.emucafe.org (my profile) and/or @cafe@social.emucafe.org (full site, albeit it is just me at the moment)
-* @buttondown.com.newsletterleafjournal@rss-parrot.net (if you want our new newsletter posts to show up in Mastodon or the like)
+* @ newleafjournal @ thenewleafjournal.com (remove spaces, only full site profile)
+* @ naferrell @ social.emucafe.org (my profile) and/or @ cafe @ social.emucafe.org (full site, albeit it is just me at the moment) (remove spaces)
+* @ buttondown.com.newsletterleafjournal @ rss-parrot.net (if you want our new newsletter posts to show up in Mastodon or the like) (remove spaces)
 
 ### My Accounts
 
 * X: @newleafjournal
-* Mastodon: @nafnlj@linuxrocks.online
-* Pixelfed: @nafnlj@pixelfed.social
-* Bluesky: @naferrell.com
-* Minds: @nafnlj@minds.com (can also be followed from Mastodon or the like)
-* NOSTR: naferrell@thenewleafjournal.com or Pubkey (71650bd2a9dca5f39fc51b9623c37d735900c4fbfe9f8cb78256d8a99f58522c)
+* Mastodon: [@nafnlj@linuxrocks.online](https://linuxrocks.online/@nafnlj)
+* Pixelfed: [@nafnlj@pixelfed.social](https://pixelfed.social/nafnlj)
+* Minds: [@nafnlj@minds.com](https://www.minds.com/nafnlj/) (can also be followed from Mastodon or the like)
+* Bluesky: [@naferrell.com](https://bsky.app/profile/naferrell.com)
+* NOSTR: naferrell @ thenewleafjournal.com or Pubkey (71650bd2a9dca5f39fc51b9623c37d735900c4fbfe9f8cb78256d8a99f58522c)
 * Hacker News: nafnlj 
 
 
