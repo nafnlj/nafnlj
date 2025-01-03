@@ -2,6 +2,13 @@
 
 I am the administrator and editor of two WordPress-powered websites. I post long-form articles on [*The New Leaf Journal*](https://thenewleafjournal.com/) and short-form posts on [*The Emu Café Social*](https://social.emucafe.org/). I write about thinks I am interested in, which includes, but is not limited to: Anime, Brooklyn, Current Events, History, Linux, Open Source Software, Reading, Sports, Video Games, Visual Noevls, Walking, Writing, and many other topics. I mainly use GitHub to follow projects and repositories that interest me. I do maintain some WordPress-related repositories on [my Gitea instance](https://giteacoffee.emucafe.org/naferrell). My day job involves legal research and writing in the area of U.S. immigration law.
 
+## Recent Articles, Newsletters, and Short Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Recent Social Posts and Microposts
+<!-- MICRO-POST-LIST:START -->
+<!-- MICRO-POST-LIST:END -->
 
 <!--
 **nafnlj/nafnlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
