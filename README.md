@@ -4,6 +4,15 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 
 ## The New Leaf Journal
 <!-- BLOG-POST-LIST:START -->
+- [The 81 Most-Visited Articles of 2024](https://thenewleafjournal.com/01-02-24-the-81-most-visited-articles-of-2024/)
+- [December 2024 at The New Leaf Journal](https://thenewleafjournal.com/december-2024-at-the-new-leaf-journal/)
+- [Best Record vs Best Net Rating in 51 NBA Seasons](https://thenewleafjournal.com/best-record-vs-best-net-rating-in-51-nba-seasons/)
+- [Christmas Rose &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/christmas-rose-visual-novel-review/)
+- [Brooklyn Heights Promenade Christmas Tree](https://thenewleafjournal.com/brooklyn-heights-promenade-christmas-tree/)
+- [Our &amp;#8220;Safe&amp;#8221; Norton Safeweb Rating](https://thenewleafjournal.com/our-safe-norton-safeweb-rating/)
+- [Extra Anime Awards for 2023](https://thenewleafjournal.com/extra-anime-awards-for-2023/)
+- [54 Things I Learned in 2024](https://thenewleafjournal.com/54-things-i-learned-in-2024/)
+- [Sell by November Cashew Milk in December](https://thenewleafjournal.com/sell-by-november-cashew-milk-in-december/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social
