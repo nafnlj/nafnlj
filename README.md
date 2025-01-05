@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Angel Next Door Surging Views Explanation](https://social.emucafe.org/naferrell/angel-next-door-surging-views-explanation/)
 - [Things I Learned: In-Season College Football Number Changes](https://social.emucafe.org/naferrell/01-04-25-ncaafb-number-changing/)
 - [WordPress ATOM Feeds and GitHub blog-post-workflow](https://social.emucafe.org/naferrell/01-03-25-blog-post-workflow-wp-atom/)
 - [Things I Learned: Determining Saw-whet Owl Age](https://social.emucafe.org/naferrell/01-03-25-saw-whet-owl-age/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Machida Squirrel Garden](https://social.emucafe.org/naferrell/til-machida-squirrel-garden/)
 - [Spam Email “Unsubscribe”](https://social.emucafe.org/naferrell/spam-email-unsubscribe/)
 - [Guide to Using Element Desktop With Two Accounts](https://social.emucafe.org/naferrell/guide-to-using-element-desktop-with-two-accounts/)
-- [Pixel 3a XL Goes from DivestOS to Ubuntu Tou…Droidian?](https://social.emucafe.org/naferrell/pixel-3a-xl-goes-from-divestos-to-ubuntu-tou-droidian/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
