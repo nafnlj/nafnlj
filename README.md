@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: TP-Link Security Issues](https://social.emucafe.org/naferrell/01-06-25-tp-link-security-issues/)
 - [Things I Learned: Removing WordPress Comments Feed From Head](https://social.emucafe.org/naferrell/01-05-25-wp-comments-feed-head/)
 - [Angel Next Door Surging Views Explanation](https://social.emucafe.org/naferrell/angel-next-door-surging-views-explanation/)
 - [Things I Learned: In-Season College Football Number Changes](https://social.emucafe.org/naferrell/01-04-25-ncaafb-number-changing/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Transcribing Podcasts](https://social.emucafe.org/naferrell/01-02-24-transcribing-podcasts/)
 - [Things I Learned: Sports Gambling in Q3 2024](https://social.emucafe.org/naferrell/learning25-01-02-25-sports-gambling/)
 - [Things I Learned: Machida Squirrel Garden](https://social.emucafe.org/naferrell/til-machida-squirrel-garden/)
-- [Spam Email “Unsubscribe”](https://social.emucafe.org/naferrell/spam-email-unsubscribe/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
