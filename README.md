@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Eddy’s Branded Cybertruck at BBP](https://thenewleafjournal.com/eddys-branded-cybertruck-at-bbp/)
 - [The Army-Navy Game and the College Football Playoffs](https://thenewleafjournal.com/01-04-25-army-navy-game-and-the-cfp/)
 - [The 81 Most-Visited Articles of 2024](https://thenewleafjournal.com/01-02-24-the-81-most-visited-articles-of-2024/)
 - [December 2024 at The New Leaf Journal](https://thenewleafjournal.com/december-2024-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Brooklyn Heights Promenade Christmas Tree](https://thenewleafjournal.com/brooklyn-heights-promenade-christmas-tree/)
 - [Our “Safe” Norton Safeweb Rating](https://thenewleafjournal.com/our-safe-norton-safeweb-rating/)
 - [Extra Anime Awards for 2023](https://thenewleafjournal.com/extra-anime-awards-for-2023/)
-- [54 Things I Learned in 2024](https://thenewleafjournal.com/54-things-i-learned-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
