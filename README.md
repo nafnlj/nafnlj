@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [AI AI Meta – A Dialogue of Sorts](https://thenewleafjournal.com/ai-ai-meta-a-dialogue-of-sorts/)
 - [2002-03 Celtics and Relative Three Point Stats](https://thenewleafjournal.com/2002-03-celtics-and-relative-three-point-stats/)
 - [Eddy’s Branded Cybertruck at BBP](https://thenewleafjournal.com/eddys-branded-cybertruck-at-bbp/)
 - [The Army-Navy Game and the College Football Playoffs](https://thenewleafjournal.com/01-04-25-army-navy-game-and-the-cfp/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Best Record vs Best Net Rating in 51 NBA Seasons](https://thenewleafjournal.com/best-record-vs-best-net-rating-in-51-nba-seasons/)
 - [Christmas Rose – Visual Novel Review](https://thenewleafjournal.com/christmas-rose-visual-novel-review/)
 - [Brooklyn Heights Promenade Christmas Tree](https://thenewleafjournal.com/brooklyn-heights-promenade-christmas-tree/)
-- [Our “Safe” Norton Safeweb Rating](https://thenewleafjournal.com/our-safe-norton-safeweb-rating/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
