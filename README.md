@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Car Software and Recalls](https://social.emucafe.org/naferrell/01-09-25-car-software-recalls/)
 - [Things I Learned: There Are More TikToks &lpar;“Lemon”&rpar;](https://social.emucafe.org/naferrell/things-i-learned-there-are-more-tiktoks-lemon/)
 - [Things I Learned: Funding the Fact-Checking Industry](https://social.emucafe.org/naferrell/01-08-25-fact-checking-funding/)
 - [TCL NXTPAPER 11 Plus Announced](https://social.emucafe.org/naferrell/tcl-nxtpaper-11-plus-announced/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Angel Next Door Surging Views Explanation](https://social.emucafe.org/naferrell/angel-next-door-surging-views-explanation/)
 - [Things I Learned: In-Season College Football Number Changes](https://social.emucafe.org/naferrell/01-04-25-ncaafb-number-changing/)
 - [WordPress ATOM Feeds and GitHub blog-post-workflow](https://social.emucafe.org/naferrell/01-03-25-blog-post-workflow-wp-atom/)
-- [Things I Learned: Determining Saw-whet Owl Age](https://social.emucafe.org/naferrell/01-03-25-saw-whet-owl-age/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
