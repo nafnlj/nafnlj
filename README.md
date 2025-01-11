@@ -9,7 +9,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 <!-- BLOG-POST-LIST:START -->
 - [AI AI Meta – A Dialogue of Sorts](https://thenewleafjournal.com/ai-ai-meta-a-dialogue-of-sorts/)
 - [2002-03 Celtics and Relative Three Point Stats](https://thenewleafjournal.com/2002-03-celtics-and-relative-three-point-stats/)
-- [Eddy’s Branded Cybertruck at BBP](https://thenewleafjournal.com/eddys-branded-cybertruck-at-bbp/)
+- [Eddy’s Branded Cybertruck at Brooklyn Bridge Park](https://thenewleafjournal.com/eddys-branded-cybertruck-at-bbp/)
 - [The Army-Navy Game and the College Football Playoffs](https://thenewleafjournal.com/01-04-25-army-navy-game-and-the-cfp/)
 - [The 81 Most-Visited Articles of 2024](https://thenewleafjournal.com/01-02-24-the-81-most-visited-articles-of-2024/)
 - [December 2024 at The New Leaf Journal](https://thenewleafjournal.com/december-2024-at-the-new-leaf-journal/)
