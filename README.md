@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: New Polar Icebreaker Joins USCG Fleet](https://social.emucafe.org/naferrell/01-12-25-polar-icebreaker-joins-uscg/)
 - [Things I Learned: SlamBall May Still Exist](https://social.emucafe.org/naferrell/01-11-25-slamball-may-still-exist/)
 - [Things I Learned: Cats on Rikers Island](https://social.emucafe.org/naferrell/01-10-25-cats-on-rikers/)
 - [Things I Learned: Car Software and Recalls](https://social.emucafe.org/naferrell/01-09-25-car-software-recalls/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [TCL NXTPAPER 11 Plus Announced](https://social.emucafe.org/naferrell/tcl-nxtpaper-11-plus-announced/)
 - [Things I Learned: TP-Link Security Issues](https://social.emucafe.org/naferrell/01-06-25-tp-link-security-issues/)
 - [Things I Learned: Removing WordPress Comments Feed From Head](https://social.emucafe.org/naferrell/01-05-25-wp-comments-feed-head/)
-- [Angel Next Door Surging Views Explanation](https://social.emucafe.org/naferrell/angel-next-door-surging-views-explanation/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
