@@ -43,12 +43,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [Newsletter Leaf Journal CCXV 〜 No branded Cybertruck &lpar;yet&rpar;](https://buttondown.com/newsletterleafjournal/archive/215/)
 - [Newsletter Leaf Journal CCXIV 〜 2024 after story](https://buttondown.com/newsletterleafjournal/archive/214/)
 - [Newsletter Leaf Journal CCXXIII 〜 A Christmas promenade](https://buttondown.com/newsletterleafjournal/archive/213/)
 - [Newsletter Leaf Journal CCXII 〜 Before the sell-by date](https://buttondown.com/newsletterleafjournal/archive/212/)
 - [Newsletter Leaf Journal CCXI 〜 Not over-sharing](https://buttondown.com/newsletterleafjournal/archive/211/)
 - [Newsletter Leaf Journal CCX 〜 Chiming in](https://buttondown.com/newsletterleafjournal/archive/210/)
-- [Newsletter Leaf Journal CCIX 〜 Novender](https://buttondown.com/newsletterleafjournal/archive/209/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
