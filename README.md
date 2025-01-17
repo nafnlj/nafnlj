@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Official Super Mario World CDs in 1991](https://social.emucafe.org/naferrell/things-i-learned-official-super-mario-world-cds-in-1991/)
 - [Things I Learned: Check uBlock Origin Settings on Miniflux](https://social.emucafe.org/naferrell/ublock-o-and-miniflux/)
 - [Things I Learned: In-Flight Gambling](https://social.emucafe.org/naferrell/01-12-25-inflight-gambling/)
 - [Things I Learned: New Polar Icebreaker Joins USCG Fleet](https://social.emucafe.org/naferrell/01-12-25-polar-icebreaker-joins-uscg/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Car Software and Recalls](https://social.emucafe.org/naferrell/01-09-25-car-software-recalls/)
 - [Things I Learned: There Are More TikToks &lpar;“Lemon”&rpar;](https://social.emucafe.org/naferrell/things-i-learned-there-are-more-tiktoks-lemon/)
 - [Things I Learned: Funding the Fact-Checking Industry](https://social.emucafe.org/naferrell/01-08-25-fact-checking-funding/)
-- [TCL NXTPAPER 11 Plus Announced](https://social.emucafe.org/naferrell/tcl-nxtpaper-11-plus-announced/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
