@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 TV Anime Category Awards](https://thenewleafjournal.com/2024-tv-anime-category-awards/)
 - [The Best TV Anime of 2024](https://thenewleafjournal.com/the-best-anime-of-2024/)
 - [January 2025 Look at Pixelfed Social](https://thenewleafjournal.com/january-2025-look-at-pixelfed-social/)
 - [Trump 2024 vs Bush 2004: State-by-State](https://thenewleafjournal.com/trump-2024-vs-bush-2004-state-by-state/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Free “Hardly Used” Toilet Seen in Brooklyn](https://thenewleafjournal.com/free-hardly-used-toilet-seen-in-brooklyn/)
 - [Enabling Charging Optimization on GrapheneOS](https://thenewleafjournal.com/enabling-charging-optimization-on-grapheneos/)
 - [AI AI Meta – A Dialogue of Sorts](https://thenewleafjournal.com/ai-ai-meta-a-dialogue-of-sorts/)
-- [2002-03 Celtics and Relative Three Point Stats](https://thenewleafjournal.com/2002-03-celtics-and-relative-three-point-stats/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
