@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Higurashi When They Cry Phone Game](https://social.emucafe.org/naferrell/02-03-25-higurashi-when-they-cry-phone-game/)
 - [Inauguration Day](https://social.emucafe.org/naferrell/inauguration-day/)
 - [Things I Learned: The Other Summer’s End Visual Novel](https://social.emucafe.org/naferrell/01-18-25-the-other-summer-end-vn/)
 - [Things I Learned: Robot Vacuum Arms Race](https://social.emucafe.org/naferrell/things-i-learned-robot-vacuum-arms-race/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: In-Flight Gambling](https://social.emucafe.org/naferrell/01-12-25-inflight-gambling/)
 - [Things I Learned: New Polar Icebreaker Joins USCG Fleet](https://social.emucafe.org/naferrell/01-12-25-polar-icebreaker-joins-uscg/)
 - [Things I Learned: SlamBall May Still Exist](https://social.emucafe.org/naferrell/01-11-25-slamball-may-still-exist/)
-- [Things I Learned: Cats on Rikers Island](https://social.emucafe.org/naferrell/01-10-25-cats-on-rikers/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
