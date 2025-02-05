@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Ozempic Lizards](https://social.emucafe.org/naferrell/02-05-25-ozempic-comes-from-lizards/)
 - [Things I Learned: Mars is a Vet Tycoon](https://social.emucafe.org/naferrell/02-04-25-mars-vets/)
 - [Things I Learned: Higurashi When They Cry Phone Game](https://social.emucafe.org/naferrell/02-03-25-higurashi-when-they-cry-phone-game/)
 - [Inauguration Day](https://social.emucafe.org/naferrell/inauguration-day/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Official Super Mario World CDs in 1991](https://social.emucafe.org/naferrell/things-i-learned-official-super-mario-world-cds-in-1991/)
 - [Things I Learned: Check uBlock Origin Settings on Miniflux](https://social.emucafe.org/naferrell/ublock-o-and-miniflux/)
 - [Things I Learned: In-Flight Gambling](https://social.emucafe.org/naferrell/01-12-25-inflight-gambling/)
-- [Things I Learned: New Polar Icebreaker Joins USCG Fleet](https://social.emucafe.org/naferrell/01-12-25-polar-icebreaker-joins-uscg/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
