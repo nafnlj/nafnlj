@@ -7,6 +7,8 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Blondes in “I’m Getting Married to a Girl I Hate in My Class”](https://thenewleafjournal.com/blondes-in-im-getting-married-to-a-girl-i-hate-in-my-class/)
+- [January 2025 at The New Leaf Journal](https://thenewleafjournal.com/january-2025-at-the-new-leaf-journal/)
 - [Emojam and Emoji Story-Telling Memories](https://thenewleafjournal.com/emojam-and-emoji-story-telling-memories/)
 - [2024 TV Anime Category Awards](https://thenewleafjournal.com/2024-tv-anime-category-awards/)
 - [The Best TV Anime of 2024](https://thenewleafjournal.com/the-best-anime-of-2024/)
@@ -14,8 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Trump 2024 vs Bush 2004: State-by-State](https://thenewleafjournal.com/trump-2024-vs-bush-2004-state-by-state/)
 - [Brave Pumpkin in a Hat](https://thenewleafjournal.com/brave-pumpkin-in-a-hat/)
 - [Putting Pumpkins Out to Pasture](https://thenewleafjournal.com/putting-pumpkins-out-to-pasture/)
-- [Free “Hardly Used” Toilet Seen in Brooklyn](https://thenewleafjournal.com/free-hardly-used-toilet-seen-in-brooklyn/)
-- [Enabling Charging Optimization on GrapheneOS](https://thenewleafjournal.com/enabling-charging-optimization-on-grapheneos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
