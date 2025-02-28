@@ -7,7 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
-- [My OpenWRT NETGEAR WAX 202 Access Point](https://thenewleafjournal.com/my-openwrt-netgear-wax-202-access-point/)
+- [My OpenWrt NETGEAR WAX 202 Access Point](https://thenewleafjournal.com/my-openwrt-netgear-wax-202-access-point/)
 - [Amazon Appstore and Android](https://thenewleafjournal.com/amazon-appstore-and-android/)
 - [40 Days and 40 Nights of Rain – VN Review](https://thenewleafjournal.com/40-days-and-40-nights-of-rain-vn-review/)
 - [On Peacock’s Plan to “feed them content”](https://thenewleafjournal.com/on-peacocks-plan-to-feed-them-content/)
