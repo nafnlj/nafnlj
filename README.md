@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [February 2025 at The New Leaf Journal](https://thenewleafjournal.com/february-2025-at-the-new-leaf-journal/)
 - [Dunkin’ Donuts Are Not All The Same](https://thenewleafjournal.com/dunkin-donuts-are-not-all-the-same/)
 - [Pacman &lpar;Linux&rpar; Update Issue](https://thenewleafjournal.com/pacman-arch-linux-update-issue/)
 - [Good Internet Writing Habits](https://thenewleafjournal.com/good-internet-writing-habits/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [40 Days and 40 Nights of Rain – VN Review](https://thenewleafjournal.com/40-days-and-40-nights-of-rain-vn-review/)
 - [On Peacock’s Plan to “feed them content”](https://thenewleafjournal.com/on-peacocks-plan-to-feed-them-content/)
 - [Inflatable Valentine’s Bears in Brooklyn](https://thenewleafjournal.com/inflatable-valentines-bears-in-brooklyn/)
-- [Tsuki ga Kirei in Shangri-La Frontier](https://thenewleafjournal.com/tsuki-ga-kirei-in-shangri-la-frontier/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
