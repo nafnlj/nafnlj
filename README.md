@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Dirty Grubhub Delivery Bags in Brooklyn](https://thenewleafjournal.com/dirty-grubhub-delivery-bags-in-brooklyn/)
 - [Dubious School Paper Service Referral](https://thenewleafjournal.com/dubious-school-paper-service-referral/)
 - [Pokémon and Pokémon Go in Saudi Arabia](https://thenewleafjournal.com/pokemon-and-pokemon-go-in-saudi-arabia/)
 - [The Moon’s Reflection in Downtown Brooklyn](https://thenewleafjournal.com/the-moons-reflection-in-downtown-brooklyn/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Dunkin’ Donuts Are Not All The Same](https://thenewleafjournal.com/dunkin-donuts-are-not-all-the-same/)
 - [Pacman &lpar;Linux&rpar; Update Issue](https://thenewleafjournal.com/pacman-arch-linux-update-issue/)
 - [Good Internet Writing Habits](https://thenewleafjournal.com/good-internet-writing-habits/)
-- [My OpenWrt NETGEAR WAX 202 Access Point](https://thenewleafjournal.com/my-openwrt-netgear-wax-202-access-point/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
