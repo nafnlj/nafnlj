@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [SBInstitutionsBot Visits Picked Up as Visitors](https://social.emucafe.org/naferrell/03-19-25-sbinstitutionsbot-visits/)
 - [Things I Learned: Amazon Appstore for Android](https://social.emucafe.org/naferrell/02-20-25-amazon-appstore-for-android/)
 - [Things I Learned: IMDB’s Origins 35 Years Ago](https://social.emucafe.org/naferrell/02-07-25-imdb-usenet-origins/)
 - [Things I Learned: Brooklyn Borough Hall Deeds](https://social.emucafe.org/naferrell/02-06-25-bk-borough-hall-deeds/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Higurashi When They Cry Phone Game](https://social.emucafe.org/naferrell/02-03-25-higurashi-when-they-cry-phone-game/)
 - [Inauguration Day](https://social.emucafe.org/naferrell/inauguration-day/)
 - [Things I Learned: The Other Summer’s End Visual Novel](https://social.emucafe.org/naferrell/01-18-25-the-other-summer-end-vn/)
-- [Things I Learned: Robot Vacuum Arms Race](https://social.emucafe.org/naferrell/things-i-learned-robot-vacuum-arms-race/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
