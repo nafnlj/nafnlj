@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Trillion Game Two-Part Season Finale](https://social.emucafe.org/naferrell/looking-forward-to-trillion-game-finale/)
 - [Things I Learned: 13 U.S. States Ban Ranked-Choice Voting](https://social.emucafe.org/naferrell/03-25-25-us-rcv-bans/)
 - [My Haqqani Bounty Payment Hangs By a Thread](https://social.emucafe.org/naferrell/03-23-25-haqqani-bounty/)
 - [SBInstitutionsBot Visits Picked Up as Visitors](https://social.emucafe.org/naferrell/03-19-25-sbinstitutionsbot-visits/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Brooklyn Borough Hall Deeds](https://social.emucafe.org/naferrell/02-06-25-bk-borough-hall-deeds/)
 - [Things I Learned: Ozempic Lizards](https://social.emucafe.org/naferrell/02-05-25-ozempic-comes-from-lizards/)
 - [Things I Learned: Mars is a Vet Tycoon](https://social.emucafe.org/naferrell/02-04-25-mars-vets/)
-- [Things I Learned: Higurashi When They Cry Phone Game](https://social.emucafe.org/naferrell/02-03-25-higurashi-when-they-cry-phone-game/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
