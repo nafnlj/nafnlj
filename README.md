@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Hip Green Smoothies For April Fools](https://thenewleafjournal.com/hip-green-smoothies-for-april-fools/)
 - [Worst NBA Playoff Teams By SRS &lpar;1984-2024&rpar;](https://thenewleafjournal.com/worst-nba-playoff-teams-by-srs-1984-2024/)
 - [Creators and More and More Content](https://thenewleafjournal.com/creators-and-more-and-more-content/)
 - [Budding Trees on Red Hook’s Coffey Street](https://thenewleafjournal.com/budding-trees-on-red-hooks-coffey-street/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Dubious School Paper Service Referral](https://thenewleafjournal.com/dubious-school-paper-service-referral/)
 - [Pokémon and Pokémon Go in Saudi Arabia](https://thenewleafjournal.com/pokemon-and-pokemon-go-in-saudi-arabia/)
 - [The Moon’s Reflection in Downtown Brooklyn](https://thenewleafjournal.com/the-moons-reflection-in-downtown-brooklyn/)
-- [Brooklyn “Ageless Men’s Health” BRT](https://thenewleafjournal.com/brooklyn-ageless-mens-healths-brt/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
