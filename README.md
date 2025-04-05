@@ -7,6 +7,8 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Honey Lemon Soda Anime Hair Color Analysis](https://thenewleafjournal.com/honey-lemon-soda-anime-hair-color-analysis/)
+- [Honey Lemon Soda – Anime Review](https://thenewleafjournal.com/honey-lemon-soda-anime-review/)
 - [“Like Literally Like” – Unclear Thinking and Speaking](https://thenewleafjournal.com/like-literally-like-unclear-thinking-and-speaking/)
 - [Hip Green Smoothies For April Fools](https://thenewleafjournal.com/hip-green-smoothies-for-april-fools/)
 - [Worst NBA Playoff Teams By SRS &lpar;1984-2024&rpar;](https://thenewleafjournal.com/worst-nba-playoff-teams-by-srs-1984-2024/)
@@ -14,8 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Budding Trees on Red Hook’s Coffey Street](https://thenewleafjournal.com/budding-trees-on-red-hooks-coffey-street/)
 - [My Newsletter Link Saving Workflow](https://thenewleafjournal.com/my-newsletter-link-saving-workflow/)
 - [Dirty Grubhub Delivery Bags in Brooklyn](https://thenewleafjournal.com/dirty-grubhub-delivery-bags-in-brooklyn/)
-- [Dubious School Paper Service Referral](https://thenewleafjournal.com/dubious-school-paper-service-referral/)
-- [Pokémon and Pokémon Go in Saudi Arabia](https://thenewleafjournal.com/pokemon-and-pokemon-go-in-saudi-arabia/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
