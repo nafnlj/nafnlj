@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Oldest Golfer to Shoot Under Par in Masters Round](https://social.emucafe.org/naferrell/2025-04-10-couples-watson-masters/)
 - [Fred Couples Shoots 71 in First Round of Masters](https://social.emucafe.org/naferrell/2025-04-10-couples-masters-71/)
 - [Installing Tinker WriterDeck OS On Old ASUS Netbook](https://social.emucafe.org/naferrell/04-07-2025-tinker-writerdeck/)
 - [Things I Learned: Tinder is a Chatbot Dating Service](https://social.emucafe.org/naferrell/tinder-chatbot-dates-03-07-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [My Haqqani Bounty Payment Hangs By a Thread](https://social.emucafe.org/naferrell/03-23-25-haqqani-bounty/)
 - [SBInstitutionsBot Visits Picked Up as Visitors](https://social.emucafe.org/naferrell/03-19-25-sbinstitutionsbot-visits/)
 - [Things I Learned: Amazon Appstore for Android](https://social.emucafe.org/naferrell/02-20-25-amazon-appstore-for-android/)
-- [Things I Learned: IMDB’s Origins 35 Years Ago](https://social.emucafe.org/naferrell/02-07-25-imdb-usenet-origins/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
