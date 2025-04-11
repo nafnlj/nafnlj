@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the 2025 Crunchyroll Anime Awards](https://thenewleafjournal.com/choosing-the-2025-crunchyroll-anime-awards/)
 - [A Skypark Bridge to Sell You](https://thenewleafjournal.com/a-skypark-bridge-to-sell-you/)
 - [Amazon “Cargo Bikes” in Brooklyn](https://thenewleafjournal.com/amazon-cargo-bikes-in-brooklyn/)
 - [March 2025 at The New Leaf Journal](https://thenewleafjournal.com/march-2025-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Honey Lemon Soda – Anime Review](https://thenewleafjournal.com/honey-lemon-soda-anime-review/)
 - [“Like Literally Like” – Unclear Thinking and Speaking](https://thenewleafjournal.com/like-literally-like-unclear-thinking-and-speaking/)
 - [Hip Green Smoothies For April Fools](https://thenewleafjournal.com/hip-green-smoothies-for-april-fools/)
-- [Worst NBA Playoff Teams By SRS &lpar;1984-2024&rpar;](https://thenewleafjournal.com/worst-nba-playoff-teams-by-srs-1984-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
