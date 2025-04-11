@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Chinese Plastic Christmas Tree Manufacturers in Trouble](https://social.emucafe.org/naferrell/chinese-christmas-tree-tariffs-2025-04-11/)
 - [Things I Learned: Oldest Golfer to Shoot Under Par in Masters Round](https://social.emucafe.org/naferrell/2025-04-10-couples-watson-masters/)
 - [Fred Couples Shoots 71 in First Round of Masters](https://social.emucafe.org/naferrell/2025-04-10-couples-masters-71/)
 - [Installing Tinker WriterDeck OS On Old ASUS Netbook](https://social.emucafe.org/naferrell/04-07-2025-tinker-writerdeck/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: 13 U.S. States Ban Ranked-Choice Voting](https://social.emucafe.org/naferrell/03-25-25-us-rcv-bans/)
 - [My Haqqani Bounty Payment Hangs By a Thread](https://social.emucafe.org/naferrell/03-23-25-haqqani-bounty/)
 - [SBInstitutionsBot Visits Picked Up as Visitors](https://social.emucafe.org/naferrell/03-19-25-sbinstitutionsbot-visits/)
-- [Things I Learned: Amazon Appstore for Android](https://social.emucafe.org/naferrell/02-20-25-amazon-appstore-for-android/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
