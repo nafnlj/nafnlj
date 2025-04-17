@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Catching 151 Pokémon in Google Search](https://thenewleafjournal.com/catching-151-pokemon-in-google-search-04-17-25/)
 - [Choosing the 2025 Crunchyroll Anime Awards](https://thenewleafjournal.com/choosing-the-2025-crunchyroll-anime-awards/)
 - [A Skypark Bridge to Sell You](https://thenewleafjournal.com/a-skypark-bridge-to-sell-you/)
 - [Amazon “Cargo Bikes” in Brooklyn](https://thenewleafjournal.com/amazon-cargo-bikes-in-brooklyn/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Honey Lemon Soda Anime Hair Color Analysis](https://thenewleafjournal.com/honey-lemon-soda-anime-hair-color-analysis/)
 - [Honey Lemon Soda – Anime Review](https://thenewleafjournal.com/honey-lemon-soda-anime-review/)
 - [“Like Literally Like” – Unclear Thinking and Speaking](https://thenewleafjournal.com/like-literally-like-unclear-thinking-and-speaking/)
-- [Hip Green Smoothies For April Fools](https://thenewleafjournal.com/hip-green-smoothies-for-april-fools/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
