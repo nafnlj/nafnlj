@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: LTK](https://social.emucafe.org/naferrell/learning-about-ltk-2025-04-28/)
 - [Woodpecker in Brooklyn](https://social.emucafe.org/naferrell/woodpecker-in-brooklyn-04-22-2025/)
 - [Long Delays Between Anime Seasons](https://social.emucafe.org/naferrell/anime-delay-between-seasons/)
 - [Things I Learned: Chinese Plastic Christmas Tree Manufacturers in Trouble](https://social.emucafe.org/naferrell/chinese-christmas-tree-tariffs-2025-04-11/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Installing Tinker WriterDeck OS On Old ASUS Netbook](https://social.emucafe.org/naferrell/04-07-2025-tinker-writerdeck/)
 - [Things I Learned: Tinder is a Chatbot Dating Service](https://social.emucafe.org/naferrell/tinder-chatbot-dates-03-07-25/)
 - [Trillion Game Two-Part Season Finale](https://social.emucafe.org/naferrell/looking-forward-to-trillion-game-finale/)
-- [Things I Learned: 13 U.S. States Ban Ranked-Choice Voting](https://social.emucafe.org/naferrell/03-25-25-us-rcv-bans/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
