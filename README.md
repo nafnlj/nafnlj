@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Diagnosing Fictional Characters](https://thenewleafjournal.com/diagnosing-fictional-characters/)
 - [Portico Zebra on Cambridge Place in Clinton Hill](https://thenewleafjournal.com/portico-zebra-on-cambridge-place-in-clinton-hill/)
 - [50 Things I Learned in Five Years of NLJ Articles](https://thenewleafjournal.com/50-things-i-learned-in-five-years-of-nlj-articles/)
 - [Nobody Beats Kirby’s Dream Land at The Wiz](https://thenewleafjournal.com/nobody-beats-kirbys-dream-land-at-the-wiz/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Easter Sunday 2025](https://thenewleafjournal.com/easter-sunday-2025/)
 - [Catching 151 Pokémon in Google Search](https://thenewleafjournal.com/catching-151-pokemon-in-google-search-04-17-25/)
 - [Choosing the 2025 Crunchyroll Anime Awards](https://thenewleafjournal.com/choosing-the-2025-crunchyroll-anime-awards/)
-- [A Skypark Bridge to Sell You](https://thenewleafjournal.com/a-skypark-bridge-to-sell-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
