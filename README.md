@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Cavaliers’ Record Sweep of the Miami Heat](https://thenewleafjournal.com/2025-cavaliers-record-sweep-of-the-miami-heat/)
 - [A Solitary Tulip in Red Hook](https://thenewleafjournal.com/a-solitary-tulip-in-red-hook/)
 - [Diagnosing Fictional Characters](https://thenewleafjournal.com/diagnosing-fictional-characters/)
 - [Portico Zebra on Cambridge Place in Clinton Hill](https://thenewleafjournal.com/portico-zebra-on-cambridge-place-in-clinton-hill/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Crackers With Peanut Butter and Banana Slices](https://thenewleafjournal.com/crackers-with-peanut-butter-and-banana-slices/)
 - [“Best” NBA Playoff Teams With Losing Records](https://thenewleafjournal.com/best-nba-playoff-teams-with-losing-records/)
 - [Easter Sunday 2025](https://thenewleafjournal.com/easter-sunday-2025/)
-- [Catching 151 Pokémon in Google Search](https://thenewleafjournal.com/catching-151-pokemon-in-google-search-04-17-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
