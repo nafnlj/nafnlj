@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Williamsburg Christmas Tree in May 2025](https://thenewleafjournal.com/williamsburg-christmas-tree-in-may-2025/)
 - [BLOB DYLAN Seen in Williamsburg &lpar;May 2025&rpar;](https://thenewleafjournal.com/blob-dylan-seen-in-williamsburg-may-2025/)
 - [April 2025 at The New Leaf Journal](https://thenewleafjournal.com/april-2025-at-the-new-leaf-journal/)
 - [Checking Our RSS Service Subscriber Counts in Server Logs](https://thenewleafjournal.com/checking-our-rss-service-subscriber-counts-in-server-logs/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Diagnosing Fictional Characters](https://thenewleafjournal.com/diagnosing-fictional-characters/)
 - [Portico Zebra on Cambridge Place in Clinton Hill](https://thenewleafjournal.com/portico-zebra-on-cambridge-place-in-clinton-hill/)
 - [50 Things I Learned in Five Years of NLJ Articles](https://thenewleafjournal.com/50-things-i-learned-in-five-years-of-nlj-articles/)
-- [Nobody Beats Kirby’s Dream Land at The Wiz](https://thenewleafjournal.com/nobody-beats-kirbys-dream-land-at-the-wiz/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
