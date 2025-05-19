@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharing Handwritten Review of the Els Pet “Spaceship”](https://thenewleafjournal.com/sharing-handwritten-review-of-the-els-pet-spaceship/)
 - [NYC Open Streets Traffic Cone Shortage](https://thenewleafjournal.com/nyc-open-streets-traffic-cone-shortage-05-13-2025/)
 - [Foggy Manhattan Skyline &lpar;May 4, 2025&rpar;](https://thenewleafjournal.com/foggy-manhattan-skyline-may-4-2025/)
 - [Williamsburg Christmas Tree in May 2025](https://thenewleafjournal.com/williamsburg-christmas-tree-in-may-2025/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Checking Our RSS Service Subscriber Counts in Server Logs](https://thenewleafjournal.com/checking-our-rss-service-subscriber-counts-in-server-logs/)
 - [2025 Cavaliers’ Record Sweep of the Miami Heat](https://thenewleafjournal.com/2025-cavaliers-record-sweep-of-the-miami-heat/)
 - [A Solitary Tulip in Red Hook](https://thenewleafjournal.com/a-solitary-tulip-in-red-hook/)
-- [Diagnosing Fictional Characters](https://thenewleafjournal.com/diagnosing-fictional-characters/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
