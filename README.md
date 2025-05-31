@@ -7,6 +7,8 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Failing to Try Airport Illy Coffee Vending Machine](https://thenewleafjournal.com/failing-to-try-airport-illy-coffee-vending-machine/)
+- [Learning About William P. Hobby at Houston Hobby Airport](https://thenewleafjournal.com/learning-about-william-p-hobby-at-houston-hobby-airport/)
 - [The Bad Joke of NYC Ranked Choice Voting](https://thenewleafjournal.com/the-bad-joke-of-nyc-ranked-choice-voting/)
 - [Reviewing ANeko Reborn For Android](https://thenewleafjournal.com/reviewing-aneko-reborn-for-android/)
 - [Sharing Handwritten Review of the Els Pet “Spaceship”](https://thenewleafjournal.com/sharing-handwritten-review-of-the-els-pet-spaceship/)
@@ -14,8 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Foggy Manhattan Skyline &lpar;May 4, 2025&rpar;](https://thenewleafjournal.com/foggy-manhattan-skyline-may-4-2025/)
 - [Williamsburg Christmas Tree in May 2025](https://thenewleafjournal.com/williamsburg-christmas-tree-in-may-2025/)
 - [BLOB DYLAN Seen in Williamsburg &lpar;May 2025&rpar;](https://thenewleafjournal.com/blob-dylan-seen-in-williamsburg-may-2025/)
-- [April 2025 at The New Leaf Journal](https://thenewleafjournal.com/april-2025-at-the-new-leaf-journal/)
-- [Checking Our RSS Service Subscriber Counts in Server Logs](https://thenewleafjournal.com/checking-our-rss-service-subscriber-counts-in-server-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
