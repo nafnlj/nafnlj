@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Putting Together Ikea’s DVÄRGTALL Figures](https://thenewleafjournal.com/putting-together-ikeas-dvargtall-figures/)
 - [Domain-Specifc Google News RSS Feeds](https://thenewleafjournal.com/domain-specifc-google-news-rss-feeds/)
 - [&lpar;Syndicated&rpar; Newsletter Leaf Journal 234](https://thenewleafjournal.com/syndicated-newsletter-leaf-journal-234/)
 - [Why No New Articles?](https://thenewleafjournal.com/why-no-new-articles/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [The Bad Joke of NYC Ranked Choice Voting](https://thenewleafjournal.com/the-bad-joke-of-nyc-ranked-choice-voting/)
 - [Reviewing ANeko Reborn For Android](https://thenewleafjournal.com/reviewing-aneko-reborn-for-android/)
 - [Sharing Handwritten Review of the Els Pet “Spaceship”](https://thenewleafjournal.com/sharing-handwritten-review-of-the-els-pet-spaceship/)
-- [NYC Open Streets Traffic Cone Shortage](https://thenewleafjournal.com/nyc-open-streets-traffic-cone-shortage-05-13-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
