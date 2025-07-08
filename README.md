@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [LibreOffice Adding Markdown Support](https://social.emucafe.org/naferrell/libreoffice-markdown-support-07-07-25/)
 - [“killer for hire” Leaves Two Spam Comments](https://social.emucafe.org/naferrell/killer-for-hire-spam-comments-2025-05-03/)
 - [Waiting For a G3 Macintosh in 1998](https://social.emucafe.org/naferrell/waiting-for-a-g3-macintosh-2024-04-30/)
 - [Things I Learned: LTK](https://social.emucafe.org/naferrell/learning-about-ltk-2025-04-28/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Chinese Plastic Christmas Tree Manufacturers in Trouble](https://social.emucafe.org/naferrell/chinese-christmas-tree-tariffs-2025-04-11/)
 - [Things I Learned: Oldest Golfer to Shoot Under Par in Masters Round](https://social.emucafe.org/naferrell/2025-04-10-couples-watson-masters/)
 - [Fred Couples Shoots 71 in First Round of Masters](https://social.emucafe.org/naferrell/2025-04-10-couples-masters-71/)
-- [Installing Tinker WriterDeck OS On Old ASUS Netbook](https://social.emucafe.org/naferrell/04-07-2025-tinker-writerdeck/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
