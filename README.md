@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Five Years of the Koko Analytics WordPress Plugin](https://thenewleafjournal.com/five-years-of-the-koko-analytics-wordpress-plugin/)
 - [Full Text RSS Mishap](https://thenewleafjournal.com/full-text-rss-mishap/)
 - [On Forcing AI Where It Does Not Belong](https://thenewleafjournal.com/on-forcing-ai-where-it-does-not-belong/)
 - [On Online Reader Expectations](https://thenewleafjournal.com/on-online-reader-expectations/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Domain-Specifc Google News RSS Feeds](https://thenewleafjournal.com/domain-specifc-google-news-rss-feeds/)
 - [&lpar;Syndicated&rpar; Newsletter Leaf Journal 234](https://thenewleafjournal.com/syndicated-newsletter-leaf-journal-234/)
 - [Why No New Articles?](https://thenewleafjournal.com/why-no-new-articles/)
-- [Failing to Try Airport Illy Coffee Vending Machine](https://thenewleafjournal.com/failing-to-try-airport-illy-coffee-vending-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
