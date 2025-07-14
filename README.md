@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Elmo’s Bad Fur Day](https://social.emucafe.org/naferrell/elmos-bad-fur-day-07-14-25/)
 - [NYT Asks if NYC Should Go to Open Primaries](https://social.emucafe.org/naferrell/nyt-asks-if-nyc-should-go-to-open-primaries/)
 - [Google AI and WhatsApp](https://social.emucafe.org/naferrell/google-ai-whatsapp-07-08-25/)
 - [LibreOffice Adding Markdown Support](https://social.emucafe.org/naferrell/libreoffice-markdown-support-07-07-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: LTK](https://social.emucafe.org/naferrell/learning-about-ltk-2025-04-28/)
 - [Woodpecker in Brooklyn](https://social.emucafe.org/naferrell/woodpecker-in-brooklyn-04-22-2025/)
 - [Long Delays Between Anime Seasons](https://social.emucafe.org/naferrell/anime-delay-between-seasons/)
-- [Things I Learned: Chinese Plastic Christmas Tree Manufacturers in Trouble](https://social.emucafe.org/naferrell/chinese-christmas-tree-tariffs-2025-04-11/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
