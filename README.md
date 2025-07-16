@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Native RSS Feeds and Newsletters](https://social.emucafe.org/naferrell/rss-feeds-and-newsletters-07-16-25/)
 - [Lenovo ThinkCenter With Guarana Fanta Soda on Ebay](https://social.emucafe.org/naferrell/mini-pc-with-soda-on-ebay-07-14-25/)
 - [Elmo’s Bad Fur Day](https://social.emucafe.org/naferrell/elmos-bad-fur-day-07-14-25/)
 - [NYT Asks if NYC Should Go to Open Primaries](https://social.emucafe.org/naferrell/nyt-asks-if-nyc-should-go-to-open-primaries/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [“killer for hire” Leaves Two Spam Comments](https://social.emucafe.org/naferrell/killer-for-hire-spam-comments-2025-05-03/)
 - [Waiting For a G3 Macintosh in 1998](https://social.emucafe.org/naferrell/waiting-for-a-g3-macintosh-2024-04-30/)
 - [Things I Learned: LTK](https://social.emucafe.org/naferrell/learning-about-ltk-2025-04-28/)
-- [Woodpecker in Brooklyn](https://social.emucafe.org/naferrell/woodpecker-in-brooklyn-04-22-2025/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
