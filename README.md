@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Congresswoman Glusenkamp Perez Tackles Headlights](https://social.emucafe.org/naferrell/glusenkamp-perez-tackles-headlights-07-18-25/)
 - [Using Android Device as PC Remote Input](https://social.emucafe.org/naferrell/using-android-device-as-pc-remote-input/)
 - [Blocking Independent Search Crawlers](https://social.emucafe.org/naferrell/blocking-independent-search-crawlers-07-17-25/)
 - [Native RSS Feeds and Newsletters](https://social.emucafe.org/naferrell/rss-feeds-and-newsletters-07-16-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [NYT Asks if NYC Should Go to Open Primaries](https://social.emucafe.org/naferrell/nyt-asks-if-nyc-should-go-to-open-primaries/)
 - [Google AI and WhatsApp](https://social.emucafe.org/naferrell/google-ai-whatsapp-07-08-25/)
 - [LibreOffice Adding Markdown Support](https://social.emucafe.org/naferrell/libreoffice-markdown-support-07-07-25/)
-- [“killer for hire” Leaves Two Spam Comments](https://social.emucafe.org/naferrell/killer-for-hire-spam-comments-2025-05-03/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
