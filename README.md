@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pacquiao’s Reasonably Successful Comeback](https://social.emucafe.org/naferrell/the-pacquiao-comeback-07-21-25/)
 - [Old Tour de France Stage Profiles](https://social.emucafe.org/naferrell/missing-tour-de-france-stage-profiles-07-20-25/)
 - [Candidate Cuomo Threatens to Move to Florida](https://social.emucafe.org/naferrell/candidate-cuomo-threatens-to-move-to-florida/)
 - [NYC Jungle Primary Proposal Will Not Be On Ballot](https://social.emucafe.org/naferrell/nyc-jungle-primary-ballot-07-18-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Blocking Independent Search Crawlers](https://social.emucafe.org/naferrell/blocking-independent-search-crawlers-07-17-25/)
 - [Native RSS Feeds and Newsletters](https://social.emucafe.org/naferrell/rss-feeds-and-newsletters-07-16-25/)
 - [Lenovo ThinkCenter With Guarana Fanta Soda on Ebay](https://social.emucafe.org/naferrell/mini-pc-with-soda-on-ebay-07-14-25/)
-- [Elmo’s Bad Fur Day](https://social.emucafe.org/naferrell/elmos-bad-fur-day-07-14-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
