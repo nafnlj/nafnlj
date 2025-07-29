@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [NY Moving to Allow Drug Shops Closer to Schools](https://social.emucafe.org/naferrell/ny-ocm-convenient-error-07-29-25/)
 - [Unrequited Love in OKITSURA Anime](https://social.emucafe.org/naferrell/unrequited-love-in-okitsura-07-28-25/)
 - [Blocking B@nk$y in Miniflux](https://social.emucafe.org/naferrell/blocking-banksy-in-miniflux-07-27-25/)
 - [Kaiju No. 8 Game News Reminds Me to Start Anime S2](https://social.emucafe.org/naferrell/kaiju-no-8-game-and-anime-07-25-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pacquiao’s Reasonably Successful Comeback](https://social.emucafe.org/naferrell/the-pacquiao-comeback-07-21-25/)
 - [Old Tour de France Stage Profiles](https://social.emucafe.org/naferrell/missing-tour-de-france-stage-profiles-07-20-25/)
 - [Candidate Cuomo Threatens to Move to Florida](https://social.emucafe.org/naferrell/candidate-cuomo-threatens-to-move-to-florida/)
-- [NYC Jungle Primary Proposal Will Not Be On Ballot](https://social.emucafe.org/naferrell/nyc-jungle-primary-ballot-07-18-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
