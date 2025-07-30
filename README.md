@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Jim Walden’s NYC Mayor Campaign Car](https://thenewleafjournal.com/jim-waldens-nyc-mayor-campaign-car/)
 - [The Death of Windows XP and My First Linux Netbook](https://thenewleafjournal.com/the-death-of-windows-xp-and-my-first-linux-netbook/)
 - [Ventoux Too: Pogačar’s New TDF Climbing Record](https://thenewleafjournal.com/ventoux-too-pogacars-new-tdf-climbing-record/)
 - [Window Washing Machine Couple in Ridgewood](https://thenewleafjournal.com/window-washing-machine-couple-in-ridgewood/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Pogačar Chases Riis on Hautacam](https://thenewleafjournal.com/pogacar-chases-riis-on-hautacam/)
 - [Five Years of the Koko Analytics WordPress Plugin](https://thenewleafjournal.com/five-years-of-the-koko-analytics-wordpress-plugin/)
 - [Full Text RSS Mishap](https://thenewleafjournal.com/full-text-rss-mishap/)
-- [On Forcing AI Where It Does Not Belong](https://thenewleafjournal.com/on-forcing-ai-where-it-does-not-belong/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
