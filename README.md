@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Kazuya’s Hair Color in Rent-A-Girlfriend](https://thenewleafjournal.com/kazuyas-hair-color-in-rent-a-girlfriend/)
 - [Garbage and Free Stuff in Red Hook, Brooklyn](https://thenewleafjournal.com/garbage-and-free-stuff-in-red-hook-brooklyn/)
 - [Finding the Best RSS/ATOM Feed](https://thenewleafjournal.com/finding-the-best-rss-atom-feed/)
 - [Inflatable Gnome in Bikini in Brooklyn](https://thenewleafjournal.com/inflatable-gnome-in-bikini-in-brooklyn/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Ventoux Too: Pogačar’s New TDF Climbing Record](https://thenewleafjournal.com/ventoux-too-pogacars-new-tdf-climbing-record/)
 - [Window Washing Machine Couple in Ridgewood](https://thenewleafjournal.com/window-washing-machine-couple-in-ridgewood/)
 - [Happy Cleaners Cargo Trike in Gowanus](https://thenewleafjournal.com/happy-cleaners-cargo-trike-in-gowanus/)
-- [Overheard: I am THE MAT](https://thenewleafjournal.com/overheard-i-am-the-mat/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
