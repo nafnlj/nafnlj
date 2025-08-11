@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Unanswered Question in amNY Shooting Report](https://social.emucafe.org/naferrell/amny-shooting-report-questions-07-11-25/)
 - [NewsBreak App?](https://social.emucafe.org/naferrell/newsbreak-app-07-31-25/)
 - [NY Moving to Allow Drug Shops Closer to Schools](https://social.emucafe.org/naferrell/ny-ocm-convenient-error-07-29-25/)
 - [Unrequited Love in OKITSURA Anime](https://social.emucafe.org/naferrell/unrequited-love-in-okitsura-07-28-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Ullrich’s Col de la Madeleine Record Stands](https://social.emucafe.org/naferrell/ullrichs-col-de-la-madeleine-record-stands-07-24-25/)
 - [Southwest Airline’s Assigned Seating](https://social.emucafe.org/naferrell/southwest-airlines-assigned-seating-07-23-25/)
 - [Pacquiao’s Reasonably Successful Comeback](https://social.emucafe.org/naferrell/the-pacquiao-comeback-07-21-25/)
-- [Old Tour de France Stage Profiles](https://social.emucafe.org/naferrell/missing-tour-de-france-stage-profiles-07-20-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
