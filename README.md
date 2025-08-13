@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Strange NYT “Snubbed” Headline](https://social.emucafe.org/naferrell/strange-nyt-snubbed-headline/)
+- [Things I Learned: Autism and Prenatal Substance Exposure](https://social.emucafe.org/naferrell/pse-and-autism-diagnoses-07-12-25/)
 - [Reddit vs Internet Archive and AI Scrapers](https://social.emucafe.org/naferrell/reddit-vs-ia-vs-ai-07-11-25/)
 - [On Efforts to Ban Gas-Powered Leaf Blowers](https://social.emucafe.org/naferrell/banning-gas-powered-leaf-blowers-07-11-25/)
 - [Unanswered Question in amNY Shooting Report](https://social.emucafe.org/naferrell/amny-shooting-report-questions-07-11-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [NY Moving to Allow Drug Shops Closer to Schools](https://social.emucafe.org/naferrell/ny-ocm-convenient-error-07-29-25/)
 - [Unrequited Love in OKITSURA Anime](https://social.emucafe.org/naferrell/unrequited-love-in-okitsura-07-28-25/)
 - [Blocking B@nk$y in Miniflux](https://social.emucafe.org/naferrell/blocking-banksy-in-miniflux-07-27-25/)
-- [Kaiju No. 8 Game News Reminds Me to Start Anime S2](https://social.emucafe.org/naferrell/kaiju-no-8-game-and-anime-07-25-25/)
-- [Ullrich’s Col de la Madeleine Record Stands](https://social.emucafe.org/naferrell/ullrichs-col-de-la-madeleine-record-stands-07-24-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
