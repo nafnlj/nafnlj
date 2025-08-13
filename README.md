@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Protecting New Trees in Greenpoint, Brooklyn](https://social.emucafe.org/naferrell/protecting-new-trees-in-greenpoint-brooklyn/)
 - [Strange NYT “Snubbed” Headline](https://social.emucafe.org/naferrell/strange-nyt-snubbed-headline/)
 - [Things I Learned: Autism and Prenatal Substance Exposure](https://social.emucafe.org/naferrell/pse-and-autism-diagnoses-07-12-25/)
 - [Reddit vs Internet Archive and AI Scrapers](https://social.emucafe.org/naferrell/reddit-vs-ia-vs-ai-07-11-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [NewsBreak App?](https://social.emucafe.org/naferrell/newsbreak-app-07-31-25/)
 - [NY Moving to Allow Drug Shops Closer to Schools](https://social.emucafe.org/naferrell/ny-ocm-convenient-error-07-29-25/)
 - [Unrequited Love in OKITSURA Anime](https://social.emucafe.org/naferrell/unrequited-love-in-okitsura-07-28-25/)
-- [Blocking B@nk$y in Miniflux](https://social.emucafe.org/naferrell/blocking-banksy-in-miniflux-07-27-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
