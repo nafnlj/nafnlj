@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [My Boxed Water Is Better Story](https://thenewleafjournal.com/my-boxed-water-is-better-story/)
 - [Coca Cola Liquid Death Tag](https://thenewleafjournal.com/coca-cola-liquid-death-tag/)
 - [U.S. Air Force Targets Cybertrucks](https://thenewleafjournal.com/u-s-air-force-targets-cybertrucks/)
 - [Kazuya’s Hair Color in Rent-A-Girlfriend](https://thenewleafjournal.com/kazuyas-hair-color-in-rent-a-girlfriend/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Inflatable Gnome in Bikini in Brooklyn](https://thenewleafjournal.com/inflatable-gnome-in-bikini-in-brooklyn/)
 - [Jim Walden’s NYC Mayor Campaign Car](https://thenewleafjournal.com/jim-waldens-nyc-mayor-campaign-car/)
 - [The Death of Windows XP and My First Linux Netbook](https://thenewleafjournal.com/the-death-of-windows-xp-and-my-first-linux-netbook/)
-- [Ventoux Too: Pogačar’s New TDF Climbing Record](https://thenewleafjournal.com/ventoux-too-pogacars-new-tdf-climbing-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
