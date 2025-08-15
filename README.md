@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [NY Law On Dealing Drugs to Children](https://social.emucafe.org/naferrell/ny-law-on-dealing-drugs-to-children/)
 - [Peet’s Coffee Now Provider for Southwest Airlines](https://social.emucafe.org/naferrell/peets-coffee-sw-airlines-07-14-25/)
 - [Protecting New Trees in Greenpoint, Brooklyn](https://social.emucafe.org/naferrell/protecting-new-trees-in-greenpoint-brooklyn/)
 - [Strange NYT “Snubbed” Headline](https://social.emucafe.org/naferrell/strange-nyt-snubbed-headline/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [On Efforts to Ban Gas-Powered Leaf Blowers](https://social.emucafe.org/naferrell/banning-gas-powered-leaf-blowers-07-11-25/)
 - [Unanswered Question in amNY Shooting Report](https://social.emucafe.org/naferrell/amny-shooting-report-questions-07-11-25/)
 - [NewsBreak App?](https://social.emucafe.org/naferrell/newsbreak-app-07-31-25/)
-- [NY Moving to Allow Drug Shops Closer to Schools](https://social.emucafe.org/naferrell/ny-ocm-convenient-error-07-29-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
