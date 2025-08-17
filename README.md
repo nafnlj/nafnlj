@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Hacker News Becomes Hacker AI News](https://social.emucafe.org/naferrell/hacker-news-ai-volume-08-17-25/)
+- [Hetzner VPS and Cloudron for WordPress Hosting](https://social.emucafe.org/naferrell/wordpress-with-hetzner-and-cloudron-08-17-25/)
 - [NY Law On Dealing Drugs to Children](https://social.emucafe.org/naferrell/ny-law-on-dealing-drugs-to-children/)
 - [Peet’s Coffee Now Provider for Southwest Airlines](https://social.emucafe.org/naferrell/peets-coffee-sw-airlines-07-14-25/)
 - [Protecting New Trees in Greenpoint, Brooklyn](https://social.emucafe.org/naferrell/protecting-new-trees-in-greenpoint-brooklyn/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Autism and Prenatal Substance Exposure](https://social.emucafe.org/naferrell/pse-and-autism-diagnoses-07-12-25/)
 - [Reddit vs Internet Archive and AI Scrapers](https://social.emucafe.org/naferrell/reddit-vs-ia-vs-ai-07-11-25/)
 - [On Efforts to Ban Gas-Powered Leaf Blowers](https://social.emucafe.org/naferrell/banning-gas-powered-leaf-blowers-07-11-25/)
-- [Unanswered Question in amNY Shooting Report](https://social.emucafe.org/naferrell/amny-shooting-report-questions-07-11-25/)
-- [NewsBreak App?](https://social.emucafe.org/naferrell/newsbreak-app-07-31-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
