@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [IBM Insists Sports Fans Want AI](https://social.emucafe.org/naferrell/ibm-sports-fan-ai-08-20-25/)
 - [My Six Flags Memory](https://social.emucafe.org/naferrell/my-six-flags-memory-08-19-25/)
 - [Checking in on King Salman of Saudi Arabia](https://social.emucafe.org/naferrell/king-salman-saudi-arabia-update-08-18-2025/)
 - [Question About U.S. Bombing al-Shabab in Somalia](https://social.emucafe.org/naferrell/al-shabab-strikes-and-cybertrucks-08-18-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [NY Law On Dealing Drugs to Children](https://social.emucafe.org/naferrell/ny-law-on-dealing-drugs-to-children/)
 - [Peet’s Coffee Now Provider for Southwest Airlines](https://social.emucafe.org/naferrell/peets-coffee-sw-airlines-07-14-25/)
 - [Protecting New Trees in Greenpoint, Brooklyn](https://social.emucafe.org/naferrell/protecting-new-trees-in-greenpoint-brooklyn/)
-- [Strange NYT “Snubbed” Headline](https://social.emucafe.org/naferrell/strange-nyt-snubbed-headline/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
