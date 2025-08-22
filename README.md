@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Yume no Nake e Reference Reminds of Kare Kano](https://social.emucafe.org/naferrell/yume-no-naka-e-ref-kare-kano-08-22-25/)
+- [User Agent Watch: GodHatesMastodon](https://social.emucafe.org/naferrell/user-agent-godhatesmastodon-08-22-25/)
 - [IBM Insists Sports Fans Want AI](https://social.emucafe.org/naferrell/ibm-sports-fan-ai-08-20-25/)
 - [My Six Flags Memory](https://social.emucafe.org/naferrell/my-six-flags-memory-08-19-25/)
 - [Checking in on King Salman of Saudi Arabia](https://social.emucafe.org/naferrell/king-salman-saudi-arabia-update-08-18-2025/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Hacker News Becomes Hacker AI News](https://social.emucafe.org/naferrell/hacker-news-ai-volume-08-17-25/)
 - [Hetzner VPS and Cloudron for WordPress Hosting](https://social.emucafe.org/naferrell/wordpress-with-hetzner-and-cloudron-08-17-25/)
 - [NY Law On Dealing Drugs to Children](https://social.emucafe.org/naferrell/ny-law-on-dealing-drugs-to-children/)
-- [Peet’s Coffee Now Provider for Southwest Airlines](https://social.emucafe.org/naferrell/peets-coffee-sw-airlines-07-14-25/)
-- [Protecting New Trees in Greenpoint, Brooklyn](https://social.emucafe.org/naferrell/protecting-new-trees-in-greenpoint-brooklyn/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
