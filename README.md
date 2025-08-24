@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; Linking to books online](https://social.emucafe.org/naferrell/re-linking-to-books-online-08-23-25/)
 - [Yume no Nake e Reference Reminds of Kare Kano](https://social.emucafe.org/naferrell/yume-no-naka-e-ref-kare-kano-08-22-25/)
 - [User Agent Watch: GodHatesMastodon](https://social.emucafe.org/naferrell/user-agent-godhatesmastodon-08-22-25/)
 - [IBM Insists Sports Fans Want AI](https://social.emucafe.org/naferrell/ibm-sports-fan-ai-08-20-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Question About U.S. Bombing al-Shabab in Somalia](https://social.emucafe.org/naferrell/al-shabab-strikes-and-cybertrucks-08-18-25/)
 - [Hacker News Becomes Hacker AI News](https://social.emucafe.org/naferrell/hacker-news-ai-volume-08-17-25/)
 - [Hetzner VPS and Cloudron for WordPress Hosting](https://social.emucafe.org/naferrell/wordpress-with-hetzner-and-cloudron-08-17-25/)
-- [NY Law On Dealing Drugs to Children](https://social.emucafe.org/naferrell/ny-law-on-dealing-drugs-to-children/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
