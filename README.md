@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Should Switch 2 Key Cards Be Preserved?](https://social.emucafe.org/naferrell/should-switch-2-key-cards-be-preserved-08-26-25/)
 - [Keurig Dr. Pepper Acquires Peet’s](https://social.emucafe.org/naferrell/keurg-drpepper-acquires-peets-08-26-25/)
 - [Samurai Pizza Cats Memories](https://social.emucafe.org/naferrell/samurai-pizza-cats-memories-08-25-25/)
 - [Re; Linking to books online](https://social.emucafe.org/naferrell/re-linking-to-books-online-08-23-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [IBM Insists Sports Fans Want AI](https://social.emucafe.org/naferrell/ibm-sports-fan-ai-08-20-25/)
 - [My Six Flags Memory](https://social.emucafe.org/naferrell/my-six-flags-memory-08-19-25/)
 - [Checking in on King Salman of Saudi Arabia](https://social.emucafe.org/naferrell/king-salman-saudi-arabia-update-08-18-2025/)
-- [Question About U.S. Bombing al-Shabab in Somalia](https://social.emucafe.org/naferrell/al-shabab-strikes-and-cybertrucks-08-18-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
