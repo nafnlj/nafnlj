@@ -7,6 +7,8 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinkbot Visits The New Leaf Journal](https://thenewleafjournal.com/thinkbot-visits-the-new-leaf-journal/)
+- [July 2025 at The New Leaf Journal](https://thenewleafjournal.com/july-2025-at-the-new-leaf-journal/)
 - [May and June 2025 at The New Leaf Journal](https://thenewleafjournal.com/may-and-june-2025-at-the-new-leaf-journal/)
 - [Against the Coffee Palmer](https://thenewleafjournal.com/against-the-coffee-palmer/)
 - [Free Desk on Love Lane in Brooklyn Heights](https://thenewleafjournal.com/free-desk-on-love-lane-in-brooklyn-heights/)
@@ -14,8 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [My Boxed Water Is Better Story](https://thenewleafjournal.com/my-boxed-water-is-better-story/)
 - [Coca Cola Liquid Death Tag](https://thenewleafjournal.com/coca-cola-liquid-death-tag/)
 - [U.S. Air Force Targets Cybertrucks](https://thenewleafjournal.com/u-s-air-force-targets-cybertrucks/)
-- [Kazuya’s Hair Color in Rent-A-Girlfriend](https://thenewleafjournal.com/kazuyas-hair-color-in-rent-a-girlfriend/)
-- [Garbage and Free Stuff in Red Hook, Brooklyn](https://thenewleafjournal.com/garbage-and-free-stuff-in-red-hook-brooklyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
