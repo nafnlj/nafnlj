@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [LoH Trails in the Sky Remake Gets Simultaneous Global Release](https://social.emucafe.org/naferrell/loh-trails-in-the-sky-remake-gets-simultaneous-global-release/)
 - [Salesforce Layoffs](https://social.emucafe.org/naferrell/salesforce-layoffs-09-02-2025/)
 - [The Black Tux Box](https://social.emucafe.org/naferrell/black-tux-box-08-30-2025/)
 - [Debloating Fire Tablet](https://social.emucafe.org/naferrell/debloating-fire-tablet-08-29-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Samurai Pizza Cats Memories](https://social.emucafe.org/naferrell/samurai-pizza-cats-memories-08-25-25/)
 - [Re; Linking to books online](https://social.emucafe.org/naferrell/re-linking-to-books-online-08-23-25/)
 - [Yume no Nake e Reference Reminds of Kare Kano](https://social.emucafe.org/naferrell/yume-no-naka-e-ref-kare-kano-08-22-25/)
-- [User Agent Watch: GodHatesMastodon](https://social.emucafe.org/naferrell/user-agent-godhatesmastodon-08-22-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
