@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird Crossing Sign By Swan Club on the Harbor](https://thenewleafjournal.com/bird-crossing-sign-by-swan-club-on-the-harbor/)
 - [Thinkbot Visits The New Leaf Journal](https://thenewleafjournal.com/thinkbot-visits-the-new-leaf-journal/)
 - [July 2025 at The New Leaf Journal](https://thenewleafjournal.com/july-2025-at-the-new-leaf-journal/)
 - [May and June 2025 at The New Leaf Journal](https://thenewleafjournal.com/may-and-june-2025-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Missing the “Liquid Death” Marketing Campaign](https://thenewleafjournal.com/missing-the-liquid-death-marketing-campaign/)
 - [My Boxed Water Is Better Story](https://thenewleafjournal.com/my-boxed-water-is-better-story/)
 - [Coca Cola Liquid Death Tag](https://thenewleafjournal.com/coca-cola-liquid-death-tag/)
-- [U.S. Air Force Targets Cybertrucks](https://thenewleafjournal.com/u-s-air-force-targets-cybertrucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
