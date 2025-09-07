@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Clever Newsletter Title](https://social.emucafe.org/naferrell/clever-newsletter-title-09-06-2025/)
 - [2024-25 Miami Heat in Close Games](https://social.emucafe.org/naferrell/2024-25-miami-heat-in-close-games-09-05-2025/)
 - [Death Wish Coffee?](https://social.emucafe.org/naferrell/death-wish-coffee-09-05-2025/)
 - [LoH Trails in the Sky Remake Gets Simultaneous Global Release](https://social.emucafe.org/naferrell/loh-trails-in-the-sky-remake-gets-simultaneous-global-release/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Debloating Fire Tablet](https://social.emucafe.org/naferrell/debloating-fire-tablet-08-29-25/)
 - [Should Switch 2 Key Cards Be Preserved?](https://social.emucafe.org/naferrell/should-switch-2-key-cards-be-preserved-08-26-25/)
 - [Keurig Dr. Pepper Acquires Peet’s](https://social.emucafe.org/naferrell/keurg-drpepper-acquires-peets-08-26-25/)
-- [Samurai Pizza Cats Memories](https://social.emucafe.org/naferrell/samurai-pizza-cats-memories-08-25-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
