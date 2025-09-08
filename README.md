@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pokémon Veterans](https://social.emucafe.org/naferrell/pokemon-veterans-09-08-2025/)
 - [Jim Walden Suspends Campaign For NYC Mayor](https://social.emucafe.org/naferrell/jim-walden-suspends-campaign-for-nyc-mayor-09-07-2025/)
 - [Clever Newsletter Title](https://social.emucafe.org/naferrell/clever-newsletter-title-09-06-2025/)
 - [2024-25 Miami Heat in Close Games](https://social.emucafe.org/naferrell/2024-25-miami-heat-in-close-games-09-05-2025/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Salesforce Layoffs](https://social.emucafe.org/naferrell/salesforce-layoffs-09-02-2025/)
 - [The Black Tux Box](https://social.emucafe.org/naferrell/black-tux-box-08-30-2025/)
 - [Debloating Fire Tablet](https://social.emucafe.org/naferrell/debloating-fire-tablet-08-29-25/)
-- [Should Switch 2 Key Cards Be Preserved?](https://social.emucafe.org/naferrell/should-switch-2-key-cards-be-preserved-08-26-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
