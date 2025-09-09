@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Returning to Statify from Koko Analytics](https://social.emucafe.org/naferrell/returning-to-statify-from-koko-09-09-2025/)
 - [Returning to Koko Analytics From Statify?](https://social.emucafe.org/naferrell/returning-to-koko-analytics-from-statify-09-09-2025/)
 - [Pokémon Veterans](https://social.emucafe.org/naferrell/pokemon-veterans-09-08-2025/)
 - [Jim Walden Suspends Campaign For NYC Mayor](https://social.emucafe.org/naferrell/jim-walden-suspends-campaign-for-nyc-mayor-09-07-2025/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Death Wish Coffee?](https://social.emucafe.org/naferrell/death-wish-coffee-09-05-2025/)
 - [LoH Trails in the Sky Remake Gets Simultaneous Global Release](https://social.emucafe.org/naferrell/loh-trails-in-the-sky-remake-gets-simultaneous-global-release/)
 - [Salesforce Layoffs](https://social.emucafe.org/naferrell/salesforce-layoffs-09-02-2025/)
-- [The Black Tux Box](https://social.emucafe.org/naferrell/black-tux-box-08-30-2025/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
