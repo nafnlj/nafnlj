@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; A Tribute to Charlie Kirk](https://social.emucafe.org/naferrell/re-a-tribute-to-charlie-kirk-09-11-2025/)
+- [Teaching 9/11](https://social.emucafe.org/naferrell/teaching-9-11-2025/)
 - [Returning to Statify from Koko Analytics](https://social.emucafe.org/naferrell/returning-to-statify-from-koko-09-09-2025/)
 - [Returning to Koko Analytics From Statify?](https://social.emucafe.org/naferrell/returning-to-koko-analytics-from-statify-09-09-2025/)
 - [Pokémon Veterans](https://social.emucafe.org/naferrell/pokemon-veterans-09-08-2025/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Clever Newsletter Title](https://social.emucafe.org/naferrell/clever-newsletter-title-09-06-2025/)
 - [2024-25 Miami Heat in Close Games](https://social.emucafe.org/naferrell/2024-25-miami-heat-in-close-games-09-05-2025/)
 - [Death Wish Coffee?](https://social.emucafe.org/naferrell/death-wish-coffee-09-05-2025/)
-- [LoH Trails in the Sky Remake Gets Simultaneous Global Release](https://social.emucafe.org/naferrell/loh-trails-in-the-sky-remake-gets-simultaneous-global-release/)
-- [Salesforce Layoffs](https://social.emucafe.org/naferrell/salesforce-layoffs-09-02-2025/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
