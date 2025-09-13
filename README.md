@@ -43,12 +43,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [Newsletter Leaf Journal CCXLV 〜 Address authenticator](https://buttondown.com/newsletterleafjournal/archive/245/)
 - [Newsletter Leaf Journal CXLIV 〜 54-hole week](https://buttondown.com/newsletterleafjournal/archive/244/)
 - [Newsletter Leaf Journal CCXLIII 〜 Dr. Thinknewsletter](https://buttondown.com/newsletterleafjournal/archive/243/)
 - [Newsletter Leaf Journal CCXLII: Liquid Desk](https://buttondown.com/newsletterleafjournal/archive/242/)
 - [Newsletter Leaf Journal CCXLI 〜 Boxed Newsbetter](https://buttondown.com/newsletterleafjournal/archive/241/)
 - [Newsletter Leaf Journal CCXL 〜 Garbage RSS](https://buttondown.com/newsletterleafjournal/archive/240/)
-- [Newsletter Leaf Journal CCXXXIX 〜 Walden gnome](https://buttondown.com/newsletterleafjournal/archive/239/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
