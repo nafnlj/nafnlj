@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Inflatable Back to School Gnome in Brooklyn](https://thenewleafjournal.com/inflatable-back-to-school-gnome-in-brooklyn/)
 - [Broken Wheel on Amazon eQuad Cargo Bike in Brooklyn Heights](https://thenewleafjournal.com/broken-wheel-on-amazon-equad-cargo-bike-in-brooklyn-heights/)
 - [Jim Walden’s Connecticut Plates](https://thenewleafjournal.com/jim-waldens-connecticut-plates/)
 - [August 2025 at The New Leaf Journal](https://thenewleafjournal.com/august-2025-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Thinkbot Visits The New Leaf Journal](https://thenewleafjournal.com/thinkbot-visits-the-new-leaf-journal/)
 - [July 2025 at The New Leaf Journal](https://thenewleafjournal.com/july-2025-at-the-new-leaf-journal/)
 - [May and June 2025 at The New Leaf Journal](https://thenewleafjournal.com/may-and-june-2025-at-the-new-leaf-journal/)
-- [Against the Coffee Palmer](https://thenewleafjournal.com/against-the-coffee-palmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
