@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviewing iMoon For Ubuntu Touch](https://thenewleafjournal.com/reviewing-imoon-for-ubuntu-touch/)
 - [Using a Small Paper Clip as SIM Tray Tool](https://thenewleafjournal.com/using-a-small-paper-clip-as-sim-tray-tool/)
 - [Christmas Countdown Clock in September](https://thenewleafjournal.com/christmas-countdown-clock-in-september/)
 - [Trying Droidian on a Google Pixel 3a XL](https://thenewleafjournal.com/trying-droidian-on-a-google-pixel-3a-xl/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Jim Walden’s Connecticut Plates](https://thenewleafjournal.com/jim-waldens-connecticut-plates/)
 - [August 2025 at The New Leaf Journal](https://thenewleafjournal.com/august-2025-at-the-new-leaf-journal/)
 - [Aegis Authenticator and Linux Authenticator](https://thenewleafjournal.com/aegis-authenticator-and-linux-authenticator/)
-- [Bird Crossing Sign By Swan Club on the Harbor](https://thenewleafjournal.com/bird-crossing-sign-by-swan-club-on-the-harbor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
