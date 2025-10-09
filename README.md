@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Microphone Struggles With Teams on Brave](https://social.emucafe.org/naferrell/microphone-struggles-with-teams-on-brave-10-09-25/)
 - [Topping Off Mullvad Account With Amazon Cards](https://social.emucafe.org/naferrell/topping-off-mullvad-account-with-amazon-cards-10-08-25/)
 - [MMS Issue on Ubuntu Touch](https://social.emucafe.org/naferrell/mms-issue-on-ubuntu-touch-10-06-25/)
 - [Using the Raspberry Pi Imager](https://social.emucafe.org/naferrell/using-the-raspberry-pi-imager-10-05-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Firefox Has Its Priorities in Order](https://social.emucafe.org/naferrell/firefox-has-its-priorities-in-order/)
 - [Re; A Tribute to Charlie Kirk](https://social.emucafe.org/naferrell/re-a-tribute-to-charlie-kirk-09-11-2025/)
 - [Teaching 9/11](https://social.emucafe.org/naferrell/teaching-9-11-2025/)
-- [Returning to Statify from Koko Analytics](https://social.emucafe.org/naferrell/returning-to-statify-from-koko-09-09-2025/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
