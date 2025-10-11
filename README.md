@@ -7,6 +7,8 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Early Rotting Carved Halloween Pumpkins in Brooklyn](https://thenewleafjournal.com/early-rotting-carved-halloween-pumpkins-in-brooklyn/)
+- [Inflatable Fall Crow in Cobble Hill](https://thenewleafjournal.com/inflatable-fall-crow-in-cobble-hill/)
 - [Reviewing iMoon For Ubuntu Touch](https://thenewleafjournal.com/reviewing-imoon-for-ubuntu-touch/)
 - [Using a Small Paper Clip as SIM Tray Tool](https://thenewleafjournal.com/using-a-small-paper-clip-as-sim-tray-tool/)
 - [Christmas Countdown Clock in September](https://thenewleafjournal.com/christmas-countdown-clock-in-september/)
@@ -14,8 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Inflatable Back to School Gnome in Brooklyn](https://thenewleafjournal.com/inflatable-back-to-school-gnome-in-brooklyn/)
 - [Broken Wheel on Amazon eQuad Cargo Bike in Brooklyn Heights](https://thenewleafjournal.com/broken-wheel-on-amazon-equad-cargo-bike-in-brooklyn-heights/)
 - [Jim Walden’s Connecticut Plates](https://thenewleafjournal.com/jim-waldens-connecticut-plates/)
-- [August 2025 at The New Leaf Journal](https://thenewleafjournal.com/august-2025-at-the-new-leaf-journal/)
-- [Aegis Authenticator and Linux Authenticator](https://thenewleafjournal.com/aegis-authenticator-and-linux-authenticator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
