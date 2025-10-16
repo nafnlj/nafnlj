@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Memories of Shiny Drowzee in Pokémon Gold](https://thenewleafjournal.com/memories-of-shiny-drowzee-in-pokemon-gold/)
 - [Interview With Victor V. Gurbo On Outrun the Invisible Man](https://thenewleafjournal.com/interview-with-victor-v-gurbo-on-outrun-the-invisible-man/)
 - [Early Rotting Carved Halloween Pumpkins in Brooklyn](https://thenewleafjournal.com/early-rotting-carved-halloween-pumpkins-in-brooklyn/)
 - [Inflatable Fall Crow in Cobble Hill](https://thenewleafjournal.com/inflatable-fall-crow-in-cobble-hill/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Christmas Countdown Clock in September](https://thenewleafjournal.com/christmas-countdown-clock-in-september/)
 - [Trying Droidian on a Google Pixel 3a XL](https://thenewleafjournal.com/trying-droidian-on-a-google-pixel-3a-xl/)
 - [Inflatable Back to School Gnome in Brooklyn](https://thenewleafjournal.com/inflatable-back-to-school-gnome-in-brooklyn/)
-- [Broken Wheel on Amazon eQuad Cargo Bike in Brooklyn Heights](https://thenewleafjournal.com/broken-wheel-on-amazon-equad-cargo-bike-in-brooklyn-heights/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
