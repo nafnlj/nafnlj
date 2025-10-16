@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [NLJ Backlink Watch: Norwegian Publisher Press Releases](https://social.emucafe.org/naferrell/norwegian-press-release-nlj-backlink-10-15-25/)
 - [Things I Learned: FunOS Sounds Fun](https://social.emucafe.org/naferrell/things-i-learned-funos-sounds-fun/)
 - [Things I Learned: Pages Does Not Open .odt Files](https://social.emucafe.org/naferrell/pages-does-not-open-odt-files-10-13-25/)
 - [Microphone Struggles With Teams on Brave](https://social.emucafe.org/naferrell/microphone-struggles-with-teams-on-brave-10-09-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Using the Raspberry Pi Imager](https://social.emucafe.org/naferrell/using-the-raspberry-pi-imager-10-05-25/)
 - [Creating Miniflux Web App in Ubuntu Touch](https://social.emucafe.org/naferrell/webber-miniflux-webapp-ubuntut-10-02-25/)
 - [Following MangaGamer on Steam](https://social.emucafe.org/naferrell/following-mangagamer-on-steam-09-27-25/)
-- [Firefox Has Its Priorities in Order](https://social.emucafe.org/naferrell/firefox-has-its-priorities-in-order/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
