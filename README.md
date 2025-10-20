@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Crediting NordVPN for OSS Client Announcement](https://social.emucafe.org/naferrell/crediting-nordvpn-oss-client-announcement-10-20-25/)
 - [Tokyo Mirage Sessions FE: Prologue Impressions](https://social.emucafe.org/naferrell/tmsfe-prologue-impressions-10-19-25/)
 - [NLJ Backlink Watch: Norwegian Publisher Press Releases](https://social.emucafe.org/naferrell/norwegian-press-release-nlj-backlink-10-15-25/)
 - [Things I Learned: FunOS Sounds Fun](https://social.emucafe.org/naferrell/things-i-learned-funos-sounds-fun/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Topping Off Mullvad Account With Amazon Cards](https://social.emucafe.org/naferrell/topping-off-mullvad-account-with-amazon-cards-10-08-25/)
 - [MMS Issue on Ubuntu Touch](https://social.emucafe.org/naferrell/mms-issue-on-ubuntu-touch-10-06-25/)
 - [Using the Raspberry Pi Imager](https://social.emucafe.org/naferrell/using-the-raspberry-pi-imager-10-05-25/)
-- [Creating Miniflux Web App in Ubuntu Touch](https://social.emucafe.org/naferrell/webber-miniflux-webapp-ubuntut-10-02-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
