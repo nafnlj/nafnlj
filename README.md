@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Windows 10 to 11: Enter Linux For Old Computers?](https://social.emucafe.org/naferrell/windows-10-to-11-and-linux-10-22-25/)
 - [Anime, Iverson, and Costanza](https://social.emucafe.org/naferrell/anime-iverson-and-costanza-10-21-25/)
 - [Crediting NordVPN for OSS Client Announcement](https://social.emucafe.org/naferrell/crediting-nordvpn-oss-client-announcement-10-20-25/)
 - [Tokyo Mirage Sessions FE: Prologue Impressions](https://social.emucafe.org/naferrell/tmsfe-prologue-impressions-10-19-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Pages Does Not Open .odt Files](https://social.emucafe.org/naferrell/pages-does-not-open-odt-files-10-13-25/)
 - [Microphone Struggles With Teams on Brave](https://social.emucafe.org/naferrell/microphone-struggles-with-teams-on-brave-10-09-25/)
 - [Topping Off Mullvad Account With Amazon Cards](https://social.emucafe.org/naferrell/topping-off-mullvad-account-with-amazon-cards-10-08-25/)
-- [MMS Issue on Ubuntu Touch](https://social.emucafe.org/naferrell/mms-issue-on-ubuntu-touch-10-06-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
