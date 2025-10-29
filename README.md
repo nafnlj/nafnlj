@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Google Chrome Goes HTTPS By Default](https://social.emucafe.org/naferrell/google-chrome-goes-https-by-default-10-29-25/)
+- [Senator Cruz on Political Antisemitism](https://social.emucafe.org/naferrell/senator-cruz-on-political-antisemitism/)
 - [Hacker News Referrals?](https://social.emucafe.org/naferrell/hacker-news-referrals-10-28-25/)
 - [Firefox “Privacy-Focused Direct Results” PSA](https://social.emucafe.org/naferrell/firefox-privacy-focused-direct-results-psa-10-28-25/)
 - [Resource: Disabling AI Features in Firefox](https://social.emucafe.org/naferrell/resource-disabling-ai-features-in-firefox-10-27-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Windows 10 to 11: Enter Linux For Old Computers?](https://social.emucafe.org/naferrell/windows-10-to-11-and-linux-10-22-25/)
 - [Anime, Iverson, and Costanza](https://social.emucafe.org/naferrell/anime-iverson-and-costanza-10-21-25/)
 - [Crediting NordVPN for OSS Client Announcement](https://social.emucafe.org/naferrell/crediting-nordvpn-oss-client-announcement-10-20-25/)
-- [Tokyo Mirage Sessions FE: Prologue Impressions](https://social.emucafe.org/naferrell/tmsfe-prologue-impressions-10-19-25/)
-- [NLJ Backlink Watch: Norwegian Publisher Press Releases](https://social.emucafe.org/naferrell/norwegian-press-release-nlj-backlink-10-15-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
