@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Birds are Dinosaurs: NLJ Article Rewrite](https://thenewleafjournal.com/the-birds-are-dinosaurs-nlj-article-rewrite/)
 - [Reviewing Teaser Trailers for Angel Next Door Season 2](https://thenewleafjournal.com/reviewing-teaser-trailers-for-angel-next-door-season-2/)
 - [Memories of Shiny Drowzee in Pokémon Gold](https://thenewleafjournal.com/memories-of-shiny-drowzee-in-pokemon-gold/)
 - [Interview With Victor V. Gurbo On Outrun the Invisible Man](https://thenewleafjournal.com/interview-with-victor-v-gurbo-on-outrun-the-invisible-man/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Reviewing iMoon For Ubuntu Touch](https://thenewleafjournal.com/reviewing-imoon-for-ubuntu-touch/)
 - [Using a Small Paper Clip as SIM Tray Tool](https://thenewleafjournal.com/using-a-small-paper-clip-as-sim-tray-tool/)
 - [Christmas Countdown Clock in September](https://thenewleafjournal.com/christmas-countdown-clock-in-september/)
-- [Trying Droidian on a Google Pixel 3a XL](https://thenewleafjournal.com/trying-droidian-on-a-google-pixel-3a-xl/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
