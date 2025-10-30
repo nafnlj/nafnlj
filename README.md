@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Times of London’s Fake de Blasio Quote](https://social.emucafe.org/naferrell/times-of-londons-fake-de-blasio-quote-10-29-25/)
 - [Google Chrome Goes HTTPS By Default](https://social.emucafe.org/naferrell/google-chrome-goes-https-by-default-10-29-25/)
 - [Senator Cruz on Political Antisemitism](https://social.emucafe.org/naferrell/senator-cruz-on-political-antisemitism/)
 - [Hacker News Referrals?](https://social.emucafe.org/naferrell/hacker-news-referrals-10-28-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Chromium Watch?](https://social.emucafe.org/naferrell/chromium-watch/)
 - [Windows 10 to 11: Enter Linux For Old Computers?](https://social.emucafe.org/naferrell/windows-10-to-11-and-linux-10-22-25/)
 - [Anime, Iverson, and Costanza](https://social.emucafe.org/naferrell/anime-iverson-and-costanza-10-21-25/)
-- [Crediting NordVPN for OSS Client Announcement](https://social.emucafe.org/naferrell/crediting-nordvpn-oss-client-announcement-10-20-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
