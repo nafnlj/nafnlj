@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Mullvad Shuting Down Leta Search Proxy](https://social.emucafe.org/naferrell/mullvad-ending-leta-11-06-25/)
 - [Times of London’s Fake de Blasio Quote](https://social.emucafe.org/naferrell/times-of-londons-fake-de-blasio-quote-10-29-25/)
 - [Google Chrome Goes HTTPS By Default](https://social.emucafe.org/naferrell/google-chrome-goes-https-by-default-10-29-25/)
 - [Senator Cruz on Political Antisemitism](https://social.emucafe.org/naferrell/senator-cruz-on-political-antisemitism/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Resource: Disabling AI Features in Firefox](https://social.emucafe.org/naferrell/resource-disabling-ai-features-in-firefox-10-27-25/)
 - [Chromium Watch?](https://social.emucafe.org/naferrell/chromium-watch/)
 - [Windows 10 to 11: Enter Linux For Old Computers?](https://social.emucafe.org/naferrell/windows-10-to-11-and-linux-10-22-25/)
-- [Anime, Iverson, and Costanza](https://social.emucafe.org/naferrell/anime-iverson-and-costanza-10-21-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
