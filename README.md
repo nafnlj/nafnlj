@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshooting AmberELEC Install on Anbernic RG351V](https://thenewleafjournal.com/troubleshooting-amberelec-install-on-anbernic-rg351v/)
 - [JP to EN Game Translation Mishaps](https://thenewleafjournal.com/jp-to-en-game-translation-mishaps/)
 - [Building and Running PumpkinOS](https://thenewleafjournal.com/building-and-running-pumpkinos/)
 - [The Birds are Dinosaurs: NLJ Article Rewrite](https://thenewleafjournal.com/the-birds-are-dinosaurs-nlj-article-rewrite/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Interview With Victor V. Gurbo On Outrun the Invisible Man](https://thenewleafjournal.com/interview-with-victor-v-gurbo-on-outrun-the-invisible-man/)
 - [Early Rotting Carved Halloween Pumpkins in Brooklyn](https://thenewleafjournal.com/early-rotting-carved-halloween-pumpkins-in-brooklyn/)
 - [Inflatable Fall Crow in Cobble Hill](https://thenewleafjournal.com/inflatable-fall-crow-in-cobble-hill/)
-- [Reviewing iMoon For Ubuntu Touch](https://thenewleafjournal.com/reviewing-imoon-for-ubuntu-touch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
