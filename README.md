@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [ESPN’s New Gambling Partnership](https://social.emucafe.org/naferrell/espns-new-gambling-partnership-11-07-25/)
+- [The “Real” Loser of NYC’s Mayor Race?](https://social.emucafe.org/naferrell/the-real-loser-of-nycs-mayor-race-11-07-25/)
 - [Arduboy FX-C Coming in December 2025](https://social.emucafe.org/naferrell/arduboyfxc-coming-in-dec25-11-06-25/)
 - [Mullvad Shutting Down Leta Search Proxy](https://social.emucafe.org/naferrell/mullvad-ending-leta-11-06-25/)
 - [Times of London’s Fake de Blasio Quote](https://social.emucafe.org/naferrell/times-of-londons-fake-de-blasio-quote-10-29-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Senator Cruz on Political Antisemitism](https://social.emucafe.org/naferrell/senator-cruz-on-political-antisemitism/)
 - [Hacker News Referrals?](https://social.emucafe.org/naferrell/hacker-news-referrals-10-28-25/)
 - [Firefox “Privacy-Focused Direct Results” PSA](https://social.emucafe.org/naferrell/firefox-privacy-focused-direct-results-psa-10-28-25/)
-- [Resource: Disabling AI Features in Firefox](https://social.emucafe.org/naferrell/resource-disabling-ai-features-in-firefox-10-27-25/)
-- [Chromium Watch?](https://social.emucafe.org/naferrell/chromium-watch/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
