@@ -43,12 +43,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [Newsletter Leaf Journal CCLIII 〜 NewsELEC](https://buttondown.com/newsletterleafjournal/archive/253/)
 - [Newsletter Leaf Journal CCLII 〜 Dinogourd OS](https://buttondown.com/newsletterleafjournal/archive/252/)
 - [Newsletter Leaf Journal CCLI 〜 Mahiru, Allen, and George](https://buttondown.com/newsletterleafjournal/archive/251/)
 - [Newsletter Leaf Journal CCL 〜 Outrun the Shiny Drowzee](https://buttondown.com/newsletterleafjournal/archive/250/)
 - [Newsletter Leaf Journal CCXLIX 〜 Touching the Moon](https://buttondown.com/newsletterleafjournal/archive/249/)
 - [Newsletter Leaf Journal CCXLVIII 〜 Countdown reaches 0](https://buttondown.com/newsletterleafjournal/archive/248/)
-- [Newsletter Leaf Journal CCXLVII 〜 Four becomes three](https://buttondown.com/newsletterleafjournal/archive/newsletter-leaf-journal-ccxlvii-four-becomes-three/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
