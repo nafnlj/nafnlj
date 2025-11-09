@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; Linux Kernel Enabling Microsoft C Extensions](https://social.emucafe.org/naferrell/linux-kernel-enabling-ms-c-ext-09-11-25/)
 - [Upgrading OpenWrt on my NETGEAR WAX 202 AP](https://social.emucafe.org/naferrell/upgrading-openwrt-on-my-netgear-wax-202-ap-11-08-25/)
 - [Ordering Copper Moon White Christmas Coffee](https://social.emucafe.org/naferrell/ordering-copper-moon-white-christmas-coffee-11-08-25/)
 - [ESPN’s New Gambling Partnership](https://social.emucafe.org/naferrell/espns-new-gambling-partnership-11-07-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Mullvad Shutting Down Leta Search Proxy](https://social.emucafe.org/naferrell/mullvad-ending-leta-11-06-25/)
 - [Times of London’s Fake de Blasio Quote](https://social.emucafe.org/naferrell/times-of-londons-fake-de-blasio-quote-10-29-25/)
 - [Google Chrome Goes HTTPS By Default](https://social.emucafe.org/naferrell/google-chrome-goes-https-by-default-10-29-25/)
-- [Senator Cruz on Political Antisemitism](https://social.emucafe.org/naferrell/senator-cruz-on-political-antisemitism/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
