@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Upgrading OpenWrt on my NETGEAR WAX 202 AP](https://social.emucafe.org/naferrell/upgrading-openwrt-on-my-netgear-wax-202-ap-11-08-25/)
+- [Ordering Copper Moon White Christmas Coffee](https://social.emucafe.org/naferrell/ordering-copper-moon-white-christmas-coffee-11-08-25/)
 - [ESPN’s New Gambling Partnership](https://social.emucafe.org/naferrell/espns-new-gambling-partnership-11-07-25/)
 - [The “Real” Loser of NYC’s Mayor Race?](https://social.emucafe.org/naferrell/the-real-loser-of-nycs-mayor-race-11-07-25/)
 - [Arduboy FX-C Coming in December 2025](https://social.emucafe.org/naferrell/arduboyfxc-coming-in-dec25-11-06-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Times of London’s Fake de Blasio Quote](https://social.emucafe.org/naferrell/times-of-londons-fake-de-blasio-quote-10-29-25/)
 - [Google Chrome Goes HTTPS By Default](https://social.emucafe.org/naferrell/google-chrome-goes-https-by-default-10-29-25/)
 - [Senator Cruz on Political Antisemitism](https://social.emucafe.org/naferrell/senator-cruz-on-political-antisemitism/)
-- [Hacker News Referrals?](https://social.emucafe.org/naferrell/hacker-news-referrals-10-28-25/)
-- [Firefox “Privacy-Focused Direct Results” PSA](https://social.emucafe.org/naferrell/firefox-privacy-focused-direct-results-psa-10-28-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
