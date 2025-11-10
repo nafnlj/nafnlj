@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [The Dangers in My Heart Movie PSA](https://social.emucafe.org/naferrell/the-dangers-in-my-heart-movie-psa-11-10-25/)
 - [Re; The Thumbs Up Reaction](https://social.emucafe.org/naferrell/re-the-thumbs-up-reaction/)
 - [Agreeing With Amazon’s Perplexity Complaint](https://social.emucafe.org/naferrell/agreeing-with-amazons-perplexity-complaint-11-09-25/)
 - [Chancellor Bowman?](https://social.emucafe.org/naferrell/chancellor-bowman-11-09-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Ordering Copper Moon White Christmas Coffee](https://social.emucafe.org/naferrell/ordering-copper-moon-white-christmas-coffee-11-08-25/)
 - [ESPN’s New Gambling Partnership](https://social.emucafe.org/naferrell/espns-new-gambling-partnership-11-07-25/)
 - [The “Real” Loser of NYC’s Mayor Race?](https://social.emucafe.org/naferrell/the-real-loser-of-nycs-mayor-race-11-07-25/)
-- [Arduboy FX-C Coming in December 2025](https://social.emucafe.org/naferrell/arduboyfxc-coming-in-dec25-11-06-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
