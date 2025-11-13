@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Tokyo Mirage Sessions FE: Encore – Intermission &lpar;1-2&rpar; Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-intermission-1-2-impressions-11-13-25/)
+- [Cade Cunningham and Chris Webber](https://social.emucafe.org/naferrell/cade-cunningham-and-chris-webber-11-13-25/)
 - [2025 Veterans Day Proclamation](https://social.emucafe.org/naferrell/2025-veterans-day-proclamation/)
 - [Tokyo Mirage Sessions FE: Encore – Ch 1 Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-ch-1-impressions-11-11-25/)
 - [The Dangers in My Heart Movie PSA](https://social.emucafe.org/naferrell/the-dangers-in-my-heart-movie-psa-11-10-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Agreeing With Amazon’s Perplexity Complaint](https://social.emucafe.org/naferrell/agreeing-with-amazons-perplexity-complaint-11-09-25/)
 - [Chancellor Bowman?](https://social.emucafe.org/naferrell/chancellor-bowman-11-09-25/)
 - [Re; Linux Kernel Enabling Microsoft C Extensions](https://social.emucafe.org/naferrell/linux-kernel-enabling-ms-c-ext-11-09-25/)
-- [Upgrading OpenWrt on my NETGEAR WAX 202 AP](https://social.emucafe.org/naferrell/upgrading-openwrt-on-my-netgear-wax-202-ap-11-08-25/)
-- [Ordering Copper Moon White Christmas Coffee](https://social.emucafe.org/naferrell/ordering-copper-moon-white-christmas-coffee-11-08-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
