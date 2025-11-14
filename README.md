@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; Firefox AI](https://social.emucafe.org/naferrell/re-firefox-ai-11-14-25/)
 - [Copper Moon White Christmas Coffee Arrives](https://social.emucafe.org/naferrell/copper-moon-white-christmas-coffee-arrives-11-13-25/)
 - [Tokyo Mirage Sessions FE: Encore – Intermission &lpar;1-2&rpar; Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-intermission-1-2-impressions-11-13-25/)
 - [Cade Cunningham and Chris Webber](https://social.emucafe.org/naferrell/cade-cunningham-and-chris-webber-11-13-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The Dangers in My Heart Movie PSA](https://social.emucafe.org/naferrell/the-dangers-in-my-heart-movie-psa-11-10-25/)
 - [Re; The Thumbs Up Reaction](https://social.emucafe.org/naferrell/re-the-thumbs-up-reaction/)
 - [Agreeing With Amazon’s Perplexity Complaint](https://social.emucafe.org/naferrell/agreeing-with-amazons-perplexity-complaint-11-09-25/)
-- [Chancellor Bowman?](https://social.emucafe.org/naferrell/chancellor-bowman-11-09-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
