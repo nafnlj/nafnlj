@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Kelly, Fisher, and College Football Coach Buyouts](https://thenewleafjournal.com/kelly-fisher-and-college-football-coach-buyouts/)
 - [Fighting Headlights With EBD Blue 360 Lenses](https://thenewleafjournal.com/fighting-headlights-with-ebd-blue-360-lenses/)
 - [Investigating John Salley’s Return to Detroit](https://thenewleafjournal.com/investigating-john-salleys-return-to-detroit/)
 - [Troubleshooting AmberELEC Install on Anbernic RG351V](https://thenewleafjournal.com/troubleshooting-amberelec-install-on-anbernic-rg351v/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [The Birds are Dinosaurs: NLJ Article Rewrite](https://thenewleafjournal.com/the-birds-are-dinosaurs-nlj-article-rewrite/)
 - [Reviewing Teaser Trailers for Angel Next Door Season 2](https://thenewleafjournal.com/reviewing-teaser-trailers-for-angel-next-door-season-2/)
 - [Memories of Shiny Drowzee in Pokémon Gold](https://thenewleafjournal.com/memories-of-shiny-drowzee-in-pokemon-gold/)
-- [Interview With Victor V. Gurbo On Outrun the Invisible Man](https://thenewleafjournal.com/interview-with-victor-v-gurbo-on-outrun-the-invisible-man/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
