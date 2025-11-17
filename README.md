@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re;  Why I Don’t Need a Steam Machine](https://social.emucafe.org/naferrell/re-why-i-dont-need-a-steam-machine-11-17-25/)
 - [My Gift Lvl 9999 Unlimited Gacha TV Anime Name Analysis](https://social.emucafe.org/naferrell/my-gift-lvl-9999-unlimited-gacha-tv-anime-name-analysis/)
 - [Re; Firefox AI](https://social.emucafe.org/naferrell/re-firefox-ai-11-14-25/)
 - [Copper Moon White Christmas Coffee Arrives](https://social.emucafe.org/naferrell/copper-moon-white-christmas-coffee-arrives-11-13-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [2025 Veterans Day Proclamation](https://social.emucafe.org/naferrell/2025-veterans-day-proclamation/)
 - [Tokyo Mirage Sessions FE: Encore – Ch 1 Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-ch-1-impressions-11-11-25/)
 - [The Dangers in My Heart Movie PSA](https://social.emucafe.org/naferrell/the-dangers-in-my-heart-movie-psa-11-10-25/)
-- [Re; The Thumbs Up Reaction](https://social.emucafe.org/naferrell/re-the-thumbs-up-reaction/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
