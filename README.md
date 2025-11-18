@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Another NLJ[s]](https://social.emucafe.org/naferrell/another-nlj-11-18-25/)
+- [Unaffected By Cloudflare Outage](https://social.emucafe.org/naferrell/unaffected-by-cloudflare-outage-11-18-25/)
 - [Bike Lanes and D’Amico](https://social.emucafe.org/naferrell/bike-lanes-and-damico-11-17-25/)
 - [Re;  Why I Don’t Need a Steam Machine](https://social.emucafe.org/naferrell/re-why-i-dont-need-a-steam-machine-11-17-25/)
 - [My Gift Lvl 9999 Unlimited Gacha TV Anime Name Analysis](https://social.emucafe.org/naferrell/my-gift-lvl-9999-unlimited-gacha-tv-anime-name-analysis/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Copper Moon White Christmas Coffee Arrives](https://social.emucafe.org/naferrell/copper-moon-white-christmas-coffee-arrives-11-13-25/)
 - [Tokyo Mirage Sessions FE: Encore – Intermission &lpar;1-2&rpar; Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-intermission-1-2-impressions-11-13-25/)
 - [Cade Cunningham and Chris Webber](https://social.emucafe.org/naferrell/cade-cunningham-and-chris-webber-11-13-25/)
-- [2025 Veterans Day Proclamation](https://social.emucafe.org/naferrell/2025-veterans-day-proclamation/)
-- [Tokyo Mirage Sessions FE: Encore – Ch 1 Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-ch-1-impressions-11-11-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
