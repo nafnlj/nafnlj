@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [White Album Vibes in Tokyo Mirage Sessions](https://social.emucafe.org/naferrell/white-album-vibes-in-tokyo-mirage-sessions/)
 - [Another NLJ[s]](https://social.emucafe.org/naferrell/another-nlj-11-18-25/)
 - [Unaffected By Cloudflare Outage](https://social.emucafe.org/naferrell/unaffected-by-cloudflare-outage-11-18-25/)
 - [Bike Lanes and D’Amico](https://social.emucafe.org/naferrell/bike-lanes-and-damico-11-17-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Re; Firefox AI](https://social.emucafe.org/naferrell/re-firefox-ai-11-14-25/)
 - [Copper Moon White Christmas Coffee Arrives](https://social.emucafe.org/naferrell/copper-moon-white-christmas-coffee-arrives-11-13-25/)
 - [Tokyo Mirage Sessions FE: Encore – Intermission &lpar;1-2&rpar; Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-intermission-1-2-impressions-11-13-25/)
-- [Cade Cunningham and Chris Webber](https://social.emucafe.org/naferrell/cade-cunningham-and-chris-webber-11-13-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
