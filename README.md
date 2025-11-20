@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Norton Browser Search Referral](https://thenewleafjournal.com/norton-browser-search-referral/)
 - [Using Years Ago Today WordPress Plugin](https://thenewleafjournal.com/using-years-ago-today-wordpress-plugin/)
 - [Dragonair’s Catch Rate in Pokémon Yellow](https://thenewleafjournal.com/dragonairs-catch-rate-in-pokemon-yellow/)
 - [Kelly, Fisher, and College Football Coach Buyouts](https://thenewleafjournal.com/kelly-fisher-and-college-football-coach-buyouts/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Troubleshooting AmberELEC Install on Anbernic RG351V](https://thenewleafjournal.com/troubleshooting-amberelec-install-on-anbernic-rg351v/)
 - [JP to EN Game Translation Mishaps](https://thenewleafjournal.com/jp-to-en-game-translation-mishaps/)
 - [Building and Running PumpkinOS](https://thenewleafjournal.com/building-and-running-pumpkinos/)
-- [The Birds are Dinosaurs: NLJ Article Rewrite](https://thenewleafjournal.com/the-birds-are-dinosaurs-nlj-article-rewrite/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
