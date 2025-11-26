@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Happy New York Evacuation Day &lpar;2025&rpar;](https://social.emucafe.org/naferrell/happy-new-york-evacuation-day-2025/)
 - [Tokyo Mirage Sessions FE: Encore – Ch 1-2 Intermission Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-1-2-intermission-impressions-11-22-25/)
 - [Tokyo Mirage Sessions FE: Encore – Ch 2 Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-2-impressions-11-22-25/)
 - [Helping the Little Websites](https://social.emucafe.org/naferrell/helping-the-little-websites-11-20-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Unaffected By Cloudflare Outage](https://social.emucafe.org/naferrell/unaffected-by-cloudflare-outage-11-18-25/)
 - [Bike Lanes and D’Amico](https://social.emucafe.org/naferrell/bike-lanes-and-damico-11-17-25/)
 - [Re;  Why I Don’t Need a Steam Machine](https://social.emucafe.org/naferrell/re-why-i-dont-need-a-steam-machine-11-17-25/)
-- [My Gift Lvl 9999 Unlimited Gacha TV Anime Name Analysis](https://social.emucafe.org/naferrell/my-gift-lvl-9999-unlimited-gacha-tv-anime-name-analysis/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
