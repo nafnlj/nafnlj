@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [2025 Thanksgiving Proclamation](https://social.emucafe.org/naferrell/2025-thanksgiving-proclamation-11-26-25/)
 - [The So-Called AI Shopping Elves](https://social.emucafe.org/naferrell/the-so-called-ai-shopping-elves/)
 - [NFL: Grass vs Turf](https://social.emucafe.org/naferrell/nfl-grass-vs-turf-11-25-25/)
 - [Happy New York Evacuation Day &lpar;2025&rpar;](https://social.emucafe.org/naferrell/happy-new-york-evacuation-day-2025/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Helping the Little Websites](https://social.emucafe.org/naferrell/helping-the-little-websites-11-20-25/)
 - [White Album Vibes in Tokyo Mirage Sessions](https://social.emucafe.org/naferrell/white-album-vibes-in-tokyo-mirage-sessions/)
 - [Another NLJ[s]](https://social.emucafe.org/naferrell/another-nlj-11-18-25/)
-- [Unaffected By Cloudflare Outage](https://social.emucafe.org/naferrell/unaffected-by-cloudflare-outage-11-18-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
