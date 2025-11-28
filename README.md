@@ -27,7 +27,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The So-Called AI Shopping Elves](https://social.emucafe.org/naferrell/the-so-called-ai-shopping-elves/)
 - [NFL: Grass vs Turf](https://social.emucafe.org/naferrell/nfl-grass-vs-turf-11-25-25/)
 - [Happy New York Evacuation Day &lpar;2025&rpar;](https://social.emucafe.org/naferrell/happy-new-york-evacuation-day-2025/)
-- [Tokyo Mirage Sessions FE: Encore – Ch 1-2 Intermission Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-1-2-intermission-impressions-11-22-25/)
+- [Tokyo Mirage Sessions FE: Encore – Ch 2-3 Intermission Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-1-2-intermission-impressions-11-22-25/)
 - [Tokyo Mirage Sessions FE: Encore – Ch 2 Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-2-impressions-11-22-25/)
 - [Helping the Little Websites](https://social.emucafe.org/naferrell/helping-the-little-websites-11-20-25/)
 - [White Album Vibes in Tokyo Mirage Sessions](https://social.emucafe.org/naferrell/white-album-vibes-in-tokyo-mirage-sessions/)
