@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Newsletter Leaf Journal CCLXI](https://thenewleafjournal.com/newsletter-leaf-journal-cclxi/)
 - [The 98-99 Bulls’ Championship Defense Defense](https://thenewleafjournal.com/the-98-99-bulls-championship-defense-defense/)
 - [Best and Worst NBA Title Defenses Since 1983-84](https://thenewleafjournal.com/best-and-worst-nba-title-defenses-since-1983-84/)
 - [Norton Browser Search Referral](https://thenewleafjournal.com/norton-browser-search-referral/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Kelly, Fisher, and College Football Coach Buyouts](https://thenewleafjournal.com/kelly-fisher-and-college-football-coach-buyouts/)
 - [Fighting Headlights With EBD Blue 360 Lenses](https://thenewleafjournal.com/fighting-headlights-with-ebd-blue-360-lenses/)
 - [Investigating John Salley’s Return to Detroit](https://thenewleafjournal.com/investigating-john-salleys-return-to-detroit/)
-- [Troubleshooting AmberELEC Install on Anbernic RG351V](https://thenewleafjournal.com/troubleshooting-amberelec-install-on-anbernic-rg351v/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
