@@ -23,15 +23,15 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Diet Coke over Coke Zero?](https://social.emucafe.org/naferrell/vending-company-2025-diet-coke-over-coke-zero-11-29-25/)
+- [Things I Learned: Pepsi Over Coke?](https://social.emucafe.org/naferrell/pepsi-over-coke-in-vending-company-survey-11-29-25/)
+- [Buttondown Canonical URLs](https://social.emucafe.org/naferrell/buttondown-canonical-urls-11-29-25/)
 - [What do you do when you can’t mail your newsletter?](https://social.emucafe.org/naferrell/what-do-you-do-when-you-cant-mail-your-newsletter-11-29-25/)
 - [2025 Thanksgiving Proclamation](https://social.emucafe.org/naferrell/2025-thanksgiving-proclamation-11-26-25/)
 - [The So-Called AI Shopping Elves](https://social.emucafe.org/naferrell/the-so-called-ai-shopping-elves/)
 - [NFL: Grass vs Turf](https://social.emucafe.org/naferrell/nfl-grass-vs-turf-11-25-25/)
 - [Happy New York Evacuation Day &lpar;2025&rpar;](https://social.emucafe.org/naferrell/happy-new-york-evacuation-day-2025/)
 - [Tokyo Mirage Sessions FE: Encore – Ch 2-3 Intermission Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-1-2-intermission-impressions-11-22-25/)
-- [Tokyo Mirage Sessions FE: Encore – Ch 2 Impressions](https://social.emucafe.org/naferrell/tokyo-mirage-sessions-fe-encore-ch-2-impressions-11-22-25/)
-- [Helping the Little Websites](https://social.emucafe.org/naferrell/helping-the-little-websites-11-20-25/)
-- [White Album Vibes in Tokyo Mirage Sessions](https://social.emucafe.org/naferrell/white-album-vibes-in-tokyo-mirage-sessions/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
