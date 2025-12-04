@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Our Ads.txt File](https://social.emucafe.org/naferrell/our-ads-txt-file-12-04-25/)
 - [On the BlackBerry-Inspired Lotus Diplomat](https://social.emucafe.org/naferrell/on-the-bb-inspired-lotus-diplomat-12-02-2025/)
 - [Things I Learned: Original Wizard of Oz Movies](https://social.emucafe.org/naferrell/original-wizard-of-oz-movies-11-30-25/)
 - [Things I Learned: Lacrosse in the Olympics](https://social.emucafe.org/naferrell/lacrosse-in-2028-olympics-11-30-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Buttondown Canonical URLs](https://social.emucafe.org/naferrell/buttondown-canonical-urls-11-29-25/)
 - [What do you do when you can’t mail your newsletter?](https://social.emucafe.org/naferrell/what-do-you-do-when-you-cant-mail-your-newsletter-11-29-25/)
 - [2025 Thanksgiving Proclamation](https://social.emucafe.org/naferrell/2025-thanksgiving-proclamation-11-26-25/)
-- [The So-Called AI Shopping Elves](https://social.emucafe.org/naferrell/the-so-called-ai-shopping-elves/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
