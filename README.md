@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Negative Trade Value in the NBA](https://social.emucafe.org/naferrell/what-happens-when-a-12-05-2025/)
+- [Accountability for the 2020 Beirut Port Blast](https://social.emucafe.org/naferrell/accountability-for-the-2020-beirut-port-blast-12-06-25/)
 - [Our Ads.txt File](https://social.emucafe.org/naferrell/our-ads-txt-file-12-04-25/)
 - [On the BlackBerry-Inspired Lotus Diplomat](https://social.emucafe.org/naferrell/on-the-bb-inspired-lotus-diplomat-12-02-2025/)
 - [Things I Learned: Original Wizard of Oz Movies](https://social.emucafe.org/naferrell/original-wizard-of-oz-movies-11-30-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Diet Coke over Coke Zero?](https://social.emucafe.org/naferrell/vending-company-2025-diet-coke-over-coke-zero-11-29-25/)
 - [Things I Learned: Pepsi Over Coke?](https://social.emucafe.org/naferrell/pepsi-over-coke-in-vending-company-survey-11-29-25/)
 - [Buttondown Canonical URLs](https://social.emucafe.org/naferrell/buttondown-canonical-urls-11-29-25/)
-- [What do you do when you can’t mail your newsletter?](https://social.emucafe.org/naferrell/what-do-you-do-when-you-cant-mail-your-newsletter-11-29-25/)
-- [2025 Thanksgiving Proclamation](https://social.emucafe.org/naferrell/2025-thanksgiving-proclamation-11-26-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
