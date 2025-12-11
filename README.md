@@ -23,15 +23,15 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Brave Testing New AI Browsing “Features”](https://social.emucafe.org/naferrell/brave-testing-new-ai-browsing-features-12-11-25/)
+- [AI “Features” in Calibre](https://social.emucafe.org/naferrell/ai-features-in-calibre-12-11-25/)
+- [Amazon KDP To Alllow DRM-free epub and pdf](https://social.emucafe.org/naferrell/amazon-kdp-to-alllow-drm-free-epub-and-pdf-12-11-25/)
 - [Using Coaxial Cable In/Out on Belkin Surge Protector](https://social.emucafe.org/naferrell/using-coaxial-cable-in-out-on-belkin-surge-protector-12-10-25/)
 - [Official Way to Install Calibre on Linux](https://social.emucafe.org/naferrell/official-way-to-install-calibre-on-linux-12-09-25/)
 - [Negative Trade Value in the NBA](https://social.emucafe.org/naferrell/what-happens-when-a-12-05-2025/)
 - [Accountability for the 2020 Beirut Port Blast](https://social.emucafe.org/naferrell/accountability-for-the-2020-beirut-port-blast-12-06-25/)
 - [Our Ads.txt File](https://social.emucafe.org/naferrell/our-ads-txt-file-12-04-25/)
 - [On the BlackBerry-Inspired Lotus Diplomat](https://social.emucafe.org/naferrell/on-the-bb-inspired-lotus-diplomat-12-02-2025/)
-- [Things I Learned: Original Wizard of Oz Movies](https://social.emucafe.org/naferrell/original-wizard-of-oz-movies-11-30-25/)
-- [Things I Learned: Lacrosse in the Olympics](https://social.emucafe.org/naferrell/lacrosse-in-2028-olympics-11-30-25/)
-- [Things I Learned: Diet Coke over Coke Zero?](https://social.emucafe.org/naferrell/vending-company-2025-diet-coke-over-coke-zero-11-29-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
