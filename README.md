@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Using Coaxial Cable In/Out on Belkin Surge Protector](https://social.emucafe.org/naferrell/using-coaxial-cable-in-out-on-belkin-surge-protector-12-10-25/)
 - [Official Way to Install Calibre on Linux](https://social.emucafe.org/naferrell/official-way-to-install-calibre-on-linux-12-09-25/)
 - [Negative Trade Value in the NBA](https://social.emucafe.org/naferrell/what-happens-when-a-12-05-2025/)
 - [Accountability for the 2020 Beirut Port Blast](https://social.emucafe.org/naferrell/accountability-for-the-2020-beirut-port-blast-12-06-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Original Wizard of Oz Movies](https://social.emucafe.org/naferrell/original-wizard-of-oz-movies-11-30-25/)
 - [Things I Learned: Lacrosse in the Olympics](https://social.emucafe.org/naferrell/lacrosse-in-2028-olympics-11-30-25/)
 - [Things I Learned: Diet Coke over Coke Zero?](https://social.emucafe.org/naferrell/vending-company-2025-diet-coke-over-coke-zero-11-29-25/)
-- [Things I Learned: Pepsi Over Coke?](https://social.emucafe.org/naferrell/pepsi-over-coke-in-vending-company-survey-11-29-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
