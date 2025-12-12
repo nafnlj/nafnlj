@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Bookmark: Rank and File](https://social.emucafe.org/naferrell/bookmark-rank-and-file-12-12-25/)
+- [Blogging as Mindset](https://social.emucafe.org/naferrell/blogging-as-mindset-12-12-2025/)
 - [Blog De-Indexed By Google](https://social.emucafe.org/naferrell/blog-de-indexed-by-google/)
 - [Brave Testing New AI Browsing “Features”](https://social.emucafe.org/naferrell/brave-testing-new-ai-browsing-features-12-11-25/)
 - [AI “Features” in Calibre](https://social.emucafe.org/naferrell/ai-features-in-calibre-12-11-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Using Coaxial Cable In/Out on Belkin Surge Protector](https://social.emucafe.org/naferrell/using-coaxial-cable-in-out-on-belkin-surge-protector-12-10-25/)
 - [Official Way to Install Calibre on Linux](https://social.emucafe.org/naferrell/official-way-to-install-calibre-on-linux-12-09-25/)
 - [Negative Trade Value in the NBA](https://social.emucafe.org/naferrell/what-happens-when-a-12-05-2025/)
-- [Accountability for the 2020 Beirut Port Blast](https://social.emucafe.org/naferrell/accountability-for-the-2020-beirut-port-blast-12-06-25/)
-- [Our Ads.txt File](https://social.emucafe.org/naferrell/our-ads-txt-file-12-04-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
