@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding a trust.txt File](https://thenewleafjournal.com/adding-a-trust-txt-file/)
 - [Philip Rivers Comeback Takes Me Back](https://thenewleafjournal.com/philip-rivers-comeback-takes-me-back/)
 - [Finally Solving My HDMI ARC Problems](https://thenewleafjournal.com/finally-solving-my-hdmi-arc-problems/)
 - [Adding Ads.txt to Website Without Ads](https://thenewleafjournal.com/adding-ads-txt-to-website-without-ads/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Newsletter Leaf Journal CCLXI](https://thenewleafjournal.com/newsletter-leaf-journal-cclxi/)
 - [The 98-99 Bulls’ Championship Defense Defense](https://thenewleafjournal.com/the-98-99-bulls-championship-defense-defense/)
 - [Best and Worst NBA Title Defenses Since 1983-84](https://thenewleafjournal.com/best-and-worst-nba-title-defenses-since-1983-84/)
-- [Norton Browser Search Referral](https://thenewleafjournal.com/norton-browser-search-referral/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
