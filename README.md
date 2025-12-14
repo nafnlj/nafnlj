@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Things I Learned: Uzbekistan’s First Post-Soviet Census](https://social.emucafe.org/naferrell/uzbekistans-first-post-soviet-census-12-13-2025/)
 - [Things I Learned: Mixue is a Big Fast Food Chain](https://social.emucafe.org/naferrell/things-i-learned-mixue-is-a-big-fast-food-chain/)
 - [Things I Learned: Blind Cat Head Tilts](https://social.emucafe.org/naferrell/blind-cat-head-tilts-12-13-25/)
 - [Things I Learned: Age in College Basketball](https://social.emucafe.org/naferrell/things-i-learned-age-in-college-basketball-12-12-25/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Bookmark: Rank and File](https://social.emucafe.org/naferrell/bookmark-rank-and-file-12-12-25/)
 - [Blogging as Mindset](https://social.emucafe.org/naferrell/blogging-as-mindset-12-12-2025/)
 - [Blog De-Indexed By Google](https://social.emucafe.org/naferrell/blog-de-indexed-by-google/)
-- [Brave Testing New AI Browsing “Features”](https://social.emucafe.org/naferrell/brave-testing-new-ai-browsing-features-12-11-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
