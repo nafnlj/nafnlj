@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Switching From XFCE to Cinnamon on EndeavourOS After Nvidia Issue](https://social.emucafe.org/naferrell/switching-from-xfce-to-cinnamon-12-24-25/)
+- [Christmas Eve Colon Memories](https://social.emucafe.org/naferrell/christmas-eve-colon-memories-12-24-25/)
 - [Things I Learned: Supermoon Coming in January 2026](https://social.emucafe.org/naferrell/things-i-learned-supermoon-coming-in-january-2026/)
 - [Things I Learned: Apple’s 2015 iFIXIT Ban](https://social.emucafe.org/naferrell/apples-2015-ifixit-app-ban-12-15-25/)
 - [IFIXIT’s Relatively Inoffensive AI Use-Case](https://social.emucafe.org/naferrell/ifixits-relatively-inoffensive-ai-use-case-12-15-25/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Unsolicited Higurashi Sound Novel Mail Campaign](https://social.emucafe.org/naferrell/unsolicited-higurashi-sound-novel-mail-campaign-12-14-25/)
 - [Things I Learned: Uzbekistan’s First Post-Soviet Census](https://social.emucafe.org/naferrell/uzbekistans-first-post-soviet-census-12-13-2025/)
 - [Things I Learned: Mixue is a Big Fast Food Chain](https://social.emucafe.org/naferrell/things-i-learned-mixue-is-a-big-fast-food-chain/)
-- [Things I Learned: Blind Cat Head Tilts](https://social.emucafe.org/naferrell/blind-cat-head-tilts-12-13-25/)
-- [Things I Learned: Age in College Basketball](https://social.emucafe.org/naferrell/things-i-learned-age-in-college-basketball-12-12-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
