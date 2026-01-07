@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Record vs Scoring Margin in NBA Team Analysis](https://thenewleafjournal.com/record-vs-scoring-margin-in-nba-team-analysis/)
 - [November and December 2025 at The New Leaf Journal](https://thenewleafjournal.com/november-and-december-2025-at-the-new-leaf-journal/)
 - [September and October 2025 at The New Leaf Journal](https://thenewleafjournal.com/september-and-october-2025-at-the-new-leaf-journal/)
 - [Winter Season 2026 at The New Leaf Journal](https://thenewleafjournal.com/winter-season-2026-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [52 Things I Learned in 2025](https://thenewleafjournal.com/52-things-i-learned-in-2025/)
 - [On GPL-1s for Obese House Cats](https://thenewleafjournal.com/on-gpl-1s-for-obese-house-cats/)
 - [Inflatable Menorah in Cobble Hill](https://thenewleafjournal.com/inflatable-menorah-in-cobble-hill/)
-- [Adding a trust.txt File](https://thenewleafjournal.com/adding-a-trust-txt-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
