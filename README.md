@@ -7,6 +7,8 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonus Gifts With Usaburo Snowman Doll](https://thenewleafjournal.com/bonus-gifts-with-usaburo-snowman-doll/)
+- [Miya Snowman Cups From Ten Ichi Mart](https://thenewleafjournal.com/miya-snowman-cups-from-ten-ichi-mart/)
 - [Our Most-Visited Articles of 2025](https://thenewleafjournal.com/our-most-visited-articles-of-2025/)
 - [Record vs Scoring Margin in NBA Team Analysis](https://thenewleafjournal.com/record-vs-scoring-margin-in-nba-team-analysis/)
 - [November and December 2025 at The New Leaf Journal](https://thenewleafjournal.com/november-and-december-2025-at-the-new-leaf-journal/)
@@ -14,8 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Winter Season 2026 at The New Leaf Journal](https://thenewleafjournal.com/winter-season-2026-at-the-new-leaf-journal/)
 - [Weathered “Snow King” Sculpture in Brooklyn](https://thenewleafjournal.com/weathered-snow-king-sculpture-in-brooklyn/)
 - [My Gingerbread Man Soap Dispenser](https://thenewleafjournal.com/my-gingerbread-man-soap-dispenser/)
-- [52 Things I Learned in 2025](https://thenewleafjournal.com/52-things-i-learned-in-2025/)
-- [On GPL-1s for Obese House Cats](https://thenewleafjournal.com/on-gpl-1s-for-obese-house-cats/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
