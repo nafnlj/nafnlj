@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Revisiting Last Year’s Election Research Article](https://social.emucafe.org/naferrell/revisiting-last-years-election-research-article-01-23-26/)
+- [New Newsletter Leaf Journal Sign-Up Page](https://social.emucafe.org/naferrell/new-newsletter-leaf-journal-sign-up-page-01-23-26/)
 - [Agreeing With Ebay’s Buy-For-Me Agent Restrictions](https://social.emucafe.org/naferrell/agreeing-with-ebays-buy-for-me-agent-restrictions-01-22-26/)
 - [Resuming Christmas Tina](https://social.emucafe.org/naferrell/resuming-christmas-tina-01-17-26/)
 - [Things I Learned: Official Languages in Russia](https://social.emucafe.org/naferrell/official-languages-in-russia-01-16-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Seeing the “Snow King” on Brooklyn’s Atlantic Avenue](https://social.emucafe.org/naferrell/seeing-atlantic-avenue-snow-king-12-29-25/)
 - [Working on Christmas Tina VN Review for NLJ](https://social.emucafe.org/naferrell/working-on-christmas-tina-vn-review-for-nlj-12-26-25/)
 - [Switching From XFCE to Cinnamon on EndeavourOS After Nvidia Issue](https://social.emucafe.org/naferrell/switching-from-xfce-to-cinnamon-12-24-25/)
-- [Christmas Eve Colon Memories](https://social.emucafe.org/naferrell/christmas-eve-colon-memories-12-24-25/)
-- [Things I Learned: Supermoon Coming in January 2026](https://social.emucafe.org/naferrell/things-i-learned-supermoon-coming-in-january-2026/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
