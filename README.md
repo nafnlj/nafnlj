@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Footnotes in Buttondown](https://social.emucafe.org/naferrell/footnotes-in-buttondown-01-24-26/)
 - [On the Mecha Comet modular Linux handheld computer](https://social.emucafe.org/naferrell/on-the-mecha-comet-modular-linux-handheld-computer-01-24-26/)
 - [Revisiting Last Year’s Election Research Article](https://social.emucafe.org/naferrell/revisiting-last-years-election-research-article-01-23-26/)
 - [New Newsletter Leaf Journal Sign-Up Page](https://social.emucafe.org/naferrell/new-newsletter-leaf-journal-sign-up-page-01-23-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: Official Languages in Russia](https://social.emucafe.org/naferrell/official-languages-in-russia-01-16-26/)
 - [AI is a Slop Tool, Not Slop Cause](https://social.emucafe.org/naferrell/ai-is-a-slop-tool-not-slop-cause-01-12-26/)
 - [Seeing the “Snow King” on Brooklyn’s Atlantic Avenue](https://social.emucafe.org/naferrell/seeing-atlantic-avenue-snow-king-12-29-25/)
-- [Working on Christmas Tina VN Review for NLJ](https://social.emucafe.org/naferrell/working-on-christmas-tina-vn-review-for-nlj-12-26-25/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
