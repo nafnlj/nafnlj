@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Georgia’s Breakaway Regions and Venezuela](https://social.emucafe.org/naferrell/georgias-breakaway-regions-and-venezuela-01-27-26/)
 - [Snowman in Bed-Stuy URL Clues](https://social.emucafe.org/naferrell/snowman-in-bed-stuy-url-clues-01-27-26/)
 - [On the Matter of TikTok Alternatives](https://social.emucafe.org/naferrell/on-the-matter-of-tiktok-alternatives-01-27-26/)
 - [The Carmelo Anthony-Allen Iverson Partnership](https://social.emucafe.org/naferrell/the-carmelo-anthony-allen-iverson-partnership-01-26-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [On the Mecha Comet modular Linux handheld computer](https://social.emucafe.org/naferrell/on-the-mecha-comet-modular-linux-handheld-computer-01-24-26/)
 - [Revisiting Last Year’s Election Research Article](https://social.emucafe.org/naferrell/revisiting-last-years-election-research-article-01-23-26/)
 - [New Newsletter Leaf Journal Sign-Up Page](https://social.emucafe.org/naferrell/new-newsletter-leaf-journal-sign-up-page-01-23-26/)
-- [Agreeing With Ebay’s Buy-For-Me Agent Restrictions](https://social.emucafe.org/naferrell/agreeing-with-ebays-buy-for-me-agent-restrictions-01-22-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
