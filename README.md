@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [My Heroic Car Rescue in Brooklyn Heights](https://thenewleafjournal.com/my-heroic-car-rescue-in-brooklyn-heights/)
 - [NBA Champions After Losing MVPs/All NBA Players](https://thenewleafjournal.com/nba-champions-after-losing-mvps-all-nba-players/)
 - [Creating NLJ QR Code With QR Code Generator](https://thenewleafjournal.com/creating-nlj-qr-code-with-qr-code-generator/)
 - [Adding noai.duckduckgo.com as Custom Search Engine](https://thenewleafjournal.com/adding-noai-duckduckgo-com-as-custom-search-engine/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Bonus Gifts With Usaburo Snowman Doll](https://thenewleafjournal.com/bonus-gifts-with-usaburo-snowman-doll/)
 - [Miya Snowman Cups From Ten Ichi Mart](https://thenewleafjournal.com/miya-snowman-cups-from-ten-ichi-mart/)
 - [Our Most-Visited Articles of 2025](https://thenewleafjournal.com/our-most-visited-articles-of-2025/)
-- [Record vs Scoring Margin in NBA Team Analysis](https://thenewleafjournal.com/record-vs-scoring-margin-in-nba-team-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
