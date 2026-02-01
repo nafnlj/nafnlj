@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [I Published a Visual Novel](https://social.emucafe.org/naferrell/i-published-a-visual-novel-02-01-26/)
 - [Using Cloudron’s IP Firewall](https://social.emucafe.org/naferrell/using-cloudrons-ip-firewall-01-30-26/)
 - [Nostalgic News: Sega 32X Virtua Racing Has Been Decompiled](https://social.emucafe.org/naferrell/sega-32x-virtua-racing-decompiled-01-30-26/)
 - [Georgia’s Breakaway Regions and Venezuela](https://social.emucafe.org/naferrell/georgias-breakaway-regions-and-venezuela-01-27-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The Carmelo Anthony-Allen Iverson Partnership](https://social.emucafe.org/naferrell/the-carmelo-anthony-allen-iverson-partnership-01-26-26/)
 - [Final EoL For Vista-based Windows Server 2008](https://social.emucafe.org/naferrell/final-eol-for-windows-server-2008-01-25-26/)
 - [Footnotes in Buttondown](https://social.emucafe.org/naferrell/footnotes-in-buttondown-01-24-26/)
-- [On the Mecha Comet modular Linux handheld computer](https://social.emucafe.org/naferrell/on-the-mecha-comet-modular-linux-handheld-computer-01-24-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
