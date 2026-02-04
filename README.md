@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Unusually Sober Commentary From Dmitry Medvedev](https://social.emucafe.org/naferrell/reuters-reports-that-02-04-26/)
+- [Rodrigo Ghedin’s Strong Take On OpenClaw/Moltbook](https://social.emucafe.org/naferrell/rodrigo-ghedins-strong-take-on-openclaw-moltbook-02-04-26/)
 - [Things I Forgot: Wario’s Woods in Animal Crossing](https://social.emucafe.org/naferrell/things-i-forgot-warios-woods-in-animal-crossing-02-02-26/)
 - [Things I Learned: NES Wario Woods ESRB Rating](https://social.emucafe.org/naferrell/things-i-learned-nes-wario-woods-esrb-rating-02-02-26/)
 - [I Published a Visual Novel](https://social.emucafe.org/naferrell/i-published-a-visual-novel-02-01-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Nostalgic News: Sega 32X Virtua Racing Has Been Decompiled](https://social.emucafe.org/naferrell/sega-32x-virtua-racing-decompiled-01-30-26/)
 - [Georgia’s Breakaway Regions and Venezuela](https://social.emucafe.org/naferrell/georgias-breakaway-regions-and-venezuela-01-27-26/)
 - [Snowman in Bed-Stuy URL Clues](https://social.emucafe.org/naferrell/snowman-in-bed-stuy-url-clues-01-27-26/)
-- [On the Matter of TikTok Alternatives](https://social.emucafe.org/naferrell/on-the-matter-of-tiktok-alternatives-01-27-26/)
-- [The Carmelo Anthony-Allen Iverson Partnership](https://social.emucafe.org/naferrell/the-carmelo-anthony-allen-iverson-partnership-01-26-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
