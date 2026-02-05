@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; The Indie Web Is Not Defined by Its Enemies](https://social.emucafe.org/naferrell/re-the-indie-web-is-not-defined-by-its-enemies/)
 - [Posteo Doubles Storage](https://social.emucafe.org/naferrell/posteo-doubles-storage-02-04-26/)
 - [Sad Update to ACE Academy and Kaori After Story Reviews](https://social.emucafe.org/naferrell/sad-update-to-ace-academy-and-kaori-after-story-reviews-02-04-26/)
 - [Blocking Empty UA Outside of Feed Requests](https://social.emucafe.org/naferrell/blocking-empty-ua-outside-feed-02-04-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Forgot: Wario’s Woods in Animal Crossing](https://social.emucafe.org/naferrell/things-i-forgot-warios-woods-in-animal-crossing-02-02-26/)
 - [Things I Learned: NES Wario Woods ESRB Rating](https://social.emucafe.org/naferrell/things-i-learned-nes-wario-woods-esrb-rating-02-02-26/)
 - [I Published a Visual Novel](https://social.emucafe.org/naferrell/i-published-a-visual-novel-02-01-26/)
-- [Using Cloudron’s IP Firewall](https://social.emucafe.org/naferrell/using-cloudrons-ip-firewall-01-30-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
