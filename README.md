@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Posteo Doubles Storage](https://social.emucafe.org/naferrell/posteo-doubles-storage-02-04-26/)
+- [Sad Update to ACE Academy and Kaori After Story Reviews](https://social.emucafe.org/naferrell/sad-update-to-ace-academy-and-kaori-after-story-reviews-02-04-26/)
 - [Blocking Empty UA Outside of Feed Requests](https://social.emucafe.org/naferrell/blocking-empty-ua-outside-feed-02-04-26/)
 - [Unusually Sober Commentary From Dmitry Medvedev](https://social.emucafe.org/naferrell/reuters-reports-that-02-04-26/)
 - [Rodrigo Ghedin’s Strong Take On OpenClaw/Moltbook](https://social.emucafe.org/naferrell/rodrigo-ghedins-strong-take-on-openclaw-moltbook-02-04-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Things I Learned: NES Wario Woods ESRB Rating](https://social.emucafe.org/naferrell/things-i-learned-nes-wario-woods-esrb-rating-02-02-26/)
 - [I Published a Visual Novel](https://social.emucafe.org/naferrell/i-published-a-visual-novel-02-01-26/)
 - [Using Cloudron’s IP Firewall](https://social.emucafe.org/naferrell/using-cloudrons-ip-firewall-01-30-26/)
-- [Nostalgic News: Sega 32X Virtua Racing Has Been Decompiled](https://social.emucafe.org/naferrell/sega-32x-virtua-racing-decompiled-01-30-26/)
-- [Georgia’s Breakaway Regions and Venezuela](https://social.emucafe.org/naferrell/georgias-breakaway-regions-and-venezuela-01-27-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
