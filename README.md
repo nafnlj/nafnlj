@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [January 2026 at The New Leaf Journal](https://thenewleafjournal.com/january-2026-at-the-new-leaf-journal/)
 - [Itch.io Outdated TOTP 2FA App Recommendations](https://thenewleafjournal.com/itch-io-outdated-totp-2fa-app-recommendations/)
 - [Making My First Visual Novel: Little White Lies](https://thenewleafjournal.com/making-my-first-visual-novel-little-white-lies/)
 - [My Heroic Car Rescue in Brooklyn Heights](https://thenewleafjournal.com/my-heroic-car-rescue-in-brooklyn-heights/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Adding noai.duckduckgo.com as Custom Search Engine](https://thenewleafjournal.com/adding-noai-duckduckgo-com-as-custom-search-engine/)
 - [PixelFade Studio VN Review Project](https://thenewleafjournal.com/pixelfade-studio-vn-review-project/)
 - [Cheap Winter Cherries](https://thenewleafjournal.com/cheap-winter-cherries/)
-- [Bonus Gifts With Usaburo Snowman Doll](https://thenewleafjournal.com/bonus-gifts-with-usaburo-snowman-doll/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
