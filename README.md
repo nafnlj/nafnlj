@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Taking Bets On OpenClaw’s New Shiny Object](https://social.emucafe.org/naferrell/taking-bets-on-openclaws-new-shiny-object-02-05-26/)
 - [Re; The Indie Web Is Not Defined by Its Enemies](https://social.emucafe.org/naferrell/re-the-indie-web-is-not-defined-by-its-enemies/)
 - [Posteo Doubles Storage](https://social.emucafe.org/naferrell/posteo-doubles-storage-02-04-26/)
 - [Sad Update to ACE Academy and Kaori After Story Reviews](https://social.emucafe.org/naferrell/sad-update-to-ace-academy-and-kaori-after-story-reviews-02-04-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Rodrigo Ghedin’s Strong Take On OpenClaw/Moltbook](https://social.emucafe.org/naferrell/rodrigo-ghedins-strong-take-on-openclaw-moltbook-02-04-26/)
 - [Things I Forgot: Wario’s Woods in Animal Crossing](https://social.emucafe.org/naferrell/things-i-forgot-warios-woods-in-animal-crossing-02-02-26/)
 - [Things I Learned: NES Wario Woods ESRB Rating](https://social.emucafe.org/naferrell/things-i-learned-nes-wario-woods-esrb-rating-02-02-26/)
-- [I Published a Visual Novel](https://social.emucafe.org/naferrell/i-published-a-visual-novel-02-01-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
