@@ -31,7 +31,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Unusually Sober Commentary From Dmitry Medvedev](https://social.emucafe.org/naferrell/reuters-reports-that-02-04-26/)
 - [Rodrigo Ghedin’s Strong Take On OpenClaw/Moltbook](https://social.emucafe.org/naferrell/rodrigo-ghedins-strong-take-on-openclaw-moltbook-02-04-26/)
 - [Things I Forgot: Wario’s Woods in Animal Crossing](https://social.emucafe.org/naferrell/things-i-forgot-warios-woods-in-animal-crossing-02-02-26/)
-- [Things I Learned: NES Wario Woods ESRB Rating](https://social.emucafe.org/naferrell/things-i-learned-nes-wario-woods-esrb-rating-02-02-26/)
+- [Things I Learned: NES Wario’s Woods ESRB Rating](https://social.emucafe.org/naferrell/things-i-learned-nes-warios-woods-esrb-rating-02-02-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
