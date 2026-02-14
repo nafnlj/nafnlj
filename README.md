@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Criminal Sentencing in Nigeria](https://social.emucafe.org/naferrell/criminal-sentencing-in-nigeria-02-13-26/)
 - [Atlus Forgets a Persona Protagonist](https://social.emucafe.org/naferrell/atlus-forgets-a-persona-protagonist-02-13-26/)
 - [Newsletters and Email Clipping](https://social.emucafe.org/naferrell/newsletters-and-email-clipping/)
 - [Even the Cheap Computer Cubes Are Out of Stock](https://social.emucafe.org/naferrell/even-the-cheap-computer-cubes-are-out-of-stock-02-12-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Taking Bets On OpenClaw’s New Shiny Object](https://social.emucafe.org/naferrell/taking-bets-on-openclaws-new-shiny-object-02-05-26/)
 - [Re; The Indie Web Is Not Defined by Its Enemies](https://social.emucafe.org/naferrell/re-the-indie-web-is-not-defined-by-its-enemies/)
 - [Posteo Doubles Storage](https://social.emucafe.org/naferrell/posteo-doubles-storage-02-04-26/)
-- [Sad Update to ACE Academy and Kaori After Story Reviews](https://social.emucafe.org/naferrell/sad-update-to-ace-academy-and-kaori-after-story-reviews-02-04-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
