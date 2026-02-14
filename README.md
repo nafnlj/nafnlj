@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Positive Case for Good Tech](https://thenewleafjournal.com/the-positive-case-for-good-tech/)
 - [AI Game Worlds and Humane Games](https://thenewleafjournal.com/ai-game-worlds-and-humane-games/)
 - [January 2026 at The New Leaf Journal](https://thenewleafjournal.com/january-2026-at-the-new-leaf-journal/)
 - [Itch.io Outdated TOTP 2FA App Recommendations](https://thenewleafjournal.com/itch-io-outdated-totp-2fa-app-recommendations/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [NBA Champions After Losing MVPs/All NBA Players](https://thenewleafjournal.com/nba-champions-after-losing-mvps-all-nba-players/)
 - [Creating NLJ QR Code With QR Code Generator](https://thenewleafjournal.com/creating-nlj-qr-code-with-qr-code-generator/)
 - [Adding noai.duckduckgo.com as Custom Search Engine](https://thenewleafjournal.com/adding-noai-duckduckgo-com-as-custom-search-engine/)
-- [PixelFade Studio VN Review Project](https://thenewleafjournal.com/pixelfade-studio-vn-review-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
