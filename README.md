@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Begonia, Oh Deer!](https://social.emucafe.org/naferrell/begonia-oh-deer/)
 - [AI-Influencer-Journo Marketing Gimmicks](https://social.emucafe.org/naferrell/ai-journo-influencer-marketing-02-14-26/)
 - [A Positive Technologist Identity](https://social.emucafe.org/naferrell/positive-technologist-definitions-02-14-26/)
 - [Criminal Sentencing in Nigeria](https://social.emucafe.org/naferrell/criminal-sentencing-in-nigeria-02-13-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Even the Cheap Computer Cubes Are Out of Stock](https://social.emucafe.org/naferrell/even-the-cheap-computer-cubes-are-out-of-stock-02-12-26/)
 - [Things I Learned: Berlin’s Road Salt Ban](https://social.emucafe.org/naferrell/berlin-road-salt-ban-02-11-26/)
 - [Things I Learned: Hedgehogs, Erinaceiane](https://social.emucafe.org/naferrell/hedgehogs-erinaceiane-02-10-26/)
-- [Taking Bets On OpenClaw’s New Shiny Object](https://social.emucafe.org/naferrell/taking-bets-on-openclaws-new-shiny-object-02-05-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
