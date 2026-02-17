@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog Questions Challenge Answers](https://thenewleafjournal.com/blog-questions-challenge-answers/)
 - [Christmas Tina – Visual Novel Review](https://thenewleafjournal.com/christmas-tina-visual-novel-review/)
 - [The Positive Case for Good Tech](https://thenewleafjournal.com/the-positive-case-for-good-tech/)
 - [AI Game Worlds and Humane Games](https://thenewleafjournal.com/ai-game-worlds-and-humane-games/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Making My First Visual Novel: Little White Lies](https://thenewleafjournal.com/making-my-first-visual-novel-little-white-lies/)
 - [My Heroic Car Rescue in Brooklyn Heights](https://thenewleafjournal.com/my-heroic-car-rescue-in-brooklyn-heights/)
 - [NBA Champions After Losing MVPs/All NBA Players](https://thenewleafjournal.com/nba-champions-after-losing-mvps-all-nba-players/)
-- [Creating NLJ QR Code With QR Code Generator](https://thenewleafjournal.com/creating-nlj-qr-code-with-qr-code-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
