@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Incredible Article Variety on NLJ](https://social.emucafe.org/naferrell/incredible-article-variety-on-nlj-02-24-26/)
 - [Remembering to Post to Pixelfed](https://social.emucafe.org/naferrell/remembering-to-post-to-pixelfed-02-24-26/)
 - [I Hear YouTube Is Down](https://social.emucafe.org/naferrell/i-hear-youtube-is-down-02-17-26/)
 - [Questionable Murena Tablet Value](https://social.emucafe.org/naferrell/questionable-murena-tablet-value-02-17-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [AI-Influencer-Journo Marketing Gimmicks](https://social.emucafe.org/naferrell/ai-journo-influencer-marketing-02-14-26/)
 - [A Positive Technologist Identity](https://social.emucafe.org/naferrell/positive-technologist-definitions-02-14-26/)
 - [Criminal Sentencing in Nigeria](https://social.emucafe.org/naferrell/criminal-sentencing-in-nigeria-02-13-26/)
-- [Atlus Forgets a Persona Protagonist](https://social.emucafe.org/naferrell/atlus-forgets-a-persona-protagonist-02-13-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
