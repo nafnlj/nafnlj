@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Grokipedia Cites to My Anime Review](https://social.emucafe.org/naferrell/grokipedia-turns-to-nlj-02-26-26/)
 - [Pook-Emu Bee: Links For 02-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-02-26-26/)
 - [Early Flaw With Tuta Calendar-Thunderbird Integration](https://social.emucafe.org/naferrell/early-flaw-with-tuta-calendar-thunderbird-integration-02-25-26/)
 - [What is the YandoriRSSBot?](https://social.emucafe.org/naferrell/what-is-the-yandorirssbot-02-25-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 02-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-02-24-26/)
 - [Incredible Article Variety on NLJ](https://social.emucafe.org/naferrell/incredible-article-variety-on-nlj-02-24-26/)
 - [Remembering to Post to Pixelfed](https://social.emucafe.org/naferrell/remembering-to-post-to-pixelfed-02-24-26/)
-- [I Hear YouTube Is Down](https://social.emucafe.org/naferrell/i-hear-youtube-is-down-02-17-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
