@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; On Ruka in Rent-A-Girlfriend](https://social.emucafe.org/naferrell/on-ruka-in-rent-a-girlfriend-03-04-26/)
+- [Pook-Emu Bee: Links For 03-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-04-26/)
 - [Re; Pokémon That Deserve a Second Chance](https://social.emucafe.org/naferrell/second-chance-pokemon-03-03-26/)
 - [GrapheneOS-Motorola Partnership](https://social.emucafe.org/naferrell/grapheneos-motorola-partnership/)
 - [Pook-Emu Bee: Links For 03-03-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-03-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [From Thunar to PCManFM](https://social.emucafe.org/naferrell/from-thunar-to-pcmanfm-02-27-26/)
 - [Pook-Emu Bee: Links For 02-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-02-27-26/)
 - [Grokipedia Cites to My Anime Review](https://social.emucafe.org/naferrell/grokipedia-turns-to-nlj-02-26-26/)
-- [Pook-Emu Bee: Links For 02-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-02-26-26/)
-- [Early Flaw With Tuta Calendar-Thunderbird Integration](https://social.emucafe.org/naferrell/early-flaw-with-tuta-calendar-thunderbird-integration-02-25-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
