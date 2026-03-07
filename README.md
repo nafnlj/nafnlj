@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowy Statues in Brooklyn &lpar;February 2026&rpar;](https://thenewleafjournal.com/snowy-statues-in-brooklyn-february-2026/)
 - [Geese in the Snow in Brooklyn Bridge Park](https://thenewleafjournal.com/geese-in-the-snow-in-brooklyn-bridge-park-02-13-26/)
 - [Brooklyn Snowmen in February 2026](https://thenewleafjournal.com/brooklyn-snowmen-in-february-2026/)
 - [Shiroi Printer – Visual Novel Review](https://thenewleafjournal.com/shiroi-printer-visual-novel-review/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Video Game Home Console Success By Generation](https://thenewleafjournal.com/video-game-home-console-success-by-generation/)
 - [Blog Questions Challenge Answers](https://thenewleafjournal.com/blog-questions-challenge-answers/)
 - [Christmas Tina – Visual Novel Review](https://thenewleafjournal.com/christmas-tina-visual-novel-review/)
-- [The Positive Case for Good Tech](https://thenewleafjournal.com/the-positive-case-for-good-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
