@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; Offering RSS vs Newsletters](https://social.emucafe.org/naferrell/re-offering-rss-vs-newsletters-03-10-26/)
 - [Pook-Emu Bee: Links For 03-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-10-26/)
 - [Pook-Emu Bee: Links For 03-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-08-26/)
 - [Pook-Emu Bee: Links For 03-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-06-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The Oldest Known Mallard](https://social.emucafe.org/naferrell/the-oldest-known-mallard-03-04-26/)
 - [Re; On Ruka in Rent-A-Girlfriend](https://social.emucafe.org/naferrell/on-ruka-in-rent-a-girlfriend-03-04-26/)
 - [Pook-Emu Bee: Links For 03-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-04-26/)
-- [Re; Pokémon That Deserve a Second Chance](https://social.emucafe.org/naferrell/second-chance-pokemon-03-03-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
