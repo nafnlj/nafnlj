@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Mid-March Snow in Brooklyn &lpar;2021 and 2026&rpar;](https://social.emucafe.org/naferrell/mid-march-snow-in-brooklyn-03-12-2026/)
+- [Re; Against Linking to Instagram](https://social.emucafe.org/naferrell/re-against-linking-to-instagram/)
 - [Pook-Emu Bee: Links For 03-12-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-12-26/)
 - [Re; Offering RSS vs Newsletters](https://social.emucafe.org/naferrell/re-offering-rss-vs-newsletters-03-10-26/)
 - [Pook-Emu Bee: Links For 03-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-10-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 03-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-06-26/)
 - [First Impression of Pokémon Winds and Waves](https://social.emucafe.org/naferrell/first-impression-of-pokemon-winds-and-waves-03-05-26/)
 - [Pook-Emu Bee: Links For 03-05-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-05-26/)
-- [The Oldest Known Mallard](https://social.emucafe.org/naferrell/the-oldest-known-mallard-03-04-26/)
-- [Re; On Ruka in Rent-A-Girlfriend](https://social.emucafe.org/naferrell/on-ruka-in-rent-a-girlfriend-03-04-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
