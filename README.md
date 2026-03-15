@@ -43,12 +43,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [White Day Present 〜 Newsletter Leaf Journal CCLXXI](https://buttondown.com/newsletterleafjournal/archive/271/)
 - [Snow camera 〜 Newsletter Leaf Journal CCLXX](https://buttondown.com/newsletterleafjournal/archive/270/)
 - [Comeback printer 〜 Newsletter leaf journal CCLXIX](https://buttondown.com/newsletterleafjournal/archive/269/)
 - [Sixth generation 〜 Newsletter Leaf Journal CCLXVIII](https://buttondown.com/newsletterleafjournal/archive/268/)
 - [Inbox Valentine 〜 Newsletter Leaf Journal CCLXVII](https://buttondown.com/newsletterleafjournal/archive/267/)
 - [Newsletter Leaf Journal CCLXVI 〜 Little White Lies](https://buttondown.com/newsletterleafjournal/archive/266/)
-- [Newsletter Leaf Journal CCLXV 〜 Car moving service](https://buttondown.com/newsletterleafjournal/archive/265/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
