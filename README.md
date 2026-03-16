@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [February 2026 at The New Leaf Journal](https://thenewleafjournal.com/february-2026-at-the-new-leaf-journal/)
 - [The New York/California Post “Metro Section” RSS Feed](https://thenewleafjournal.com/the-new-york-california-post-metro-section-rss-feed/)
 - [The Steak Debate: Quips and a Life Well-Done](https://thenewleafjournal.com/the-steak-debate-quips-and-a-life-well-done/)
 - [Snowy Statues in Brooklyn &lpar;February 2026&rpar;](https://thenewleafjournal.com/snowy-statues-in-brooklyn-february-2026/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Shiroi Printer – Visual Novel Review](https://thenewleafjournal.com/shiroi-printer-visual-novel-review/)
 - [Dave Cowens’ 1995 NBA Comeback That Wasn’t](https://thenewleafjournal.com/dave-cowens-1995-nba-comeback-that-wasnt/)
 - [BIA Addresses Marriage Fraud on Valentine’s Eve](https://thenewleafjournal.com/bia-addresses-marriage-fraud-on-valentines-eve/)
-- [Video Game Home Console Success By Generation](https://thenewleafjournal.com/video-game-home-console-success-by-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
