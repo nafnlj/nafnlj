@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharing a Stuffed Bird Rescue Story](https://thenewleafjournal.com/sharing-a-stuffed-bird-rescue-story/)
 - [BLOB DYLAN Board in Williamsburg](https://thenewleafjournal.com/blob-dylan-board-in-williamsburg/)
 - [Atlanta Hawks’ Cancelled “Magic City” Night](https://thenewleafjournal.com/atlanta-hawks-cancelled-magic-city-night/)
 - [February 2026 at The New Leaf Journal](https://thenewleafjournal.com/february-2026-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Snowy Statues in Brooklyn &lpar;February 2026&rpar;](https://thenewleafjournal.com/snowy-statues-in-brooklyn-february-2026/)
 - [Geese in the Snow in Brooklyn Bridge Park](https://thenewleafjournal.com/geese-in-the-snow-in-brooklyn-bridge-park-02-13-26/)
 - [Brooklyn Snowmen in February 2026](https://thenewleafjournal.com/brooklyn-snowmen-in-february-2026/)
-- [Shiroi Printer – Visual Novel Review](https://thenewleafjournal.com/shiroi-printer-visual-novel-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
