@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; Underwhelming HN Comments](https://social.emucafe.org/naferrell/underwhelming-hn-comments-03-18-26/)
 - [Re; Search Engine Shortcuts in Firefox](https://social.emucafe.org/naferrell/search-engine-shortcuts-articles-03-18-26/)
 - [Pook-Emu Bee: Links For 03-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-18-26/)
 - [Image Thumbnails in Nemo File Manager &lpar;EndeavourOS&rpar;](https://social.emucafe.org/naferrell/image-thumbnails-in-nemo-file-manager-endeavouros-03-17-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [3rd Anime Season For The Dangers in My Heart](https://social.emucafe.org/naferrell/3rd-anime-season-for-the-dangers-in-my-heart-03-16-26/)
 - [Pook-Emu Bee: Links For 03-16-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-16-26/)
 - [Crispy Bacon in Japan](https://social.emucafe.org/naferrell/crispy-bacon-in-japan/)
-- [Pook-Emu Bee: Links For 03-15-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-15-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
