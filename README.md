@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Sega Genesis Stock Ticker Available](https://social.emucafe.org/naferrell/sega-genesis-stock-ticker-available-03-20-26/)
 - [Re; Return Old Online Things to your own Site](https://social.emucafe.org/naferrell/return-old-online-things-to-your-own-site-03-20-26/)
 - [Pook-Emu Bee: Links For 03-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-20-26/)
 - [Jeff Green’s Career-High 43 on 03-18-13](https://social.emucafe.org/naferrell/jeff-green-career-high-43-on-03-18-13/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 03-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-19-26/)
 - [Re; Underwhelming HN Comments](https://social.emucafe.org/naferrell/underwhelming-hn-comments-03-18-26/)
 - [Re; Search Engine Shortcuts in Firefox](https://social.emucafe.org/naferrell/search-engine-shortcuts-articles-03-18-26/)
-- [Pook-Emu Bee: Links For 03-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-18-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
