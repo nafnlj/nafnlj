@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [My Recollection of Kobe Bryant’s 81](https://thenewleafjournal.com/my-recollection-of-kobe-bryants-81/)
 - [Happy Cleaners Cargo Trike in the Rain](https://thenewleafjournal.com/happy-cleaners-cargo-trike-in-the-rain/)
 - [Jackie Harris’ Fruitmobile Seen at Houston Hobby](https://thenewleafjournal.com/jackie-harris-fruitmobile-seen-at-houston-hobby/)
 - [Sharing a Stuffed Bird Rescue Story](https://thenewleafjournal.com/sharing-a-stuffed-bird-rescue-story/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [February 2026 at The New Leaf Journal](https://thenewleafjournal.com/february-2026-at-the-new-leaf-journal/)
 - [The New York/California Post “Metro Section” RSS Feed](https://thenewleafjournal.com/the-new-york-california-post-metro-section-rss-feed/)
 - [The Steak Debate: Quips and a Life Well-Done](https://thenewleafjournal.com/the-steak-debate-quips-and-a-life-well-done/)
-- [Snowy Statues in Brooklyn &lpar;February 2026&rpar;](https://thenewleafjournal.com/snowy-statues-in-brooklyn-february-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
