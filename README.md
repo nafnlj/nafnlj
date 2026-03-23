@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Adding Victor V. Gurbo’s YouTube Channel to NLJ Blogroll](https://social.emucafe.org/naferrell/adding-victor-v-gurbos-youtube-channel-to-nlj-blogroll-03-23-26/)
 - [Sony’s Very Long-Term PS3 Support](https://social.emucafe.org/naferrell/sony-long-term-ps3-support-03-23-26/)
 - [Pook-Emu Bee: Links For 03-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-23-26/)
 - [Internet Reply Posting](https://social.emucafe.org/naferrell/internet-reply-posting-03-22-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Bossert Hotel Work in Brooklyn Heights &lpar;March 2026&rpar;](https://social.emucafe.org/naferrell/bossert-hotel-work-03-21-26/)
 - [The Heaviest Owl in North America](https://social.emucafe.org/naferrell/the-heaviest-owl-in-north-america-03-20-26/)
 - [Sega Genesis Stock Ticker Available](https://social.emucafe.org/naferrell/sega-genesis-stock-ticker-available-03-20-26/)
-- [Re; Return Old Online Things to your own Site](https://social.emucafe.org/naferrell/return-old-online-things-to-your-own-site-03-20-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
