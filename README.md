@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [NAF Blogroll Entry: Joel Chrono](https://social.emucafe.org/naferrell/naf-blogroll-entry-joel-chrono-03-22-26/)
 - [Pook-Emu Bee: Links For 03-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-22-26/)
 - [Bossert Hotel Work in Brooklyn Heights &lpar;March 2026&rpar;](https://social.emucafe.org/naferrell/bossert-hotel-work-03-21-26/)
 - [The Heaviest Owl in North America](https://social.emucafe.org/naferrell/the-heaviest-owl-in-north-america-03-20-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 03-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-20-26/)
 - [Jeff Green’s Career-High 43 on 03-18-13](https://social.emucafe.org/naferrell/jeff-green-career-high-43-on-03-18-13/)
 - [MSN Dial-Up Internet in 2026](https://social.emucafe.org/naferrell/msn-dial-up-internet-in-2026-03-19/)
-- [Carroll Street Bridge Proposals](https://social.emucafe.org/naferrell/the-carroll-street-bridge-is-the-second-03-19-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
