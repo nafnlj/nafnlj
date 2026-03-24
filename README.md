@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 03-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-24-26/)
 - [Anime News Network’s Confusing Season Ranking](https://social.emucafe.org/naferrell/anime-news-networks-confusing-season-ranking/)
 - [Re; On AI in response to: A Positive Technologist Identity &lpar;4/4&rpar;](https://social.emucafe.org/naferrell/re-on-ai-in-response-to-a-positive-technologist-identity-4-03-23-26/)
 - [Re; On AI in response to: A Positive Technologist Identity &lpar;3/4&rpar;](https://social.emucafe.org/naferrell/re-on-ai-in-response-to-a-positive-technologist-identity-3-03-23-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Adding Victor V. Gurbo’s YouTube Channel to NLJ Blogroll](https://social.emucafe.org/naferrell/adding-victor-v-gurbos-youtube-channel-to-nlj-blogroll-03-23-26/)
 - [Sony’s Very Long-Term PS3 Support](https://social.emucafe.org/naferrell/sony-long-term-ps3-support-03-23-26/)
 - [Pook-Emu Bee: Links For 03-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-23-26/)
-- [Internet Reply Posting](https://social.emucafe.org/naferrell/internet-reply-posting-03-22-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
