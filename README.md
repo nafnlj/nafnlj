@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Axe, Enchanting Musk, and Muskrats](https://thenewleafjournal.com/axe-enchanting-musk-and-muskrats/)
 - [Uncle Susan Graffiti in Carroll Gardens](https://thenewleafjournal.com/uncle-susan-graffiti-in-carroll-gardens/)
 - [Introducing N.A. Ferrell’s NLJ Blogroll](https://thenewleafjournal.com/introducing-n-a-ferrells-nlj-blogroll/)
 - [My Recollection of Kobe Bryant’s 81](https://thenewleafjournal.com/my-recollection-of-kobe-bryants-81/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Sharing a Stuffed Bird Rescue Story](https://thenewleafjournal.com/sharing-a-stuffed-bird-rescue-story/)
 - [BLOB DYLAN Board in Williamsburg](https://thenewleafjournal.com/blob-dylan-board-in-williamsburg/)
 - [Atlanta Hawks’ Cancelled “Magic City” Night](https://thenewleafjournal.com/atlanta-hawks-cancelled-magic-city-night/)
-- [February 2026 at The New Leaf Journal](https://thenewleafjournal.com/february-2026-at-the-new-leaf-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
