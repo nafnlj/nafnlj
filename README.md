@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Joke is on the Crunchyroll Hackers](https://social.emucafe.org/naferrell/joke-is-on-the-crunchyroll-hackers-03-26-26/)
+- [Pook-Emu Bee: Links For 03-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-26-26/)
 - [OpenAI’s “Checkout Experiences”](https://social.emucafe.org/naferrell/openais-checkout-experiences-03-25-26/)
 - [Pook-Emu Bee: Links For 03-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-25-26/)
 - [Jehovah’s Witnesses Remove WATCHTOWER Sign in Brooklyn &lpar;2017&rpar;](https://social.emucafe.org/naferrell/jw-remove-watchtower-sign-in-brooklyn-2017-03-24-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 03-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-24-26/)
 - [Anime News Network’s Confusing Season Ranking](https://social.emucafe.org/naferrell/anime-news-networks-confusing-season-ranking/)
 - [Re; On AI in response to: A Positive Technologist Identity &lpar;4/4&rpar;](https://social.emucafe.org/naferrell/re-on-ai-in-response-to-a-positive-technologist-identity-4-03-23-26/)
-- [Re; On AI in response to: A Positive Technologist Identity &lpar;3/4&rpar;](https://social.emucafe.org/naferrell/re-on-ai-in-response-to-a-positive-technologist-identity-3-03-23-26/)
-- [Re; On AI in response to: A Positive Technologist Identity &lpar;2/4&rpar;](https://social.emucafe.org/naferrell/re-on-ai-in-response-to-a-positive-technologist-identity-2-03-23-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
