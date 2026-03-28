@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [AI Editing vs Editing AI](https://social.emucafe.org/naferrell/ai-editing-vs-editing-ai-03-27-26/)
 - [Re; Improve the RSS experience of your blog readers](https://social.emucafe.org/naferrell/re-improve-the-rss-experience-of-your-blog-readers-03-27-26/)
 - [Pook-Emu Bee: Links For 03-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-27-26/)
 - [Seadra Pokémon Cosplay Photography](https://social.emucafe.org/naferrell/seadra-pokemon-cosplay-photography-03-26-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [OpenAI’s “Checkout Experiences”](https://social.emucafe.org/naferrell/openais-checkout-experiences-03-25-26/)
 - [Pook-Emu Bee: Links For 03-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-25-26/)
 - [Jehovah’s Witnesses Remove WATCHTOWER Sign in Brooklyn &lpar;2017&rpar;](https://social.emucafe.org/naferrell/jw-remove-watchtower-sign-in-brooklyn-2017-03-24-26/)
-- [Getting to the Point in Blogs](https://social.emucafe.org/naferrell/getting-to-the-point-in-blog-posts-03-24-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
