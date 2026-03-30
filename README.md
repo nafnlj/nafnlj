@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 03-30-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-30-26/)
 - [“What if the [AI] bubble bursts?”](https://social.emucafe.org/naferrell/what-if-the-ai-bubble-bursts-03-29-26/)
 - [Pook-Emu Bee: Links For 03-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-28-26/)
 - [AI Editing vs Editing AI](https://social.emucafe.org/naferrell/ai-editing-vs-editing-ai-03-27-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Seadra Pokémon Cosplay Photography](https://social.emucafe.org/naferrell/seadra-pokemon-cosplay-photography-03-26-26/)
 - [Joke is on the Crunchyroll Hackers](https://social.emucafe.org/naferrell/joke-is-on-the-crunchyroll-hackers-03-26-26/)
 - [Pook-Emu Bee: Links For 03-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-26-26/)
-- [OpenAI’s “Checkout Experiences”](https://social.emucafe.org/naferrell/openais-checkout-experiences-03-25-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
