@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Re; Respond, Don’t Create](https://social.emucafe.org/naferrell/re-respond-dont-create-03-30-26/)
 - [Retro Re; On Ditching AMP](https://social.emucafe.org/naferrell/retro-re-on-ditching-amp/)
 - [Pook-Emu Bee: Links For 03-30-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-30-26/)
 - [“What if the [AI] bubble bursts?”](https://social.emucafe.org/naferrell/what-if-the-ai-bubble-bursts-03-29-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Re; Improve the RSS experience of your blog readers](https://social.emucafe.org/naferrell/re-improve-the-rss-experience-of-your-blog-readers-03-27-26/)
 - [Pook-Emu Bee: Links For 03-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-27-26/)
 - [Seadra Pokémon Cosplay Photography](https://social.emucafe.org/naferrell/seadra-pokemon-cosplay-photography-03-26-26/)
-- [Joke is on the Crunchyroll Hackers](https://social.emucafe.org/naferrell/joke-is-on-the-crunchyroll-hackers-03-26-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
