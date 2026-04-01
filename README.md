@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [The Ever-Present Old Internet](https://social.emucafe.org/naferrell/the-ever-present-old-internet-03-31-26/)
 - [2026 is the Year of the Windows Desktop&lpar;TM&rpar;](https://social.emucafe.org/naferrell/2026-is-the-year-of-the-windows-desktop-03-31-26/)
 - [Pook-Emu Bee: Links For 03-31-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-31-26/)
 - [Re; Respond, Don’t Create](https://social.emucafe.org/naferrell/re-respond-dont-create-03-30-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [“What if the [AI] bubble bursts?”](https://social.emucafe.org/naferrell/what-if-the-ai-bubble-bursts-03-29-26/)
 - [Pook-Emu Bee: Links For 03-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-28-26/)
 - [AI Editing vs Editing AI](https://social.emucafe.org/naferrell/ai-editing-vs-editing-ai-03-27-26/)
-- [Re; Improve the RSS experience of your blog readers](https://social.emucafe.org/naferrell/re-improve-the-rss-experience-of-your-blog-readers-03-27-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
