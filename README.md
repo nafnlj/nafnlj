@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Connecting Self-Hosted WP Site to Tags.pub](https://social.emucafe.org/naferrell/connecting-self-hosted-wp-site-to-tags-pub-04-03-26/)
+- [Takopi’s Original Sin Review Reminds Me of Narcissu](https://social.emucafe.org/naferrell/takopi-review-reminds-of-narcissu-04-03-26/)
 - [Pook-Emu Bee: Links For 04-03-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-03-26/)
 - [Pook-Emu Bee: Links For 04-02-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-02-26/)
 - [Pook-Emu Bee: Links For 04-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-01-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [2026 is the Year of the Windows Desktop&lpar;TM&rpar;](https://social.emucafe.org/naferrell/2026-is-the-year-of-the-windows-desktop-03-31-26/)
 - [Pook-Emu Bee: Links For 03-31-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-31-26/)
 - [Re; Respond, Don’t Create](https://social.emucafe.org/naferrell/re-respond-dont-create-03-30-26/)
-- [Retro Re; On Ditching AMP](https://social.emucafe.org/naferrell/retro-re-on-ditching-amp/)
-- [Pook-Emu Bee: Links For 03-30-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-03-30-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
