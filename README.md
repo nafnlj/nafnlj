@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [High Ad Block Usage in Indonesia](https://social.emucafe.org/naferrell/high-ad-block-usage-in-indonesia-04-05-26/)
 - [U.S. Special Operations Forces Rescue Air Force Officer](https://social.emucafe.org/naferrell/u-s-special-operations-forces-rescue-air-force-officer-04-05-26/)
 - [The Former Bronx Zoo Platypuses](https://social.emucafe.org/naferrell/the-former-bronx-zoo-platypuses-04-04-26/)
 - [Capcom: DRM-free on GOG, DRM’d on Steam](https://social.emucafe.org/naferrell/capcom-drm-free-on-gog-drmd-on-steam-04-03-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 04-03-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-03-26/)
 - [Pook-Emu Bee: Links For 04-02-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-02-26/)
 - [Pook-Emu Bee: Links For 04-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-01-26/)
-- [The Ever-Present Old Internet](https://social.emucafe.org/naferrell/the-ever-present-old-internet-03-31-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
