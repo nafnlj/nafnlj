@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 04-07-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-07-26/)
 - [Grokipedia Thinks I Wrote About Persona Q2 &lpar;I Have Never Played Persona Q2&rpar;](https://social.emucafe.org/naferrell/grokipedia-thinks-i-wrote-about-persona-q2-04-06-26/)
 - [Touching the Gowanus Canal?](https://social.emucafe.org/naferrell/touching-the-gowanus-canal-04-06-26/)
 - [Pook-Emu Bee: Links For 04-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-06-26-2/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The Former Bronx Zoo Platypuses](https://social.emucafe.org/naferrell/the-former-bronx-zoo-platypuses-04-04-26/)
 - [Capcom: DRM-free on GOG, DRM’d on Steam](https://social.emucafe.org/naferrell/capcom-drm-free-on-gog-drmd-on-steam-04-03-26/)
 - [Connecting Self-Hosted WP Site to Tags.pub](https://social.emucafe.org/naferrell/connecting-self-hosted-wp-site-to-tags-pub-04-03-26/)
-- [Takopi’s Original Sin Review Reminds Me of Narcissu](https://social.emucafe.org/naferrell/takopi-review-reminds-of-narcissu-04-03-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
