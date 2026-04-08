@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 04-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-08-26/)
 - [Storing Photos on Someone Else’s Computer](https://social.emucafe.org/naferrell/storing-photos-on-someone-elses-computer-04-07-26/)
 - [Japan’s Oil Imports](https://social.emucafe.org/naferrell/japan-oil-imports-04-07-26/)
 - [April’s Pink Moon](https://social.emucafe.org/naferrell/aprils-pink-moon-04-07-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Touching the Gowanus Canal?](https://social.emucafe.org/naferrell/touching-the-gowanus-canal-04-06-26/)
 - [Pook-Emu Bee: Links For 04-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-06-26-2/)
 - [High Ad Block Usage in Indonesia](https://social.emucafe.org/naferrell/high-ad-block-usage-in-indonesia-04-05-26/)
-- [U.S. Special Operations Forces Rescue Air Force Officer](https://social.emucafe.org/naferrell/u-s-special-operations-forces-rescue-air-force-officer-04-05-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
