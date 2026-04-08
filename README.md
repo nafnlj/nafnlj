@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Marginalia Search’s Backlink Search](https://thenewleafjournal.com/using-marginalia-searchs-backlink-search/)
 - [March 2026 at The New Leaf Journal](https://thenewleafjournal.com/march-2026-at-the-new-leaf-journal/)
 - [Inflatable Easter Bunny in Columbia Street Waterfront District &lpar;2026&rpar;](https://thenewleafjournal.com/inflatable-easter-bunny-in-columbia-street-waterfront-district-2026/)
 - [Toothpaste Expiration Dates](https://thenewleafjournal.com/toothpaste-expiration-dates/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Axe, Enchanting Musk, and Muskrats](https://thenewleafjournal.com/axe-enchanting-musk-and-muskrats/)
 - [Uncle Susan Graffiti in Carroll Gardens](https://thenewleafjournal.com/uncle-susan-graffiti-in-carroll-gardens/)
 - [Introducing N.A. Ferrell’s NLJ Blogroll](https://thenewleafjournal.com/introducing-n-a-ferrells-nlj-blogroll/)
-- [My Recollection of Kobe Bryant’s 81](https://thenewleafjournal.com/my-recollection-of-kobe-bryants-81/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
