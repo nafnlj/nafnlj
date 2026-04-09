@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [The “Build A Boy” Project](https://social.emucafe.org/naferrell/build-a-boy-project-04-08-26/)
 - [Blocking Bad Bots With AbuseIPD Blacklist](https://social.emucafe.org/naferrell/blocking-bad-bots-with-abuseipd-blacklist-04-08-26/)
 - [On the Phone Map Crisis](https://social.emucafe.org/naferrell/on-the-phone-map-crisis-04-08-26/)
 - [Pook-Emu Bee: Links For 04-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-08-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [April’s Pink Moon](https://social.emucafe.org/naferrell/aprils-pink-moon-04-07-26/)
 - [Pook-Emu Bee: Links For 04-07-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-07-26/)
 - [Grokipedia Thinks I Wrote About Persona Q2 &lpar;I Have Never Played Persona Q2&rpar;](https://social.emucafe.org/naferrell/grokipedia-thinks-i-wrote-about-persona-q2-04-06-26/)
-- [Touching the Gowanus Canal?](https://social.emucafe.org/naferrell/touching-the-gowanus-canal-04-06-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
