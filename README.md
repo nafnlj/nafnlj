@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Uganda, Israel, and Iran in 2026 vs 1976](https://thenewleafjournal.com/uganda-israel-and-iran-in-2026-vs-1976/)
 - [Using Marginalia Search’s Backlink Search](https://thenewleafjournal.com/using-marginalia-searchs-backlink-search/)
 - [March 2026 at The New Leaf Journal](https://thenewleafjournal.com/march-2026-at-the-new-leaf-journal/)
 - [Inflatable Easter Bunny in Columbia Street Waterfront District &lpar;2026&rpar;](https://thenewleafjournal.com/inflatable-easter-bunny-in-columbia-street-waterfront-district-2026/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Looking at Moji, an Emoji-only Chat App](https://thenewleafjournal.com/looking-at-moji-an-emoji-only-chat-app/)
 - [Axe, Enchanting Musk, and Muskrats](https://thenewleafjournal.com/axe-enchanting-musk-and-muskrats/)
 - [Uncle Susan Graffiti in Carroll Gardens](https://thenewleafjournal.com/uncle-susan-graffiti-in-carroll-gardens/)
-- [Introducing N.A. Ferrell’s NLJ Blogroll](https://thenewleafjournal.com/introducing-n-a-ferrells-nlj-blogroll/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
