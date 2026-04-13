@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Google Verbatim Mode Custom Search Shortcut](https://social.emucafe.org/naferrell/google-verbatim-mode-custom-search-shortcut-04-13-26/)
+- [Pook-Emu Bee: Links For 04-13-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-13-26/)
 - [Asian Carp and Gefilte Fish](https://social.emucafe.org/naferrell/asian-carp-and-gefilte-fish-04-13-26/)
 - [Pook-Emu Bee: Links For 04-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-10-26/)
 - [Non-Meta Smartglasses and my Pet Issues](https://social.emucafe.org/naferrell/non-meta-smartglasses-and-my-pet-issues-04-09-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The “Build A Boy” Project](https://social.emucafe.org/naferrell/build-a-boy-project-04-08-26/)
 - [Blocking Bad Bots With AbuseIPD Blacklist](https://social.emucafe.org/naferrell/blocking-bad-bots-with-abuseipd-blacklist-04-08-26/)
 - [On the Phone Map Crisis](https://social.emucafe.org/naferrell/on-the-phone-map-crisis-04-08-26/)
-- [Pook-Emu Bee: Links For 04-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-08-26/)
-- [Storing Photos on Someone Else’s Computer](https://social.emucafe.org/naferrell/storing-photos-on-someone-elses-computer-04-07-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
