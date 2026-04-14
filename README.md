@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 04-14-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-14-26/)
 - [Learning About Zespri RubyRed Kiwi](https://social.emucafe.org/naferrell/learning-about-zespri-rubyred-kiwi-04-13-26/)
 - [Learning About Bonbon Drop Stickers](https://social.emucafe.org/naferrell/learning-about-bonbon-drop-stickers-04-13-26/)
 - [Google Verbatim Mode Custom Search Shortcut](https://social.emucafe.org/naferrell/google-verbatim-mode-custom-search-shortcut-04-13-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 04-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-10-26/)
 - [Non-Meta Smartglasses and my Pet Issues](https://social.emucafe.org/naferrell/non-meta-smartglasses-and-my-pet-issues-04-09-26/)
 - [Pook-Emu Bee: Links For 04-09-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-09-26/)
-- [The “Build A Boy” Project](https://social.emucafe.org/naferrell/build-a-boy-project-04-08-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
