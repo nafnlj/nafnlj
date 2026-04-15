@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Bam Adebayo’s 83 and Scoring Averages in 60+ Point Game Seasons](https://thenewleafjournal.com/bam-adebayos-83-and-scoring-averages-in-60-point-game-seasons/)
 - [2000-01 Bucks vs Second Three-Peat Bulls](https://thenewleafjournal.com/2000-01-bucks-vs-second-three-peat-bulls/)
 - [Uganda, Israel, and Iran in 2026 vs 1976](https://thenewleafjournal.com/uganda-israel-and-iran-in-2026-vs-1976/)
 - [Using Marginalia Search’s Backlink Search](https://thenewleafjournal.com/using-marginalia-searchs-backlink-search/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Toothpaste Expiration Dates](https://thenewleafjournal.com/toothpaste-expiration-dates/)
 - [The Proper Place For Articles and Blog Posts](https://thenewleafjournal.com/the-proper-place-for-articles-and-blog-posts/)
 - [Looking at Moji, an Emoji-only Chat App](https://thenewleafjournal.com/looking-at-moji-an-emoji-only-chat-app/)
-- [Axe, Enchanting Musk, and Muskrats](https://thenewleafjournal.com/axe-enchanting-musk-and-muskrats/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
