@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [On Vertical vs Horizontal Tab Hot Takes](https://social.emucafe.org/naferrell/on-vertical-vs-horizontal-tab-hot-takes-04-16-26/)
 - [Pook-Emu Bee: Links For 04-16-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-16-26/)
 - [Unique Individual Scoring Games in NBA History](https://social.emucafe.org/naferrell/unique-individual-scoring-games-in-nba-history-04-15-26/)
 - [AI Can’t “Lie”](https://social.emucafe.org/naferrell/ai-cant-lie-04-15-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Learning About Zespri RubyRed Kiwi](https://social.emucafe.org/naferrell/learning-about-zespri-rubyred-kiwi-04-13-26/)
 - [Learning About Bonbon Drop Stickers](https://social.emucafe.org/naferrell/learning-about-bonbon-drop-stickers-04-13-26/)
 - [Google Verbatim Mode Custom Search Shortcut](https://social.emucafe.org/naferrell/google-verbatim-mode-custom-search-shortcut-04-13-26/)
-- [Pook-Emu Bee: Links For 04-13-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-13-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
