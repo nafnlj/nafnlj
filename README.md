@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Installing Android and Linux on Switch](https://social.emucafe.org/naferrell/installing-android-and-linux-on-switch-04-19-26/)
 - [Pook-Emu Bee: Links For 04-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-19-26/)
 - [New Victor V. Gurbo Podcast Interview](https://social.emucafe.org/naferrell/new-victor-v-gurbo-podcast-interview-04-17-26/)
 - [Pook-Emu Bee: Links For 04-17-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-17-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 04-16-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-16-26/)
 - [Unique Individual Scoring Games in NBA History](https://social.emucafe.org/naferrell/unique-individual-scoring-games-in-nba-history-04-15-26/)
 - [AI Can’t “Lie”](https://social.emucafe.org/naferrell/ai-cant-lie-04-15-26/)
-- [Pook-Emu Bee: Links For 04-15-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-15-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
