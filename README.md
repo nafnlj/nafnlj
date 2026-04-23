@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Bad IP Watch](https://social.emucafe.org/naferrell/bad-ip-watch-04-23-26/)
+- [Pook-Emu Bee: Links For 04-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-23-26/)
 - [Remembering My Clamshell Landline Phone](https://social.emucafe.org/naferrell/remember-my-clamshell-landline-phone-04-22-26/)
 - [Pook-Emu Bee: Links For 04-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-22-26/)
 - [Framework Designs Wireless TouchPad Keyboard](https://social.emucafe.org/naferrell/framework-designs-wireless-touchpad-keyboard-04-21-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Development of the Anglerfish Lure](https://social.emucafe.org/naferrell/development-of-the-anglerfish-lure-04-20-26/)
 - [Second Best NBA Team of the 2000s](https://social.emucafe.org/naferrell/second-best-nba-team-of-the-2000s-04-20-26/)
 - [Pook-Emu Bee: Links For 04-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-20-26/)
-- [Installing Android and Linux on Switch](https://social.emucafe.org/naferrell/installing-android-and-linux-on-switch-04-19-26/)
-- [Pook-Emu Bee: Links For 04-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-19-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
