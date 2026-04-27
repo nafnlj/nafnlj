@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Schrödinger’s Ayatollah and Umineko: When They Cry](https://social.emucafe.org/naferrell/schrodingers-ayatollah-and-umineko-04-26-26/)
 - [Pook-Emu Bee: Links For 04-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-24-26/)
 - [Bad IP Watch](https://social.emucafe.org/naferrell/bad-ip-watch-04-23-26/)
 - [Pook-Emu Bee: Links For 04-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-23-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Framework Designs Wireless TouchPad Keyboard](https://social.emucafe.org/naferrell/framework-designs-wireless-touchpad-keyboard-04-21-26/)
 - [Pook-Emu Bee: Links For 04-21-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-21-26/)
 - [Development of the Anglerfish Lure](https://social.emucafe.org/naferrell/development-of-the-anglerfish-lure-04-20-26/)
-- [Second Best NBA Team of the 2000s](https://social.emucafe.org/naferrell/second-best-nba-team-of-the-2000s-04-20-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
