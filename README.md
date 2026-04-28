@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [NLJ Sixth Birthday Project](https://thenewleafjournal.com/nlj-sixth-birthday-project/)
 - [Proctoring a High School Exam While in High School](https://thenewleafjournal.com/proctoring-a-high-school-exam-while-in-high-school/)
 - [My One-Game Stint as a Baseball Coach](https://thenewleafjournal.com/my-one-game-stint-as-a-baseball-coach/)
 - [Attending to Surroundings and Thoughts on Walks](https://thenewleafjournal.com/attending-to-surroundings-and-thoughts-on-walks/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Spring Season 2026 at The New Leaf Journal](https://thenewleafjournal.com/spring-season-2026-at-the-new-leaf-journal/)
 - [AI Today, Calculators Back in the Day](https://thenewleafjournal.com/ai-today-calculators-back-in-the-day/)
 - [Bam Adebayo’s 83 and Scoring Averages in 60+ Point Game Seasons](https://thenewleafjournal.com/bam-adebayos-83-and-scoring-averages-in-60-point-game-seasons/)
-- [2000-01 Bucks vs Second Three-Peat Bulls](https://thenewleafjournal.com/2000-01-bucks-vs-second-three-peat-bulls/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
