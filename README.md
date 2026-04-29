@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Learning About Cassette Futurism](https://social.emucafe.org/naferrell/learning-about-cassette-futurism-04-28-26/)
 - [Pook-Emu Bee: Links For 04-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-28-26/)
 - [Schrödinger’s Ayatollah and Umineko: When They Cry](https://social.emucafe.org/naferrell/schrodingers-ayatollah-and-umineko-04-26-26/)
 - [Pook-Emu Bee: Links For 04-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-24-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Remembering My Clamshell Landline Phone](https://social.emucafe.org/naferrell/remember-my-clamshell-landline-phone-04-22-26/)
 - [Pook-Emu Bee: Links For 04-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-22-26/)
 - [Framework Designs Wireless TouchPad Keyboard](https://social.emucafe.org/naferrell/framework-designs-wireless-touchpad-keyboard-04-21-26/)
-- [Pook-Emu Bee: Links For 04-21-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-21-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
