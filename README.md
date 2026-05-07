@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 05-07-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-07-26/)
 - [Pook-Emu Bee: Links For 05-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-06-26/)
 - [Pook-Emu Bee: Links For 05-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-04-26/)
 - [Pook-Emu Bee: Links For 05-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-01-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Learning About Cassette Futurism](https://social.emucafe.org/naferrell/learning-about-cassette-futurism-04-28-26/)
 - [Pook-Emu Bee: Links For 04-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-28-26/)
 - [Schrödinger’s Ayatollah and Umineko: When They Cry](https://social.emucafe.org/naferrell/schrodingers-ayatollah-and-umineko-04-26-26/)
-- [Pook-Emu Bee: Links For 04-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-04-24-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
