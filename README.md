@@ -7,15 +7,15 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogging Promises, Schedules, and Burnout](https://thenewleafjournal.com/blogging-promises-schedules-and-burnout/)
+- [Sliwa for NYC Mayor Lawn Signs Seen in May 2026](https://thenewleafjournal.com/sliwa-for-nyc-mayor-lawn-signs-seen-in-may-2026/)
+- [Blogging and the Niche Question](https://thenewleafjournal.com/blogging-and-the-niche-question/)
+- [Belleville &lpar;NJ&rpar; Fire Seen From Red Hook &lpar;Brooklyn&rpar;](https://thenewleafjournal.com/belleville-nj-fire-seen-from-red-hook-brooklyn/)
+- [Inflatable Mother’s Day Flowers in Brooklyn](https://thenewleafjournal.com/inflatable-mothers-day-flowers-in-brooklyn/)
+- [Some Benefits of Blogging and Writing Online](https://thenewleafjournal.com/some-benefits-of-blogging/)
+- [Memories – Recording Mario Kart: Double Dash on VHS](https://thenewleafjournal.com/memories-recording-mario-kart-double-dash-on-vhs/)
 - [Weathered White Brooklyn Banana Bench](https://thenewleafjournal.com/weathered-white-brooklyn-banana-bench/)
 - [NLJ Sixth Birthday Project](https://thenewleafjournal.com/nlj-sixth-birthday-project/)
-- [Proctoring a High School Exam While in High School](https://thenewleafjournal.com/proctoring-a-high-school-exam-while-in-high-school/)
-- [My One-Game Stint as a Baseball Coach](https://thenewleafjournal.com/my-one-game-stint-as-a-baseball-coach/)
-- [Attending to Surroundings and Thoughts on Walks](https://thenewleafjournal.com/attending-to-surroundings-and-thoughts-on-walks/)
-- [Staying the Course in Writing in the LLM Moment](https://thenewleafjournal.com/staying-the-course-in-writing-in-the-llm-moment/)
-- [“Stick Library” in Brooklyn Heights](https://thenewleafjournal.com/stick-library-in-brooklyn-heights/)
-- [Spring Season 2026 at The New Leaf Journal](https://thenewleafjournal.com/spring-season-2026-at-the-new-leaf-journal/)
-- [AI Today, Calculators Back in the Day](https://thenewleafjournal.com/ai-today-calculators-back-in-the-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
