@@ -16,6 +16,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: NLLJ-POST-LIST
-          max_post_count: 6
-          feed_list: "https://buttondown.com/newsletterleafjournal/rss"
+          comment_tag_name: BLOG-POST-LIST
+          max_post_count: 9
+          feed_list: "https://thenewleafjournal.com/feed/"
