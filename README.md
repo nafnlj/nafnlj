@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Emu Café Social and ATmosphere](https://social.emucafe.org/naferrell/ecs-and-atmosphere-for-wordpress-05-20-26/)
+- [Italy-Azerbaijan Trade Partnership](https://social.emucafe.org/naferrell/italy-azerbaijan-trade-partnership-05-20-26/)
 - [Pook-Emu Bee: Links For 05-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-20-26/)
 - [Pook-Emu Bee: Links For 05-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-19-26/)
 - [Pook-Emu Bee: Links For 05-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-18-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Weighing Large Owls](https://social.emucafe.org/naferrell/weighing-large-owls-05-13-26/)
 - [Pook-Emu Bee: Links For 05-12-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-12-26/)
 - [Pook-Emu Bee: Links For 05-11-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-11-26/)
-- [Pook-Emu Bee: Links For 05-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-08-26/)
-- [Learning About Preserving Strawberry Freshness](https://social.emucafe.org/naferrell/learning-about-preserving-strawberry-freshness-05-07-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
