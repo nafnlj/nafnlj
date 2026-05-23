@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing How to Build and Host a Blog](https://thenewleafjournal.com/choosing-how-to-build-and-host-a-blog/)
 - [ActivityPub for WordPress and fediverse:creator](https://thenewleafjournal.com/activitypub-for-wordpress-and-fediversecreator/)
 - [The Emu Café and Blog Hospitality](https://thenewleafjournal.com/the-emu-cafe-and-blog-hospitality/)
 - [April 2026 at The New Leaf Journal](https://thenewleafjournal.com/april-2026-at-the-new-leaf-journal/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Blogging and the Niche Question](https://thenewleafjournal.com/blogging-and-the-niche-question/)
 - [Belleville &lpar;NJ&rpar; Fire Seen From Red Hook &lpar;Brooklyn&rpar;](https://thenewleafjournal.com/belleville-nj-fire-seen-from-red-hook-brooklyn/)
 - [Inflatable Mother’s Day Flowers in Brooklyn](https://thenewleafjournal.com/inflatable-mothers-day-flowers-in-brooklyn/)
-- [Some Benefits of Blogging and Writing Online](https://thenewleafjournal.com/some-benefits-of-blogging/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
