@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 05-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-27-26/)
 - [Pook-Emu Bee: Links For 05-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-26-26/)
 - [Pink Tea With Baking Soda](https://social.emucafe.org/naferrell/pink-tea-with-baking-soda-05-26-26/)
 - [Moina Michael and the Remembrance Poppy](https://social.emucafe.org/naferrell/moina-michael-remembrance-poppy-05-25-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Emu Café Social and ATmosphere](https://social.emucafe.org/naferrell/ecs-and-atmosphere-for-wordpress-05-20-26/)
 - [Italy-Azerbaijan Trade Partnership](https://social.emucafe.org/naferrell/italy-azerbaijan-trade-partnership-05-20-26/)
 - [Pook-Emu Bee: Links For 05-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-20-26/)
-- [Pook-Emu Bee: Links For 05-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-19-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
