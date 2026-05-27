@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Be the Blogger You Want to Be &lpar;Or Read&rpar;](https://thenewleafjournal.com/be-the-blogger-you-want-to-be-or-read/)
 - [On Spotify’s SpotifAI Podcasts](https://thenewleafjournal.com/on-spotifys-spotifai-podcasts/)
 - [Choosing How to Build and Host a Blog](https://thenewleafjournal.com/choosing-how-to-build-and-host-a-blog/)
 - [ActivityPub for WordPress and fediverse:creator](https://thenewleafjournal.com/activitypub-for-wordpress-and-fediversecreator/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Blogging Promises, Schedules, and Burnout](https://thenewleafjournal.com/blogging-promises-schedules-and-burnout/)
 - [Sliwa for NYC Mayor Lawn Signs Seen in May 2026](https://thenewleafjournal.com/sliwa-for-nyc-mayor-lawn-signs-seen-in-may-2026/)
 - [Blogging and the Niche Question](https://thenewleafjournal.com/blogging-and-the-niche-question/)
-- [Belleville &lpar;NJ&rpar; Fire Seen From Red Hook &lpar;Brooklyn&rpar;](https://thenewleafjournal.com/belleville-nj-fire-seen-from-red-hook-brooklyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
