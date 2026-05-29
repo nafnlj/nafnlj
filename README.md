@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Video: A Defense of Visual Novels](https://social.emucafe.org/naferrell/video-a-defense-of-visual-novels-05-28-26/)
+- [Disabling AI in WordPress 7.0](https://social.emucafe.org/naferrell/disabling-ai-in-wordpress-7-05-28-26/)
 - [Pook-Emu Bee: Links For 05-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-28-26/)
 - [Pook-Emu Bee: Links For 05-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-27-26/)
 - [Pook-Emu Bee: Links For 05-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-26-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Moina Michael and the Remembrance Poppy](https://social.emucafe.org/naferrell/moina-michael-remembrance-poppy-05-25-26/)
 - [Pook-Emu Bee: Links For Memorial Day &lpar;2026&rpar;](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-memorial-day-2026/)
 - [Pook-Emu Bee: Links For 05-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-22-26/)
-- [Emu Café Social and ATmosphere](https://social.emucafe.org/naferrell/ecs-and-atmosphere-for-wordpress-05-20-26/)
-- [Italy-Azerbaijan Trade Partnership](https://social.emucafe.org/naferrell/italy-azerbaijan-trade-partnership-05-20-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
