@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [May 2026 at The New Leaf Journal](https://thenewleafjournal.com/may-2026-at-the-new-leaf-journal/)
 - [Playoff Success of 8.5+ Regular Season SRS NBA Teams](https://thenewleafjournal.com/playoff-success-of-8-5-regular-season-srs-nba-teams/)
 - [NBA Finals Appearance Droughts](https://thenewleafjournal.com/nba-finals-appearance-droughts/)
 - [Replace Yourself With a Human, Not Bot](https://thenewleafjournal.com/replace-yourself-with-a-human-not-bot/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Choosing How to Build and Host a Blog](https://thenewleafjournal.com/choosing-how-to-build-and-host-a-blog/)
 - [ActivityPub for WordPress and fediverse:creator](https://thenewleafjournal.com/activitypub-for-wordpress-and-fediversecreator/)
 - [The Emu Café and Blog Hospitality](https://thenewleafjournal.com/the-emu-cafe-and-blog-hospitality/)
-- [April 2026 at The New Leaf Journal](https://thenewleafjournal.com/april-2026-at-the-new-leaf-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
