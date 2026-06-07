@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Self-Hosting Adventures &lpar;Kenneth Reitz&rpar;](https://social.emucafe.org/naferrell/self-hosting-adventures-kenneth-reitz-06-07-26/)
+- [Pook-Emu Bee: Links For 06-07-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-07-26/)
 - [Game Publishers Move to Avoid GTA 6 &lpar;Rob Fahey&rpar;](https://social.emucafe.org/naferrell/game-publishers-move-to-avoid-gta-6-rob-fahey/)
 - [Pook-Emu Bee: Links For 06-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-04-26/)
 - [Pook-Emu Bee: Links For 06-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-01-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Video: A Defense of Visual Novels](https://social.emucafe.org/naferrell/video-a-defense-of-visual-novels-05-28-26/)
 - [Disabling AI in WordPress 7.0](https://social.emucafe.org/naferrell/disabling-ai-in-wordpress-7-05-28-26/)
 - [Pook-Emu Bee: Links For 05-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-28-26/)
-- [Pook-Emu Bee: Links For 05-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-27-26/)
-- [Pook-Emu Bee: Links For 05-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-26-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
