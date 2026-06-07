@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Game Publishers Move to Avoid GTA 6 &lpar;Rob Fahey&rpar;](https://social.emucafe.org/naferrell/game-publishers-move-to-avoid-gta-6-rob-fahey/)
 - [Pook-Emu Bee: Links For 06-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-04-26/)
 - [Pook-Emu Bee: Links For 06-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-01-26/)
 - [Pook-Emu Bee: Links For 05-29-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-29-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 05-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-28-26/)
 - [Pook-Emu Bee: Links For 05-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-27-26/)
 - [Pook-Emu Bee: Links For 05-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-26-26/)
-- [Pink Tea With Baking Soda](https://social.emucafe.org/naferrell/pink-tea-with-baking-soda-05-26-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
