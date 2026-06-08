@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [No Grand Slam Winners in 2026 French Open Men’s R16](https://social.emucafe.org/naferrell/no-grand-slam-winners-in-2026-french-open-mens-r16-06-08-26/)
 - [Pook-Emu Bee: Links For 06-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-08-26/)
 - [On Personal Search Engines](https://social.emucafe.org/naferrell/on-personal-search-engines-06-07-26/)
 - [Self-Hosting Adventures &lpar;Kenneth Reitz&rpar;](https://social.emucafe.org/naferrell/self-hosting-adventures-kenneth-reitz-06-07-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 06-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-04-26/)
 - [Pook-Emu Bee: Links For 06-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-01-26/)
 - [Pook-Emu Bee: Links For 05-29-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-29-26/)
-- [Video: A Defense of Visual Novels](https://social.emucafe.org/naferrell/video-a-defense-of-visual-novels-05-28-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
