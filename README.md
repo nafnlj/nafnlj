@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Great Falls, Montana, and Cascade County](https://social.emucafe.org/naferrell/great-falls-mt-cascade-county-06-09-26/)
+- [Pook-Emu Bee: Links For 06-09-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-09-26/)
 - [Shooting Successfully With Any Footwork in Basketball](https://social.emucafe.org/naferrell/shooting-successfully-with-any-footwork-06-08-26/)
 - [No Grand Slam Winners in 2026 French Open Men’s R16](https://social.emucafe.org/naferrell/no-grand-slam-winners-in-2026-french-open-mens-r16-06-08-26/)
 - [Pook-Emu Bee: Links For 06-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-08-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Self-Hosting Adventures &lpar;Kenneth Reitz&rpar;](https://social.emucafe.org/naferrell/self-hosting-adventures-kenneth-reitz-06-07-26/)
 - [Pook-Emu Bee: Links For 06-07-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-07-26/)
 - [Game Publishers Move to Avoid GTA 6 &lpar;Rob Fahey&rpar;](https://social.emucafe.org/naferrell/game-publishers-move-to-avoid-gta-6-rob-fahey/)
-- [Pook-Emu Bee: Links For 06-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-04-26/)
-- [Pook-Emu Bee: Links For 06-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-01-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
