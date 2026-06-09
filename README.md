@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Shooting Successfully With Any Footwork in Basketball](https://social.emucafe.org/naferrell/shooting-successfully-with-any-footwork-06-08-26/)
 - [No Grand Slam Winners in 2026 French Open Men’s R16](https://social.emucafe.org/naferrell/no-grand-slam-winners-in-2026-french-open-mens-r16-06-08-26/)
 - [Pook-Emu Bee: Links For 06-08-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-08-26/)
 - [On Personal Search Engines](https://social.emucafe.org/naferrell/on-personal-search-engines-06-07-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Game Publishers Move to Avoid GTA 6 &lpar;Rob Fahey&rpar;](https://social.emucafe.org/naferrell/game-publishers-move-to-avoid-gta-6-rob-fahey/)
 - [Pook-Emu Bee: Links For 06-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-04-26/)
 - [Pook-Emu Bee: Links For 06-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-01-26/)
-- [Pook-Emu Bee: Links For 05-29-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-05-29-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
