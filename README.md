@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Missing Brand Music Video Ads](https://social.emucafe.org/naferrell/missing-brand-music-video-ads-06-11-26/)
 - [Turning a Blog Into a Book](https://social.emucafe.org/naferrell/turning-blog-into-book-06-11-26/)
 - [Static Site Webmentions](https://social.emucafe.org/naferrell/static-site-webmentions-06-11-26/)
 - [Pook-Emu Bee: Links For 06-11-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-11-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The History Blog and Japanese Saws](https://social.emucafe.org/naferrell/the-history-blog-and-japanese-saws-06-09-26/)
 - [Great Falls, Montana, and Cascade County](https://social.emucafe.org/naferrell/great-falls-mt-cascade-county-06-09-26/)
 - [Pook-Emu Bee: Links For 06-09-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-09-26/)
-- [Shooting Successfully With Any Footwork in Basketball](https://social.emucafe.org/naferrell/shooting-successfully-with-any-footwork-06-08-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
