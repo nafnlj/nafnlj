@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [How I’ll Take My Coffee](https://social.emucafe.org/naferrell/how-ill-take-my-coffee-06-15-26/)
 - [Pook-Emu Bee: Links For 06-15-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-15-26/)
 - [AI Slop About Medieval London](https://social.emucafe.org/naferrell/ai-slop-about-medieval-london-06-13-26/)
 - [New Features in ActivityPub For WordPress 9.0](https://social.emucafe.org/naferrell/new-features-in-activitypub-for-wordpress-9-06-12-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Turning a Blog Into a Book](https://social.emucafe.org/naferrell/turning-blog-into-book-06-11-26/)
 - [Static Site Webmentions](https://social.emucafe.org/naferrell/static-site-webmentions-06-11-26/)
 - [Pook-Emu Bee: Links For 06-11-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-11-26/)
-- [A Moka Pot Pen](https://social.emucafe.org/naferrell/a-moka-pot-pen-06-10-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
