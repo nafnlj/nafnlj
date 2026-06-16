@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [From Missing the Playoffs to the NBA Finals](https://thenewleafjournal.com/from-missing-the-playoffs-to-the-nba-finals/)
 - [Finding Backlinks to Your Articles and Blog Posts](https://thenewleafjournal.com/finding-backlinks-to-your-articles-and-blog-posts/)
 - [Discovering the Former “The New Leaf Journal”](https://thenewleafjournal.com/discovering-the-former-the-new-leaf-journal/)
 - [Fallen Double Arrow Sign in Columbia Street Waterfront District](https://thenewleafjournal.com/fallen-double-arrow-sign-in-columbia-street-waterfront-district/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [NBA Finals Appearance Droughts](https://thenewleafjournal.com/nba-finals-appearance-droughts/)
 - [Replace Yourself With a Human, Not Bot](https://thenewleafjournal.com/replace-yourself-with-a-human-not-bot/)
 - [Be the Blogger You Want to Be &lpar;Or Read&rpar;](https://thenewleafjournal.com/be-the-blogger-you-want-to-be-or-read/)
-- [On Spotify’s SpotifAI Podcasts](https://thenewleafjournal.com/on-spotifys-spotifai-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
