@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Ambient Irony on Amodei vs Altman](https://social.emucafe.org/naferrell/ambient-irony-on-amodei-vs-altman-06-18-26/)
+- [The Case Against Share Buttons](https://social.emucafe.org/naferrell/the-case-against-share-buttons-06-18-26/)
 - [Pook-Emu Bee: Links For 06-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-18-26/)
 - [Pook-Emu Bee: Links For 06-16-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-16-26/)
 - [How I’ll Take My Coffee](https://social.emucafe.org/naferrell/how-ill-take-my-coffee-06-15-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [AI Slop About Medieval London](https://social.emucafe.org/naferrell/ai-slop-about-medieval-london-06-13-26/)
 - [New Features in ActivityPub For WordPress 9.0](https://social.emucafe.org/naferrell/new-features-in-activitypub-for-wordpress-9-06-12-26/)
 - [Pook-Emu Bee: Links For 06-12-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-12-26/)
-- [Missing Brand Music Video Ads](https://social.emucafe.org/naferrell/missing-brand-music-video-ads-06-11-26/)
-- [Turning a Blog Into a Book](https://social.emucafe.org/naferrell/turning-blog-into-book-06-11-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
