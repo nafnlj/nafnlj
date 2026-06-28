@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Cal Newport on Big AI “Doom Trolling”](https://social.emucafe.org/naferrell/cal-newport-on-ai-doom-trolling-06-28-26/)
 - [Cabbage Sorter’s Review of Shiki &lpar;Anime&rpar;](https://social.emucafe.org/naferrell/cabbage-sorters-review-of-shiki-anime-06-27-26/)
 - [Tatakiage Recruits in Sumo](https://social.emucafe.org/naferrell/tatakiage-recruits-in-sumo-06-27-26/)
 - [Pook-Emu Bee: Links For 06-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-23-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 06-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-18-26/)
 - [Pook-Emu Bee: Links For 06-16-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-16-26/)
 - [How I’ll Take My Coffee](https://social.emucafe.org/naferrell/how-ill-take-my-coffee-06-15-26/)
-- [Pook-Emu Bee: Links For 06-15-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-15-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
