@@ -23,6 +23,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Cabbage Sorter’s Review of Shiki &lpar;Anime&rpar;](https://social.emucafe.org/naferrell/cabbage-sorters-review-of-shiki-anime-06-27-26/)
+- [Tatakiage Recruits in Sumo](https://social.emucafe.org/naferrell/tatakiage-recruits-in-sumo-06-27-26/)
 - [Pook-Emu Bee: Links For 06-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-23-26/)
 - [Ambient Irony on Amodei vs Altman](https://social.emucafe.org/naferrell/ambient-irony-on-amodei-vs-altman-06-18-26/)
 - [The Case Against Share Buttons](https://social.emucafe.org/naferrell/the-case-against-share-buttons-06-18-26/)
@@ -30,8 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 06-16-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-16-26/)
 - [How I’ll Take My Coffee](https://social.emucafe.org/naferrell/how-ill-take-my-coffee-06-15-26/)
 - [Pook-Emu Bee: Links For 06-15-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-15-26/)
-- [AI Slop About Medieval London](https://social.emucafe.org/naferrell/ai-slop-about-medieval-london-06-13-26/)
-- [New Features in ActivityPub For WordPress 9.0](https://social.emucafe.org/naferrell/new-features-in-activitypub-for-wordpress-9-06-12-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
