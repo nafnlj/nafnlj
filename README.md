@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [World Cup De-Branding](https://social.emucafe.org/naferrell/world-cup-de-branding-07-02-26/)
 - [On Markdown Editors and Fluff](https://social.emucafe.org/naferrell/on-markdown-editors-07-01-26/)
 - [Pook-Emu Bee: Links For 07-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-07-01-26/)
 - [Turley on “White Time” “Scholarship”](https://social.emucafe.org/naferrell/turley-on-white-time-scholarship-06-28-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Tatakiage Recruits in Sumo](https://social.emucafe.org/naferrell/tatakiage-recruits-in-sumo-06-27-26/)
 - [Pook-Emu Bee: Links For 06-23-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-06-23-26/)
 - [Ambient Irony on Amodei vs Altman](https://social.emucafe.org/naferrell/ambient-irony-on-amodei-vs-altman-06-18-26/)
-- [The Case Against Share Buttons](https://social.emucafe.org/naferrell/the-case-against-share-buttons-06-18-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
