@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Nagoya Basho Predictions](https://social.emucafe.org/naferrell/nagoya-basho-predictions-07-11-26/)
 - [Independence Day Fireworks](https://social.emucafe.org/naferrell/independence-day-fireworks-07-04-26/)
 - [Google Hardware Complaints Remind Me of BlackBerry Classic](https://social.emucafe.org/naferrell/google-hardware-complaints-remind-me-of-blackberry-classic-07-02-26/)
 - [Settings in “No AI” DuckDuckGo](https://social.emucafe.org/naferrell/settings-in-no-ai-duckduckgo-07-02-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [On Markdown Editors and Fluff](https://social.emucafe.org/naferrell/on-markdown-editors-07-01-26/)
 - [Pook-Emu Bee: Links For 07-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-07-01-26/)
 - [Turley on “White Time” “Scholarship”](https://social.emucafe.org/naferrell/turley-on-white-time-scholarship-06-28-26/)
-- [Cal Newport on Big AI “Doom Trolling”](https://social.emucafe.org/naferrell/cal-newport-on-ai-doom-trolling-06-28-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
