@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 07-13-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-07-13-26/)
 - [Favorite Summer Songs](https://social.emucafe.org/naferrell/favorite-summer-songs-07-12-26/)
 - [The Sinking of Victory Chimes](https://social.emucafe.org/naferrell/sinking-of-victory-chimes-07-12-26/)
 - [Nagoya Basho Predictions](https://social.emucafe.org/naferrell/nagoya-basho-predictions-07-11-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Settings in “No AI” DuckDuckGo](https://social.emucafe.org/naferrell/settings-in-no-ai-duckduckgo-07-02-26/)
 - [Joining Robert Birming’s JulyReply 2026](https://social.emucafe.org/naferrell/joining-robert-birmings-julyreply-2026-07-02-26/)
 - [World Cup De-Branding](https://social.emucafe.org/naferrell/world-cup-de-branding-07-02-26/)
-- [On Markdown Editors and Fluff](https://social.emucafe.org/naferrell/on-markdown-editors-07-01-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
