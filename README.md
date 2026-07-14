@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Refilling Gingerbread Man Soap Dispenser](https://thenewleafjournal.com/refilling-gingerbread-man-soap-dispenser/)
 - [The Living Signatories to The Declaration of Independence and the American Jubilee](https://thenewleafjournal.com/the-living-signatories-to-the-declaration-of-independence-and-the-american-jubilee/)
 - [Summer Season 2026 at the NLJ: America at 250](https://thenewleafjournal.com/summer-season-2026-at-the-nlj-america-at-250/)
 - [Supporing the Pumpernickel Bagel](https://thenewleafjournal.com/supporing-the-pumpernickel-bagel/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Finding Backlinks to Your Articles and Blog Posts](https://thenewleafjournal.com/finding-backlinks-to-your-articles-and-blog-posts/)
 - [Discovering the Former “The New Leaf Journal”](https://thenewleafjournal.com/discovering-the-former-the-new-leaf-journal/)
 - [Fallen Double Arrow Sign in Columbia Street Waterfront District](https://thenewleafjournal.com/fallen-double-arrow-sign-in-columbia-street-waterfront-district/)
-- [May 2026 at The New Leaf Journal](https://thenewleafjournal.com/may-2026-at-the-new-leaf-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
