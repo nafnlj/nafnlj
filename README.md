@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Using AIM Until the Bitter End](https://social.emucafe.org/naferrell/using-aim-until-the-bitter-end-07-15-26/)
 - [Fortunate NBA Champions &lpar;2001-2016&rpar;](https://social.emucafe.org/naferrell/07-14-26-fortunate-nba-champions-2001-2016/)
 - [Pook-Emu Bee: Links For 07-14-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-07-14-26/)
 - [DRM-Free Ebook Sources](https://social.emucafe.org/naferrell/drm-free-ebook-sources-07-13-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [The Sinking of Victory Chimes](https://social.emucafe.org/naferrell/sinking-of-victory-chimes-07-12-26/)
 - [Nagoya Basho Predictions](https://social.emucafe.org/naferrell/nagoya-basho-predictions-07-11-26/)
 - [Independence Day Fireworks](https://social.emucafe.org/naferrell/independence-day-fireworks-07-04-26/)
-- [Google Hardware Complaints Remind Me of BlackBerry Classic](https://social.emucafe.org/naferrell/google-hardware-complaints-remind-me-of-blackberry-classic-07-02-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
