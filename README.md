@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Broken Bench in Red Hook, Brooklyn](https://thenewleafjournal.com/broken-bench-in-red-hook-brooklyn/)
 - [Facts About the Full and Semi Centennial Presidents](https://thenewleafjournal.com/facts-about-the-full-and-semi-centennial-presidents/)
 - [Refilling Gingerbread Man Soap Dispenser](https://thenewleafjournal.com/refilling-gingerbread-man-soap-dispenser/)
 - [The Living Signatories to The Declaration of Independence and the American Jubilee](https://thenewleafjournal.com/the-living-signatories-to-the-declaration-of-independence-and-the-american-jubilee/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [On Complaining About AI in Pinterest on Reddit](https://thenewleafjournal.com/on-complaining-about-ai-in-pinterest-on-reddit/)
 - [From Missing the Playoffs to the NBA Finals](https://thenewleafjournal.com/from-missing-the-playoffs-to-the-nba-finals/)
 - [Finding Backlinks to Your Articles and Blog Posts](https://thenewleafjournal.com/finding-backlinks-to-your-articles-and-blog-posts/)
-- [Discovering the Former “The New Leaf Journal”](https://thenewleafjournal.com/discovering-the-former-the-new-leaf-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
