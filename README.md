@@ -23,6 +23,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Were AI Blog Post Images Ever Cool?](https://social.emucafe.org/naferrell/were-ai-blog-post-images-ever-cool-07-22-26/)
 - [Light Phone Continues to Fail QWERTY Test](https://social.emucafe.org/naferrell/light-phone-continues-to-fail-qwerty-test-07-22-26/)
 - [Cup Noodle &lpar;Cold Edition&rpar; in Japan](https://social.emucafe.org/naferrell/cup-noodle-cold-edition-in-japan-07-16-26/)
 - [Using AIM Until the Bitter End](https://social.emucafe.org/naferrell/using-aim-until-the-bitter-end-07-15-26/)
@@ -31,7 +32,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [DRM-Free Ebook Sources](https://social.emucafe.org/naferrell/drm-free-ebook-sources-07-13-26/)
 - [Pook-Emu Bee: Links For 07-13-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-07-13-26/)
 - [Favorite Summer Songs](https://social.emucafe.org/naferrell/favorite-summer-songs-07-12-26/)
-- [The Sinking of Victory Chimes](https://social.emucafe.org/naferrell/sinking-of-victory-chimes-07-12-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
