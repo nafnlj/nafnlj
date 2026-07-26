@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviewing Limerence, an al|together-Inspired Visual Novel](https://thenewleafjournal.com/reviewing-limerence-an-altogether-inspired-visual-novel/)
 - [Releasing a New ONScripter-EN Visual Novel](https://thenewleafjournal.com/releasing-new-onscripteren-vn-07-19-26/)
 - [Broken Bench in Red Hook, Brooklyn](https://thenewleafjournal.com/broken-bench-in-red-hook-brooklyn/)
 - [Facts About the Full and Semi Centennial Presidents](https://thenewleafjournal.com/facts-about-the-full-and-semi-centennial-presidents/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Summer Season 2026 at the NLJ: America at 250](https://thenewleafjournal.com/summer-season-2026-at-the-nlj-america-at-250/)
 - [Supporing the Pumpernickel Bagel](https://thenewleafjournal.com/supporing-the-pumpernickel-bagel/)
 - [On Complaining About AI in Pinterest on Reddit](https://thenewleafjournal.com/on-complaining-about-ai-in-pinterest-on-reddit/)
-- [From Missing the Playoffs to the NBA Finals](https://thenewleafjournal.com/from-missing-the-playoffs-to-the-nba-finals/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
