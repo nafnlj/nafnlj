@@ -7,6 +7,7 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [O2A2 2026 Visual Novel Review Project &lpar;Part 1/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-1-2/)
 - [Reviewing Limerence, an al|together-Inspired Visual Novel](https://thenewleafjournal.com/reviewing-limerence-an-altogether-inspired-visual-novel/)
 - [Releasing a New ONScripter-EN Visual Novel](https://thenewleafjournal.com/releasing-new-onscripteren-vn-07-19-26/)
 - [Broken Bench in Red Hook, Brooklyn](https://thenewleafjournal.com/broken-bench-in-red-hook-brooklyn/)
@@ -15,7 +16,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [The Living Signatories to The Declaration of Independence and the American Jubilee](https://thenewleafjournal.com/the-living-signatories-to-the-declaration-of-independence-and-the-american-jubilee/)
 - [Summer Season 2026 at the NLJ: America at 250](https://thenewleafjournal.com/summer-season-2026-at-the-nlj-america-at-250/)
 - [Supporing the Pumpernickel Bagel](https://thenewleafjournal.com/supporing-the-pumpernickel-bagel/)
-- [On Complaining About AI in Pinterest on Reddit](https://thenewleafjournal.com/on-complaining-about-ai-in-pinterest-on-reddit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
