@@ -43,12 +43,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
-- [Niche bouquet 〜 Newsletter Leaf Journal CCLXXIX](https://buttondown.com/newsletterleafjournal/archive/279/)
-- [Weathered letter 〜 Newsletter Leaf Journal CCLXXVIII](https://buttondown.com/newsletterleafjournal/archive/278/)
-- [They once called me coach 〜 Newsletter Leaf Journal CCLXXVII](https://buttondown.com/newsletterleafjournal/archive/277/)
-- [83 TI-89 〜 Newsletter Leaf Journal CCLXXVI](https://buttondown.com/newsletterleafjournal/archive/276/)
-- [Bunny March 〜 Newsletter Leaf Journal CCLXXV](https://buttondown.com/newsletterleafjournal/archive/275/)
-- [Unexpired :o 〜 Newsletter Leaf Journal CCLXXIV](https://buttondown.com/newsletterleafjournal/archive/274/)
+- [ONewSletter Mail Novel 〜 Newsletter Leaf Journal CCXC](https://buttondown.com/newsletterleafjournal/archive/290/)
+- [Gingerbread President 〜 Newsletter Leaf Journal CCLXXXIX](https://buttondown.com/newsletterleafjournal/archive/289/)
+- [Reinstalling 〜 Newsletter Leaf Journal CCLXXXVIII](https://buttondown.com/newsletterleafjournal/archive/288/)
+- [Independence Forever! 〜 Newsletter Leaf Journal CCLXXXVII](https://buttondown.com/newsletterleafjournal/archive/287/)
+- [Estival Pumpernickel 〜 Newsletter Leaf Journal CCLXXXVI](https://buttondown.com/newsletterleafjournal/archive/286/)
+- [Pin Finals 〜 Newsletter Leaf Journal CCLXXXV](https://buttondown.com/newsletterleafjournal/archive/285/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
