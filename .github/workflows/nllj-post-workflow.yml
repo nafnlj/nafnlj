@@ -18,4 +18,4 @@ jobs:
         with:
           comment_tag_name: BLOG-POST-LIST
           max_post_count: 9
-          feed_list: "https://thenewleafjournal.com/feed/"
+          feed_list: "https://buttondown.com/newsletterleafjournal/rss"
