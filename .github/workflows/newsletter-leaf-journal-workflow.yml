@@ -1,5 +1,3 @@
-NLLJ-POST-LIST:START
-
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
