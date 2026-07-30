@@ -1,6 +1,8 @@
 ## Nicholas A. Ferrell's Profile README 👋
 
-I am the administrator and editor of two WordPress-powered websites. I post long-form articles on [*The New Leaf Journal*](https://thenewleafjournal.com/), the online writing magazine where the leaves are perennially virid, and short-form posts on [*The Emu Café Social*](https://social.emucafe.org/). I write about things I am interested in, which includes, but is not limited to: Anime, Brooklyn, Current Events, History, Linux, Open Source Software, Reading, Sports, Video Games, Visual Novels, Walking, Writing, and many other topics. I mainly use GitHub to follow projects and repositories that interest me.
+I am the administrator and editor of two WordPress-powered websites. I post long-form articles on [*The New Leaf Journal*](https://thenewleafjournal.com/), the online writing magazine where the leaves are perennially virid, and short-form posts on [*The Emu Café Social*](https://social.emucafe.org/). I write about things I am interested in, which includes, but is not limited to: Anime, Brooklyn, Current Events, History, Linux, Open Source Software, Reading, Sports, Video Games, Visual Novels, Walking, Writing, and many other topics. I am also publishing visual novels on Itch.io (see my [personal profile](https://naferrell.itch.io/) and [group profile](https://newleafjournal.itch.io/)).
+
+I mainly use GitHub to follow projects and repositories that interest me.
 
 ## The New Leaf Journal Articles
 
@@ -63,7 +65,8 @@ Both *The New Leaf Journal* and *The Emu Café Social* support ActivityPub. I ha
 
 ### My Accounts
 
-* X: @newleafjournal
+* Hypothes.is: https://hypothes.is/users/nafnlj
+* X: @naferrell & @newleafjournal
 * Mastodon: [@nafnlj@linuxrocks.online](https://linuxrocks.online/@nafnlj)
 * Pixelfed: [@nafnlj@pixelfed.social](https://pixelfed.social/nafnlj)
 * Minds: [@nafnlj@minds.com](https://www.minds.com/nafnlj/) (can also be followed from Mastodon or the like)
