@@ -7,15 +7,15 @@ I am the administrator and editor of two WordPress-powered websites. I post long
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
-- [O2A2 2026 Visual Novel Review Project &lpar;Part 1/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-1-2/)
-- [Reviewing Limerence, an al|together-Inspired Visual Novel](https://thenewleafjournal.com/reviewing-limerence-an-altogether-inspired-visual-novel/)
-- [Releasing a New ONScripter-EN Visual Novel](https://thenewleafjournal.com/releasing-new-onscripteren-vn-07-19-26/)
-- [Broken Bench in Red Hook, Brooklyn](https://thenewleafjournal.com/broken-bench-in-red-hook-brooklyn/)
-- [Facts About the Full and Semi Centennial Presidents](https://thenewleafjournal.com/facts-about-the-full-and-semi-centennial-presidents/)
-- [Refilling Gingerbread Man Soap Dispenser](https://thenewleafjournal.com/refilling-gingerbread-man-soap-dispenser/)
-- [The Living Signatories to The Declaration of Independence and the American Jubilee](https://thenewleafjournal.com/the-living-signatories-to-the-declaration-of-independence-and-the-american-jubilee/)
-- [Summer Season 2026 at the NLJ: America at 250](https://thenewleafjournal.com/summer-season-2026-at-the-nlj-america-at-250/)
-- [Supporing the Pumpernickel Bagel](https://thenewleafjournal.com/supporing-the-pumpernickel-bagel/)
+- [ONewSletter Mail Novel 〜 Newsletter Leaf Journal CCXC](https://buttondown.com/newsletterleafjournal/archive/290/)
+- [Gingerbread President 〜 Newsletter Leaf Journal CCLXXXIX](https://buttondown.com/newsletterleafjournal/archive/289/)
+- [Reinstalling 〜 Newsletter Leaf Journal CCLXXXVIII](https://buttondown.com/newsletterleafjournal/archive/288/)
+- [Independence Forever! 〜 Newsletter Leaf Journal CCLXXXVII](https://buttondown.com/newsletterleafjournal/archive/287/)
+- [Estival Pumpernickel 〜 Newsletter Leaf Journal CCLXXXVI](https://buttondown.com/newsletterleafjournal/archive/286/)
+- [Pin Finals 〜 Newsletter Leaf Journal CCLXXXV](https://buttondown.com/newsletterleafjournal/archive/285/)
+- [Double Arrow NLJs 〜 Newsletter Leaf Journal CCLXXXIV](https://buttondown.com/newsletterleafjournal/archive/284/)
+- [High SRS replacement 〜 Newsletter Leaf Journal CCLXXXIII](https://buttondown.com/newsletterleafjournal/archive/283/)
+- [Leaf out in May 〜 Newsletter Leaf Journal CCLXXXII](https://buttondown.com/newsletterleafjournal/archive/282/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
