@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Tell Everyone About Your Hero[in]ism](https://social.emucafe.org/naferrell/tell-everyone-about-your-heroinism-07-31-26/)
 - [Responding to Nagoya Basho Grades](https://social.emucafe.org/naferrell/responding-to-nagoya-basho-grades-07-31-26/)
 - [Evaluating My Nagoya Basho Predictions](https://social.emucafe.org/naferrell/evaluating-my-nagoya-basho-predictions-07-26-26/)
 - [On Tactics to Hit the Hacker News Front Page](https://social.emucafe.org/naferrell/on-tactics-to-hit-the-hacker-news-front-page-07-25-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Light Phone Continues to Fail QWERTY Test](https://social.emucafe.org/naferrell/light-phone-continues-to-fail-qwerty-test-07-22-26/)
 - [Cup Noodle &lpar;Cold Edition&rpar; in Japan](https://social.emucafe.org/naferrell/cup-noodle-cold-edition-in-japan-07-16-26/)
 - [Using AIM Until the Bitter End](https://social.emucafe.org/naferrell/using-aim-until-the-bitter-end-07-15-26/)
-- [Fortunate NBA Champions &lpar;2001-2016&rpar;](https://social.emucafe.org/naferrell/07-14-26-fortunate-nba-champions-2001-2016/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
