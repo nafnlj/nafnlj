@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Fixing Failed KOReader OTA Update on PocketBook](https://social.emucafe.org/naferrell/fixing-failed-koreader-ota-update-on-pocketbook-08-01-26/)
 - [Letter to the Editor Backlink in Chicago Sun Times](https://social.emucafe.org/naferrell/letter-to-the-editor-backlink-in-chicago-sun-times-07-31-26/)
 - [Tell Everyone About Your Hero[in]ism](https://social.emucafe.org/naferrell/tell-everyone-about-your-heroinism-07-31-26/)
 - [Responding to Nagoya Basho Grades](https://social.emucafe.org/naferrell/responding-to-nagoya-basho-grades-07-31-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Tadej Pogacar Shatters Pantani’s 1995 Alpe d’Huez Record by 1:15](https://social.emucafe.org/naferrell/tadej-pogacar-shatters-pantanis-1995-alpe-dhuez-record-07-24-24/)
 - [Were AI Blog Post Images Ever Cool?](https://social.emucafe.org/naferrell/were-ai-blog-post-images-ever-cool-07-22-26/)
 - [Light Phone Continues to Fail QWERTY Test](https://social.emucafe.org/naferrell/light-phone-continues-to-fail-qwerty-test-07-22-26/)
-- [Cup Noodle &lpar;Cold Edition&rpar; in Japan](https://social.emucafe.org/naferrell/cup-noodle-cold-edition-in-japan-07-16-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
