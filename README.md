@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 08-05-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-05-26/)
 - [Visual Novel Definition From Academic Paper](https://social.emucafe.org/naferrell/visual-novel-definition-from-academic-paper-08-04-26/)
 - [Pook-Emu Bee: Links For 08-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-04-26/)
 - [2026 Nagoya Basho Unfortunate For Yokozuna](https://social.emucafe.org/naferrell/2026-nagoya-basho-unfortunate-for-yokozuna-08-02-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Tell Everyone About Your Hero[in]ism](https://social.emucafe.org/naferrell/tell-everyone-about-your-heroinism-07-31-26/)
 - [Responding to Nagoya Basho Grades](https://social.emucafe.org/naferrell/responding-to-nagoya-basho-grades-07-31-26/)
 - [Evaluating My Nagoya Basho Predictions](https://social.emucafe.org/naferrell/evaluating-my-nagoya-basho-predictions-07-26-26/)
-- [On Tactics to Hit the Hacker News Front Page](https://social.emucafe.org/naferrell/on-tactics-to-hit-the-hacker-news-front-page-07-25-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
