@@ -25,6 +25,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [PSA: Shueisha Makes Approximately 400 Manga Series Free For Limited Time](https://social.emucafe.org/naferrell/psa-shueisha-makes-more-than-400-manga-series-free-for-limited-time-08-06-26/)
+- [Pook-Emu Bee: Links For 08-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-06-26/)
 - [Learning About Zantigo](https://social.emucafe.org/naferrell/learning-about-zantigo-08-05-26/)
 - [Pook-Emu Bee: Links For 08-05-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-05-26/)
 - [Visual Novel Definition From Academic Paper](https://social.emucafe.org/naferrell/visual-novel-definition-from-academic-paper-08-04-26/)
@@ -32,8 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [2026 Nagoya Basho Unfortunate For Yokozuna](https://social.emucafe.org/naferrell/2026-nagoya-basho-unfortunate-for-yokozuna-08-02-26/)
 - [Fixing Failed KOReader OTA Update on PocketBook](https://social.emucafe.org/naferrell/fixing-failed-koreader-ota-update-on-pocketbook-08-01-26/)
 - [Letter to the Editor Backlink in Chicago Sun Times](https://social.emucafe.org/naferrell/letter-to-the-editor-backlink-in-chicago-sun-times-07-31-26/)
-- [Tell Everyone About Your Hero[in]ism](https://social.emucafe.org/naferrell/tell-everyone-about-your-heroinism-07-31-26/)
-- [Responding to Nagoya Basho Grades](https://social.emucafe.org/naferrell/responding-to-nagoya-basho-grades-07-31-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
