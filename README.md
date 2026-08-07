@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Free &amp;#8220;Just Heavy :&rpar;&amp;#8221; Air Conditioner in Brooklyn](https://thenewleafjournal.com/free-just-heavy-air-conditioner-in-brooklyn/)
 - [Calvin Coolidge&amp;#8217;s Homestead Oath of Office](https://thenewleafjournal.com/calvin-coolidges-homestead-oath-of-office/)
 - [O2A2 2026 Visual Novel Review Project &lpar;Part 2/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-2-2/)
 - [O2A2 2026 Visual Novel Review Project &lpar;Part 1/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-1-2/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Broken Bench in Red Hook, Brooklyn](https://thenewleafjournal.com/broken-bench-in-red-hook-brooklyn/)
 - [Facts About the Full and Semi Centennial Presidents](https://thenewleafjournal.com/facts-about-the-full-and-semi-centennial-presidents/)
 - [Refilling Gingerbread Man Soap Dispenser](https://thenewleafjournal.com/refilling-gingerbread-man-soap-dispenser/)
-- [The Living Signatories to The Declaration of Independence and the American Jubilee](https://thenewleafjournal.com/the-living-signatories-to-the-declaration-of-independence-and-the-american-jubilee/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
