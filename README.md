@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [A Taste of Honey &lpar;2009&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/a-taste-of-honey-2009-visual-novel-review/)
 - [Inflatable Summer Shark in Brooklyn](https://thenewleafjournal.com/inflatable-summer-shark-in-brooklyn/)
 - [Free &amp;#8220;Just Heavy :&rpar;&amp;#8221; Air Conditioner in Brooklyn](https://thenewleafjournal.com/free-just-heavy-air-conditioner-in-brooklyn/)
 - [Calvin Coolidge&amp;#8217;s Homestead Oath of Office](https://thenewleafjournal.com/calvin-coolidges-homestead-oath-of-office/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Reviewing Limerence, an al&amp;#124;together-Inspired Visual Novel](https://thenewleafjournal.com/reviewing-limerence-an-altogether-inspired-visual-novel/)
 - [Releasing a New ONScripter-EN Visual Novel](https://thenewleafjournal.com/releasing-new-onscripteren-vn-07-19-26/)
 - [Broken Bench in Red Hook, Brooklyn](https://thenewleafjournal.com/broken-bench-in-red-hook-brooklyn/)
-- [Facts About the Full and Semi Centennial Presidents](https://thenewleafjournal.com/facts-about-the-full-and-semi-centennial-presidents/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
