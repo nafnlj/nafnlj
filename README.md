@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Desktop Environments and Distro Hopping](https://social.emucafe.org/naferrell/desktop-environments-and-distro-hopping-08-09-26/)
 - [Pook-Emu Bee: Links For 08-09-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-09-26/)
 - [Used Game Stores in an All Digital World](https://social.emucafe.org/naferrell/used-game-stores-in-an-all-digital-world-08-08-26/)
 - [/e/ OS’s App Lounge Apparently Still As I Remember](https://social.emucafe.org/naferrell/e-oss-app-lounge-apparently-still-as-i-remember-08-08-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 08-06-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-06-26/)
 - [Learning About Zantigo](https://social.emucafe.org/naferrell/learning-about-zantigo-08-05-26/)
 - [Pook-Emu Bee: Links For 08-05-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-05-26/)
-- [Visual Novel Definition From Academic Paper](https://social.emucafe.org/naferrell/visual-novel-definition-from-academic-paper-08-04-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
