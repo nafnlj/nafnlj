@@ -21,6 +21,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Used Game Stores in an All Digital World](https://social.emucafe.org/naferrell/used-game-stores-in-an-all-digital-world-08-08-26/)
 - [/e/ OS’s App Lounge Apparently Still As I Remember](https://social.emucafe.org/naferrell/e-oss-app-lounge-apparently-still-as-i-remember-08-08-26/)
 - [Pook-Emu Bee: Links For 08-07-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-07-26/)
 - [PSA: Shueisha Makes Approximately 400 Manga Series Free For Limited Time](https://social.emucafe.org/naferrell/psa-shueisha-makes-more-than-400-manga-series-free-for-limited-time-08-06-26/)
@@ -29,7 +30,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 08-05-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-05-26/)
 - [Visual Novel Definition From Academic Paper](https://social.emucafe.org/naferrell/visual-novel-definition-from-academic-paper-08-04-26/)
 - [Pook-Emu Bee: Links For 08-04-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-04-26/)
-- [2026 Nagoya Basho Unfortunate For Yokozuna](https://social.emucafe.org/naferrell/2026-nagoya-basho-unfortunate-for-yokozuna-08-02-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
