@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Free White Printer in Brooklyn Heights Reminds Me of Visual Novel](https://thenewleafjournal.com/free-white-printer-in-brooklyn-heights-reminds-me-of-visual-novel/)
 - [The Worm in My Shoe](https://thenewleafjournal.com/the-worm-in-my-shoe/)
 - [A Taste of Honey &lpar;2009&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/a-taste-of-honey-2009-visual-novel-review/)
 - [Inflatable Summer Shark in Brooklyn](https://thenewleafjournal.com/inflatable-summer-shark-in-brooklyn/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [O2A2 2026 Visual Novel Review Project &lpar;Part 2/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-2-2/)
 - [O2A2 2026 Visual Novel Review Project &lpar;Part 1/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-1-2/)
 - [Reviewing Limerence, an al&amp;#124;together-Inspired Visual Novel](https://thenewleafjournal.com/reviewing-limerence-an-altogether-inspired-visual-novel/)
-- [Releasing a New ONScripter-EN Visual Novel](https://thenewleafjournal.com/releasing-new-onscripteren-vn-07-19-26/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
