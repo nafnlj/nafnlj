@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 08-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-18-26/)
 - [Sensationalist Economics Reporting in Morning Brew](https://social.emucafe.org/naferrell/sensationalist-economics-reporting-in-morning-brew-08-17-26/)
 - [Pook-Emu Bee: Links For 08-17-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-17-26/)
 - [Pook-Emu Bee: Links For 08-14-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-14-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [“Moments Away”](https://social.emucafe.org/naferrell/moments-away-08-13-26/)
 - [Pook-Emu Bee: Links For 08-13-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-13-26/)
 - [Pook-Emu Bee: Links For 08-12-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-12-26/)
-- [Pook-Emu Bee: Links For 08-11-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-11-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
