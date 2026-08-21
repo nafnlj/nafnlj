@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 08-21-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-21-26/)
 - [Pook-Emu Bee: Links For 08-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-20-26/)
 - [Pook-Emu Bee: Links For 08-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-19-26/)
 - [Pook-Emu Bee: Links For 08-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-18-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 08-14-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-14-26/)
 - [Five Linux Apps to Install on Day One](https://social.emucafe.org/naferrell/five-linux-apps-to-install-on-day-one-08-13-26/)
 - [Finding a Good Monospace Font For Prose](https://social.emucafe.org/naferrell/finding-a-good-monospace-font-for-prose-08-13-26/)
-- [“Moments Away”](https://social.emucafe.org/naferrell/moments-away-08-13-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
