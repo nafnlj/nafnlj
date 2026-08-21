@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo 64 at 30 and My N64 Memories](https://thenewleafjournal.com/nintendo-64-at-30-and-my-n64-memories/)
 - [Recapping Junited and JulyReply 2026 at ECS](https://thenewleafjournal.com/recapping-junited-and-julyreply-2026-at-ecs/)
 - [Free White Printer in Brooklyn Heights Reminds Me of Visual Novel](https://thenewleafjournal.com/free-white-printer-in-brooklyn-heights-reminds-me-of-visual-novel/)
 - [The Worm in My Shoe](https://thenewleafjournal.com/the-worm-in-my-shoe/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Free &amp;#8220;Just Heavy :&rpar;&amp;#8221; Air Conditioner in Brooklyn](https://thenewleafjournal.com/free-just-heavy-air-conditioner-in-brooklyn/)
 - [Calvin Coolidge&amp;#8217;s Homestead Oath of Office](https://thenewleafjournal.com/calvin-coolidges-homestead-oath-of-office/)
 - [O2A2 2026 Visual Novel Review Project &lpar;Part 2/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-2-2/)
-- [O2A2 2026 Visual Novel Review Project &lpar;Part 1/2&rpar;](https://thenewleafjournal.com/o2a2-2026-visual-novel-review-project-part-1-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
