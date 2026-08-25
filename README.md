@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 08-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-25-26/)
 - [Pook-Emu Bee: Links For 08-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-24-26/)
 - [Burger King Surpasses Wendy’s](https://social.emucafe.org/naferrell/burger-king-surpasses-wendys-08-23-26/)
 - [Headlines That Say “I Ran Out Of Ideas”](https://social.emucafe.org/naferrell/headlines-that-say-i-ran-out-of-ideas-08-22-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 08-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-20-26/)
 - [Pook-Emu Bee: Links For 08-19-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-19-26/)
 - [Pook-Emu Bee: Links For 08-18-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-18-26/)
-- [Sensationalist Economics Reporting in Morning Brew](https://social.emucafe.org/naferrell/sensationalist-economics-reporting-in-morning-brew-08-17-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
