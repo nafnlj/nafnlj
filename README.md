@@ -45,12 +45,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [Union Peril 〜 Newsletter Leaf Journal CCXCV](https://buttondown.com/newsletterleafjournal/archive/295/)
 - [Printer 64 〜 Newsletter Leaf Journal CCXCIV](https://buttondown.com/newsletterleafjournal/archive/294/)
 - [Deflated Bee 〜 Newsletter Leaf Journal CCXCIII](https://buttondown.com/newsletterleafjournal/archive/293/)
 - [Coolidge Air Conditioner 〜 Newsletter Leaf Journal CCXCII](https://buttondown.com/newsletterleafjournal/archive/292/)
 - [August Novel 〜 Newsletter Leaf Journal CCXCI](https://buttondown.com/newsletterleafjournal/archive/291/)
 - [ONewSletter Mail Novel 〜 Newsletter Leaf Journal CCXC](https://buttondown.com/newsletterleafjournal/archive/290/)
-- [Gingerbread President 〜 Newsletter Leaf Journal CCLXXXIX](https://buttondown.com/newsletterleafjournal/archive/289/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
