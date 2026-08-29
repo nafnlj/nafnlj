@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Kan Gao on Why He Uses RPG Maker](https://social.emucafe.org/naferrell/kan-gao-on-why-he-uses-rpg-maker-08-28-26/)
 - [Pook-Emu Bee: Links For 08-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-28-26/)
 - [Adam Douglas’ List Page Links Bookmarklet](https://social.emucafe.org/naferrell/adam-douglas-list-page-links-bookmarklet-08-27-26/)
 - [Pook-Emu Bee: Links For 08-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-27-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 08-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-25-26/)
 - [Pook-Emu Bee: Links For 08-24-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-24-26/)
 - [Burger King Surpasses Wendy’s](https://social.emucafe.org/naferrell/burger-king-surpasses-wendys-08-23-26/)
-- [Headlines That Say “I Ran Out Of Ideas”](https://social.emucafe.org/naferrell/headlines-that-say-i-ran-out-of-ideas-08-22-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
