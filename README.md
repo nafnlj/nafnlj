@@ -25,6 +25,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pokémon is Older than Tamagotchi](https://social.emucafe.org/naferrell/pokemon-is-older-than-tamagotchi-09-01-26/)
+- [Pook-Emu Bee: Links For 09-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-01-26/)
 - [Fujinokawa First Kyoto-Born Rikishi to Reach Sekiwake in 198 Years](https://social.emucafe.org/naferrell/fujinokawa-first-kyoto-born-rikishi-to-reach-sekiwake-in-198-years-09-01-26/)
 - [Pook-Emu Bee: Links For 08-31-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-31-26/)
 - [Kan Gao on Why He Uses RPG Maker](https://social.emucafe.org/naferrell/kan-gao-on-why-he-uses-rpg-maker-08-28-26/)
@@ -32,8 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Adam Douglas’ List Page Links Bookmarklet](https://social.emucafe.org/naferrell/adam-douglas-list-page-links-bookmarklet-08-27-26/)
 - [Pook-Emu Bee: Links For 08-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-27-26/)
 - [Pook-Emu Bee: Links For 08-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-26-26/)
-- [Learning About Cassette Types](https://social.emucafe.org/naferrell/learning-about-cassette-types-08-25-26/)
-- [Pook-Emu Bee: Links For 08-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-25-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
