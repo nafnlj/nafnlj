@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Knowing Someone Through Games](https://social.emucafe.org/naferrell/knowing-someone-through-games/)
 - [Pokémon is Older than Tamagotchi](https://social.emucafe.org/naferrell/pokemon-is-older-than-tamagotchi-09-01-26/)
 - [Pook-Emu Bee: Links For 09-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-01-26/)
 - [Fujinokawa First Kyoto-Born Rikishi to Reach Sekiwake in 198 Years](https://social.emucafe.org/naferrell/fujinokawa-first-kyoto-born-rikishi-to-reach-sekiwake-in-198-years-09-01-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 08-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-28-26/)
 - [Adam Douglas’ List Page Links Bookmarklet](https://social.emucafe.org/naferrell/adam-douglas-list-page-links-bookmarklet-08-27-26/)
 - [Pook-Emu Bee: Links For 08-27-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-27-26/)
-- [Pook-Emu Bee: Links For 08-26-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-26-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
