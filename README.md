@@ -9,11 +9,15 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/blog/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Links From Feeds and the Story of &amp;#8220;Sugar Baby Riri&amp;#8221;](https://thenewleafjournal.com/links-from-feeds-and-the-story-of-sugar-baby-riri/)
+- [Union Street and Questioning Article Assertions](https://thenewleafjournal.com/union-street-and-questioning-article-assertions/)
+- [Nintendo 64 at 30 and My N64 Memories](https://thenewleafjournal.com/nintendo-64-at-30-and-my-n64-memories/)
+- [Recapping Junited and JulyReply 2026 at ECS](https://thenewleafjournal.com/recapping-junited-and-julyreply-2026-at-ecs/)
+- [Free White Printer in Brooklyn Heights Reminds Me of Visual Novel](https://thenewleafjournal.com/free-white-printer-in-brooklyn-heights-reminds-me-of-visual-novel/)
+- [The Worm in My Shoe](https://thenewleafjournal.com/the-worm-in-my-shoe/)
+- [A Taste of Honey &lpar;2009&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/a-taste-of-honey-2009-visual-novel-review/)
+- [Inflatable Summer Shark in Brooklyn](https://thenewleafjournal.com/inflatable-summer-shark-in-brooklyn/)
+- [Free &amp;#8220;Just Heavy :&rpar;&amp;#8221; Air Conditioner in Brooklyn](https://thenewleafjournal.com/free-just-heavy-air-conditioner-in-brooklyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
