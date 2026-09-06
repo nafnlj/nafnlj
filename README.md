@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [Syndicated Newsletter Leaf Journal 296](https://thenewleafjournal.com/syndicated-newsletter-leaf-journal-296/)
 - [Links From Feeds and the Story of &amp;#8220;Sugar Baby Riri&amp;#8221;](https://thenewleafjournal.com/links-from-feeds-and-the-story-of-sugar-baby-riri/)
 - [Union Street and Questioning Article Assertions](https://thenewleafjournal.com/union-street-and-questioning-article-assertions/)
 - [Nintendo 64 at 30 and My N64 Memories](https://thenewleafjournal.com/nintendo-64-at-30-and-my-n64-memories/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [The Worm in My Shoe](https://thenewleafjournal.com/the-worm-in-my-shoe/)
 - [A Taste of Honey &lpar;2009&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/a-taste-of-honey-2009-visual-novel-review/)
 - [Inflatable Summer Shark in Brooklyn](https://thenewleafjournal.com/inflatable-summer-shark-in-brooklyn/)
-- [Free &amp;#8220;Just Heavy :&rpar;&amp;#8221; Air Conditioner in Brooklyn](https://thenewleafjournal.com/free-just-heavy-air-conditioner-in-brooklyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
