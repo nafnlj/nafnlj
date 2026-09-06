@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- BLOG-POST-LIST:START -->
+- [RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission](https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/)
 - [Syndicated Newsletter Leaf Journal 296](https://thenewleafjournal.com/syndicated-newsletter-leaf-journal-296/)
 - [Links From Feeds and the Story of &amp;#8220;Sugar Baby Riri&amp;#8221;](https://thenewleafjournal.com/links-from-feeds-and-the-story-of-sugar-baby-riri/)
 - [Union Street and Questioning Article Assertions](https://thenewleafjournal.com/union-street-and-questioning-article-assertions/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Free White Printer in Brooklyn Heights Reminds Me of Visual Novel](https://thenewleafjournal.com/free-white-printer-in-brooklyn-heights-reminds-me-of-visual-novel/)
 - [The Worm in My Shoe](https://thenewleafjournal.com/the-worm-in-my-shoe/)
 - [A Taste of Honey &lpar;2009&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/a-taste-of-honey-2009-visual-novel-review/)
-- [Inflatable Summer Shark in Brooklyn](https://thenewleafjournal.com/inflatable-summer-shark-in-brooklyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
