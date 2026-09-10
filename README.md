@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 09-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-10-26/)
 - [PSA on RSSAmplifierBot and BriskBot](https://social.emucafe.org/naferrell/psa-on-rssamplifierbot-and-briskbot/)
 - [Pook-Emu Bee: Links For 09-02-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-02-26/)
 - [Knowing Someone Through Games](https://social.emucafe.org/naferrell/knowing-someone-through-games/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Fujinokawa First Kyoto-Born Rikishi to Reach Sekiwake in 198 Years](https://social.emucafe.org/naferrell/fujinokawa-first-kyoto-born-rikishi-to-reach-sekiwake-in-198-years-09-01-26/)
 - [Pook-Emu Bee: Links For 08-31-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-31-26/)
 - [Kan Gao on Why He Uses RPG Maker](https://social.emucafe.org/naferrell/kan-gao-on-why-he-uses-rpg-maker-08-28-26/)
-- [Pook-Emu Bee: Links For 08-28-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-08-28-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
