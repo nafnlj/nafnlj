@@ -74,8 +74,7 @@ Both *The New Leaf Journal* and *The Emu Café Social* support ActivityPub. I ha
 
 ### Follow My Sites on Activity Pub
 
-* @ newleafjournal @ thenewleafjournal.com (remove spaces, only full site profile)
-* @ naferrell @ social.emucafe.org (my profile) and/or @ cafe @ social.emucafe.org (full site, albeit it is just me at the moment) (remove spaces)
+* @ naferrell @ social.emucafe.org (my profile) (remove spaces)
 * @ buttondown.com.newsletterleafjournal @ rss-parrot.net (if you want our new newsletter posts to show up in Mastodon or the like) (remove spaces)
 
 ### My Accounts
