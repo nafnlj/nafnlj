@@ -40,6 +40,9 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
+<!-- ECS-ACTIVITY-LIST:START -->
+<!-- ECS-ACTIVITY-LIST:END -->
+
 ## The Newsletter Leaf Journal... Newsletters
 
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
