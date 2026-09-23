@@ -41,6 +41,18 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: I was making peppermint hot chocolate on the stove. Added []](https://social.emucafe.org/activitystream/p/303/)
+- [Nicholas A. Ferrell posted an update: Now it&#39;s time for my favorite work activity: Adding []](https://social.emucafe.org/activitystream/p/302/)
+- [Nicholas A. Ferrell posted an update: I just added &quot;Nikole Hannah-Jones&quot; to my Miniflux []](https://social.emucafe.org/activitystream/p/301/)
+- [Nicholas A. Ferrell posted an update: My Pook-Emu Bee link backlog is serious after 8 days away. []](https://social.emucafe.org/activitystream/p/300/)
+- [Nicholas A. Ferrell posted an update: My Koko Analytics stats for NLJ were blown up yesterday by []](https://social.emucafe.org/activitystream/p/299/)
+- [Nicholas A. Ferrell posted an update: Thinking about rolling Atmosphere just for Standard Site on []](https://social.emucafe.org/activitystream/p/298/)
+- [Nicholas A. Ferrell posted an update: I had been using Tree Style Tabs on Firefox for years along []](https://social.emucafe.org/activitystream/p/297/)
+- [Nicholas A. Ferrell posted an update: I was checking something on AlternativeTo yesterday and I saw []](https://social.emucafe.org/activitystream/p/296/)
+- [Nicholas A. Ferrell posted an update: Dear diary: It&#39;s hard to listen to a recording of a court []](https://social.emucafe.org/activitystream/p/295/)
+- [Nicholas A. Ferrell posted an update: I posted an article about my N64 memories on NLJ last night []](https://social.emucafe.org/activitystream/p/294/)
+- [Nicholas A. Ferrell posted an update: As I noted in Pook-Emu Bee 08-21-26, I think the &quot;X cable&quot; []](https://social.emucafe.org/activitystream/p/293/)
+- [Nicholas A. Ferrell posted an update: I definitely did not just publish my daily Pook-Emu Bee links []](https://social.emucafe.org/activitystream/p/290/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
