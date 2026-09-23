@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Higurashi Mahjong](https://social.emucafe.org/naferrell/higurashi-mahjong-09-22-26/)
 - [AP Tests and College Credits](https://social.emucafe.org/naferrell/ap-tests-and-college-credits/)
 - [Pook-Emu Bee: Links For 09-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-22-26/)
 - [Pook-Emu Bee: Links For 09-21-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-21-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 09-15-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-15-26/)
 - [2026 Aki Basho Sumo Predictions](https://social.emucafe.org/naferrell/2026-aki-basho-sumo-predictions/)
 - [Pook-Emu Bee: Links For 09-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-10-26/)
-- [PSA on RSSAmplifierBot and BriskBot](https://social.emucafe.org/naferrell/psa-on-rssamplifierbot-and-briskbot/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
