@@ -41,6 +41,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: Finally about to go outside. Weather app &lpar;Breezy Weather []](https://social.emucafe.org/activitystream/p/305/)
 - [Nicholas A. Ferrell posted an update: I added this Activity Stream to my GitHub Readme page. Hello, []](https://social.emucafe.org/activitystream/p/304/)
 - [Nicholas A. Ferrell posted an update: I was making peppermint hot chocolate on the stove. Added []](https://social.emucafe.org/activitystream/p/303/)
 - [Nicholas A. Ferrell posted an update: Now it&#39;s time for my favorite work activity: Adding []](https://social.emucafe.org/activitystream/p/302/)
@@ -52,7 +53,6 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 - [Nicholas A. Ferrell posted an update: I was checking something on AlternativeTo yesterday and I saw []](https://social.emucafe.org/activitystream/p/296/)
 - [Nicholas A. Ferrell posted an update: Dear diary: It&#39;s hard to listen to a recording of a court []](https://social.emucafe.org/activitystream/p/295/)
 - [Nicholas A. Ferrell posted an update: I posted an article about my N64 memories on NLJ last night []](https://social.emucafe.org/activitystream/p/294/)
-- [Nicholas A. Ferrell posted an update: As I noted in Pook-Emu Bee 08-21-26, I think the &quot;X cable&quot; []](https://social.emucafe.org/activitystream/p/293/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
