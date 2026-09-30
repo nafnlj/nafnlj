@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Myself; Yourself and Watchable Bad Anime](https://thenewleafjournal.com/myself-yourself-and-watchable-bad-anime/)
 - [Reviewing What You Are Reading, Watching, or Playing](https://thenewleafjournal.com/reviewing-what-you-are-reading-watching-or-playing/)
 - [Charles Barkley on Scottie Pippen&amp;#8217;s Aborted 2007 NBA Comeback](https://thenewleafjournal.com/charles-barkley-on-scottie-pippens-aborted-2007-nba-comeback/)
 - [RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission](https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Union Street and Questioning Article Assertions](https://thenewleafjournal.com/union-street-and-questioning-article-assertions/)
 - [Nintendo 64 at 30 and My N64 Memories](https://thenewleafjournal.com/nintendo-64-at-30-and-my-n64-memories/)
 - [Recapping Junited and JulyReply 2026 at ECS](https://thenewleafjournal.com/recapping-junited-and-julyreply-2026-at-ecs/)
-- [Free White Printer in Brooklyn Heights Reminds Me of Visual Novel](https://thenewleafjournal.com/free-white-printer-in-brooklyn-heights-reminds-me-of-visual-novel/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
