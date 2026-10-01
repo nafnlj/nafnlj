@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 10-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-01-26/)
 - [Toys R Us Leaving Japan After 35 Years](https://social.emucafe.org/naferrell/toys-r-us-leaving-japan-after-35-years-09-30-26/)
 - [Pook-Emu Bee: Links For 09-30-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-30-26/)
 - [Pook-Emu Bee: Links For 09-29-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-29-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 09-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-22-26/)
 - [Pook-Emu Bee: Links For 09-21-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-21-26/)
 - [Pook-Emu Bee: Links For 09-20-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-20-26/)
-- [Sumo Ballet](https://social.emucafe.org/naferrell/sumo-ballet-09-19-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
