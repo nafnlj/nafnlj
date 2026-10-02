@@ -9,6 +9,8 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [My Kaori After Story Review and Questionable Searches](https://thenewleafjournal.com/my-kaori-after-story-review-and-questionable-searches/)
+- [Trackback Spam on Iroha Isshiki Hair Color Study](https://thenewleafjournal.com/trackback-spam-on-iroha-isshiki-hair-color-study/)
 - [86 Days Until Christmas: Seen in Carroll Gardens](https://thenewleafjournal.com/86-days-until-christmas-seen-in-carroll-gardens/)
 - [Myself; Yourself and Watchable Bad Anime](https://thenewleafjournal.com/myself-yourself-and-watchable-bad-anime/)
 - [Reviewing What You Are Reading, Watching, or Playing](https://thenewleafjournal.com/reviewing-what-you-are-reading-watching-or-playing/)
@@ -16,8 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission](https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/)
 - [Syndicated Newsletter Leaf Journal 296](https://thenewleafjournal.com/syndicated-newsletter-leaf-journal-296/)
 - [Links From Feeds and the Story of &amp;#8220;Sugar Baby Riri&amp;#8221;](https://thenewleafjournal.com/links-from-feeds-and-the-story-of-sugar-baby-riri/)
-- [Union Street and Questioning Article Assertions](https://thenewleafjournal.com/union-street-and-questioning-article-assertions/)
-- [Nintendo 64 at 30 and My N64 Memories](https://thenewleafjournal.com/nintendo-64-at-30-and-my-n64-memories/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
