@@ -12,7 +12,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [My Kaori After Story Review and Questionable Searches](https://thenewleafjournal.com/my-kaori-after-story-review-and-questionable-searches/)
 - [Trackback Spam on Iroha Isshiki Hair Color Study](https://thenewleafjournal.com/trackback-spam-on-iroha-isshiki-hair-color-study/)
 - [86 Days Until Christmas: Seen in Carroll Gardens](https://thenewleafjournal.com/86-days-until-christmas-seen-in-carroll-gardens/)
-- [Myself; Yourself and Watchable Bad Anime](https://thenewleafjournal.com/myself-yourself-and-watchable-bad-anime/)
+- [Myself; Yourself and Watchable Bad Anime](https://thenewleafjournal.com/?p=50891)
 - [Reviewing What You Are Reading, Watching, or Playing](https://thenewleafjournal.com/reviewing-what-you-are-reading-watching-or-playing/)
 - [Charles Barkley on Scottie Pippen&amp;#8217;s Aborted 2007 NBA Comeback](https://thenewleafjournal.com/charles-barkley-on-scottie-pippens-aborted-2007-nba-comeback/)
 - [RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission](https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/)
