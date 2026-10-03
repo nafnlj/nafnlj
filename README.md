@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Issue 300 of The Newsletter Leaf Journal](https://social.emucafe.org/naferrell/issue-300-of-the-newsletter-leaf-journal-10-03-26/)
 - [Pook-Emu Bee: Links For 10-02-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-02-26/)
 - [A Townhouse For Sale in Brooklyn Heights](https://social.emucafe.org/naferrell/a-townhouse-for-sale-in-brooklyn-heights-10-01-26/)
 - [Pook-Emu Bee: Links For 10-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-01-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 09-29-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-29-26/)
 - [Higurashi Mahjong](https://social.emucafe.org/naferrell/higurashi-mahjong-09-22-26/)
 - [AP Tests and College Credits](https://social.emucafe.org/naferrell/ap-tests-and-college-credits/)
-- [Pook-Emu Bee: Links For 09-22-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-22-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
