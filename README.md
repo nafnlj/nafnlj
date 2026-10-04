@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [The Angel Next Door Spoils Me Rotten S2 &amp;#8211; Anime Review](https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-s2-anime-review/)
 - [Brooklyn Indoor Ladybug and Katydid Rescues](https://thenewleafjournal.com/brooklyn-indoor-ladybug-and-katydid-rescues/)
 - [My Kaori After Story Review and Questionable Searches](https://thenewleafjournal.com/my-kaori-after-story-review-and-questionable-searches/)
 - [Trackback Spam on Iroha Isshiki Hair Color Study](https://thenewleafjournal.com/trackback-spam-on-iroha-isshiki-hair-color-study/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Reviewing What You Are Reading, Watching, or Playing](https://thenewleafjournal.com/reviewing-what-you-are-reading-watching-or-playing/)
 - [Charles Barkley on Scottie Pippen&amp;#8217;s Aborted 2007 NBA Comeback](https://thenewleafjournal.com/charles-barkley-on-scottie-pippens-aborted-2007-nba-comeback/)
 - [RSS Amplifier Re-Publishes 19 Full NLJ Articles Without Permission](https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/)
-- [Syndicated Newsletter Leaf Journal 296](https://thenewleafjournal.com/syndicated-newsletter-leaf-journal-296/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
