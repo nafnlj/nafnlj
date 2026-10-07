@@ -41,6 +41,9 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: My main email account &lpar;Posteo&rpar; seems to have stopped []](https://social.emucafe.org/activitystream/p/308/)
+- [Nicholas A. Ferrell posted an update: On October 2, I made a small change to []](https://social.emucafe.org/activitystream/p/307/)
+- [Nicholas A. Ferrell posted an update: I just published my 7th NLJ article of October. I only []](https://social.emucafe.org/activitystream/p/306/)
 - [Nicholas A. Ferrell posted an update: Finally about to go outside. Weather app &lpar;Breezy Weather []](https://social.emucafe.org/activitystream/p/305/)
 - [Nicholas A. Ferrell posted an update: I added this Activity Stream to my GitHub Readme page. Hello, []](https://social.emucafe.org/activitystream/p/304/)
 - [Nicholas A. Ferrell posted an update: I was making peppermint hot chocolate on the stove. Added []](https://social.emucafe.org/activitystream/p/303/)
@@ -50,9 +53,6 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 - [Nicholas A. Ferrell posted an update: My Koko Analytics stats for NLJ were blown up yesterday by []](https://social.emucafe.org/activitystream/p/299/)
 - [Nicholas A. Ferrell posted an update: Thinking about rolling Atmosphere just for Standard Site on []](https://social.emucafe.org/activitystream/p/298/)
 - [Nicholas A. Ferrell posted an update: I had been using Tree Style Tabs on Firefox for years along []](https://social.emucafe.org/activitystream/p/297/)
-- [Nicholas A. Ferrell posted an update: I was checking something on AlternativeTo yesterday and I saw []](https://social.emucafe.org/activitystream/p/296/)
-- [Nicholas A. Ferrell posted an update: Dear diary: It&#39;s hard to listen to a recording of a court []](https://social.emucafe.org/activitystream/p/295/)
-- [Nicholas A. Ferrell posted an update: I posted an article about my N64 memories on NLJ last night []](https://social.emucafe.org/activitystream/p/294/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
