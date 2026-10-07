@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Halloween and the Closed Carroll Gardens Library](https://thenewleafjournal.com/halloween-and-the-closed-carroll-gardens-library/)
 - [How and Why I Rescued a Housefly](https://thenewleafjournal.com/how-and-why-i-rescued-a-housefly/)
 - [June 2026 at The New Leaf Journal](https://thenewleafjournal.com/june-2026-at-the-new-leaf-journal/)
 - [The Angel Next Door Spoils Me Rotten S2 &amp;#8211; Anime Review](https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-s2-anime-review/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Trackback Spam on Iroha Isshiki Hair Color Study](https://thenewleafjournal.com/trackback-spam-on-iroha-isshiki-hair-color-study/)
 - [86 Days Until Christmas: Seen in Carroll Gardens](https://thenewleafjournal.com/86-days-until-christmas-seen-in-carroll-gardens/)
 - [Myself; Yourself and Watchable Bad Anime](https://thenewleafjournal.com/myself-yourself-and-watchable-bad-anime/)
-- [Reviewing What You Are Reading, Watching, or Playing](https://thenewleafjournal.com/reviewing-what-you-are-reading-watching-or-playing/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
