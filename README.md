@@ -60,12 +60,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [The Katydid Next Door 〜 Newsletter Leaf Journal CCCI](https://buttondown.com/newsletterleafjournal/archive/301/)
 - [Defending Thermopylae 〜 Newsletter Leaf Journal CCC](https://buttondown.com/newsletterleafjournal/archive/300/)
 - [Better late than letter 〜 Newsletter Leaf Journal CCXCIX](https://buttondown.com/newsletterleafjournal/archive/299/)
 - [I had nothing 〜 Newsletter Leaf Journal CCXCVIII](https://buttondown.com/newsletterleafjournal/archive/298/)
 - [Copied Wrong 〜 Newsletter Leaf Journal CCXCVII](https://buttondown.com/newsletterleafjournal/archive/297/)
 - [For a Good Cause 〜 Newsletter Leaf Journal CCXCVI](https://buttondown.com/newsletterleafjournal/archive/296/)
-- [Union Peril 〜 Newsletter Leaf Journal CCXCV](https://buttondown.com/newsletterleafjournal/archive/295/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Socials
