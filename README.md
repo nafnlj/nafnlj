@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Carroll Gardens Library Set to Reopen 12-01-2026](https://thenewleafjournal.com/carroll-gardens-library-set-to-reopen-12-01-2026/)
 - [Inflatable Spooky Halloween Tree in Cobble Hill](https://thenewleafjournal.com/inflatable-spooky-halloween-tree-in-cobble-hill/)
 - [My Chickenpox Memories](https://thenewleafjournal.com/my-chickenpox-memories/)
 - [Halloween and the Closed Carroll Gardens Library](https://thenewleafjournal.com/halloween-and-the-closed-carroll-gardens-library/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [The Angel Next Door Spoils Me Rotten S2 &amp;#8211; Anime Review](https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-s2-anime-review/)
 - [Brooklyn Indoor Ladybug and Katydid Rescues](https://thenewleafjournal.com/brooklyn-indoor-ladybug-and-katydid-rescues/)
 - [My Kaori After Story Review and Questionable Searches](https://thenewleafjournal.com/my-kaori-after-story-review-and-questionable-searches/)
-- [Trackback Spam on Iroha Isshiki Hair Color Study](https://thenewleafjournal.com/trackback-spam-on-iroha-isshiki-hair-color-study/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
