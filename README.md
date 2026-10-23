@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Carroll Gardens Halloween Window Ghost and GIF](https://thenewleafjournal.com/carroll-gardens-halloween-window-ghost-and-gif/)
 - [Inflatable Jack-&amp;#8216;o-lanterns &lpar;Deflated and Inflated&rpar; Seen in Cobble Hill](https://thenewleafjournal.com/inflatable-jack-o-lanterns-deflated-and-inflated-seen-in-cobble-hill/)
 - [Carroll Gardens Library Set to Reopen 12-01-2026](https://thenewleafjournal.com/carroll-gardens-library-set-to-reopen-12-01-2026/)
 - [Inflatable Spooky Halloween Tree in Cobble Hill](https://thenewleafjournal.com/inflatable-spooky-halloween-tree-in-cobble-hill/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [How and Why I Rescued a Housefly](https://thenewleafjournal.com/how-and-why-i-rescued-a-housefly/)
 - [June 2026 at The New Leaf Journal](https://thenewleafjournal.com/june-2026-at-the-new-leaf-journal/)
 - [The Angel Next Door Spoils Me Rotten S2 &amp;#8211; Anime Review](https://thenewleafjournal.com/the-angel-next-door-spoils-me-rotten-s2-anime-review/)
-- [Brooklyn Indoor Ladybug and Katydid Rescues](https://thenewleafjournal.com/brooklyn-indoor-ladybug-and-katydid-rescues/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
