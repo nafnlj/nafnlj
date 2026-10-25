@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 10-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-25-26/)
 - [Pook-Emu Bee: Links For 10-11-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-11-26/)
 - [Re-Filling My Gingerbread Man Soap Dispenser 3](https://social.emucafe.org/naferrell/re-filling-my-gingerbread-man-soap-dispenser-3/)
 - [Issue 300 of The Newsletter Leaf Journal](https://social.emucafe.org/naferrell/issue-300-of-the-newsletter-leaf-journal-10-03-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Pook-Emu Bee: Links For 10-01-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-01-26/)
 - [Toys R Us Leaving Japan After 35 Years](https://social.emucafe.org/naferrell/toys-r-us-leaving-japan-after-35-years-09-30-26/)
 - [Pook-Emu Bee: Links For 09-30-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-30-26/)
-- [Pook-Emu Bee: Links For 09-29-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-09-29-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
