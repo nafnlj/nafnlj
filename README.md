@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Halloween Ghosts in Brooklyn &lpar;Happy and Bibliophile&rpar;](https://thenewleafjournal.com/halloween-ghosts-in-brooklyn-happy-and-bibliophile/)
 - [Oniguisama &amp;#8211; Short Visual Novel Review](https://thenewleafjournal.com/oniguisama-short-visual-novel-review/)
 - [The Eyes of October in Brooklyn](https://thenewleafjournal.com/the-eyes-of-october-in-brooklyn/)
 - [Carroll Gardens Halloween Window Ghost and GIF](https://thenewleafjournal.com/carroll-gardens-halloween-window-ghost-and-gif/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Inflatable Spooky Halloween Tree in Cobble Hill](https://thenewleafjournal.com/inflatable-spooky-halloween-tree-in-cobble-hill/)
 - [My Chickenpox Memories](https://thenewleafjournal.com/my-chickenpox-memories/)
 - [Halloween and the Closed Carroll Gardens Library](https://thenewleafjournal.com/halloween-and-the-closed-carroll-gardens-library/)
-- [How and Why I Rescued a Housefly](https://thenewleafjournal.com/how-and-why-i-rescued-a-housefly/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
