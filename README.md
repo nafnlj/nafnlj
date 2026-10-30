@@ -41,6 +41,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: I definitely did not publish a NLJ article with the headline []](https://social.emucafe.org/activitystream/p/309/)
 - [Nicholas A. Ferrell posted an update: My main email account &lpar;Posteo&rpar; seems to have stopped []](https://social.emucafe.org/activitystream/p/308/)
 - [Nicholas A. Ferrell posted an update: On October 2, I made a small change to []](https://social.emucafe.org/activitystream/p/307/)
 - [Nicholas A. Ferrell posted an update: I just published my 7th NLJ article of October. I only []](https://social.emucafe.org/activitystream/p/306/)
@@ -52,7 +53,6 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 - [Nicholas A. Ferrell posted an update: My Pook-Emu Bee link backlog is serious after 8 days away. []](https://social.emucafe.org/activitystream/p/300/)
 - [Nicholas A. Ferrell posted an update: My Koko Analytics stats for NLJ were blown up yesterday by []](https://social.emucafe.org/activitystream/p/299/)
 - [Nicholas A. Ferrell posted an update: Thinking about rolling Atmosphere just for Standard Site on []](https://social.emucafe.org/activitystream/p/298/)
-- [Nicholas A. Ferrell posted an update: I had been using Tree Style Tabs on Firefox for years along []](https://social.emucafe.org/activitystream/p/297/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
