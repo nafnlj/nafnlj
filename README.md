@@ -41,6 +41,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: My next OELVN review project is a 2010 piece called Memo. It []](https://social.emucafe.org/activitystream/p/311/)
 - [Nicholas A. Ferrell posted an update: I just published a visual novel review with an associated []](https://social.emucafe.org/activitystream/p/310/)
 - [Nicholas A. Ferrell posted an update: I definitely did not publish a NLJ article with the headline []](https://social.emucafe.org/activitystream/p/309/)
 - [Nicholas A. Ferrell posted an update: My main email account &lpar;Posteo&rpar; seems to have stopped []](https://social.emucafe.org/activitystream/p/308/)
@@ -52,7 +53,6 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 - [Nicholas A. Ferrell posted an update: Now it&#39;s time for my favorite work activity: Adding []](https://social.emucafe.org/activitystream/p/302/)
 - [Nicholas A. Ferrell posted an update: I just added &quot;Nikole Hannah-Jones&quot; to my Miniflux []](https://social.emucafe.org/activitystream/p/301/)
 - [Nicholas A. Ferrell posted an update: My Pook-Emu Bee link backlog is serious after 8 days away. []](https://social.emucafe.org/activitystream/p/300/)
-- [Nicholas A. Ferrell posted an update: My Koko Analytics stats for NLJ were blown up yesterday by []](https://social.emucafe.org/activitystream/p/299/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
