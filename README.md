@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Pook-Emu Bee: Links For 11-02-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-11-02-26/)
 - [Tamawashi &lpar;41&rpar; Becomes Oldest Sumo Wrestler to Return to Top Division](https://social.emucafe.org/naferrell/tamawashi-41-becomes-oldest-sumo-wrestler-to-return-to-top-division-11-01-26/)
 - [If I had to rewatch a TV anime 10 times in a row…](https://social.emucafe.org/naferrell/if-i-had-to-rewatch-a-tv-anime-10-times-in-a-row-11-01-26/)
 - [Africa Has More Catholics than Europe](https://social.emucafe.org/naferrell/africa-has-more-catholics-than-europe-11-01-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Bad Puns: Romania Edition](https://social.emucafe.org/naferrell/bad-puns-romania-edition-10-29-26/)
 - [Churanoumi Becomes First Sumo Wrestler From Okinawa to Reach Sanyaku](https://social.emucafe.org/naferrell/churanoumi-becomes-first-sumo-wrestler-from-okinawa-to-reach-sanyaku-10-26-26/)
 - [On Instagram Food Trends](https://social.emucafe.org/naferrell/on-instagram-food-trends-10-25-26/)
-- [Pook-Emu Bee: Links For 10-25-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-10-25-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
