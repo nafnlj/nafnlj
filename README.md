@@ -68,6 +68,13 @@ Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newslette
 - [Better late than letter 〜 Newsletter Leaf Journal CCXCIX](https://buttondown.com/newsletterleafjournal/archive/299/)
 <!-- NLLJ-POST-LIST:END -->
 
+## Hypothes.is
+
+Off my own site, you can also follow my most recent Hypothes.is annotations. This is available [via ATOM feed](https://hypothes.is/stream.atom?user=nafnlj).
+
+<!-- HYP-ANN-LIST:START -->
+<!-- HYP-ANN-LIST:END -->
+
 ## Socials
 
 Both *The New Leaf Journal* and *The Emu Café Social* support ActivityPub. I have successfully followed myself from Mastodon and Pixelfed. You can follow from:
