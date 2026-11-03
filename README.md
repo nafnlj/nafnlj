@@ -82,6 +82,9 @@ Off my own site, you can also follow my most recent Hypothes.is annotations. Thi
 - [Shame turnstile jumpers to cut down on fare evasion, MTA board member says | amNewYork](https://hypothes.is/a/07O_-KNgEfGdFqe6Jl5FYA)
 - [To the Moon creator explains why he still makes games with RPG Maker. The &quot;just right&quot; simplicity that lets you focus on the creative sides of development - AUTOMATON WEST](https://hypothes.is/a/2jRAhqNNEfGA8uM37_siAA)
 - [To the Moon creator explains why he still makes games with RPG Maker. The &quot;just right&quot; simplicity that lets you focus on the creative sides of development - AUTOMATON WEST](https://hypothes.is/a/i1neiqNNEfGfXrNMZFpWjg)
+- [Maxell brings back classic 1970s cassette tapes — 1970s ferric formula is custom-made for vintage PC data drives](https://hypothes.is/a/HmQ_rqDsEfG4xa8iZpK4pA)
+- [After Nearly a Decade of Distro Hopping, I Realized It Was Never About the Distro](https://hypothes.is/a/LTpNwpQ4EfGy1yvipBywdQ)
+- [It&#39;s not about physical vs digital games, it&#39;s about ownership](https://hypothes.is/a/4GnQJJOyEfG68pOMiOerqw)
 <!-- HYP-ANN-LIST:END -->
 
 ## Socials
