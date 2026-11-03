@@ -73,6 +73,15 @@ Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newslette
 Off my own site, you can also follow my most recent Hypothes.is annotations. This is available [via ATOM feed](https://hypothes.is/stream.atom?user=nafnlj).
 
 <!-- HYP-ANN-LIST:START -->
+- [Jaadugar: A Witch in Mongolia Anime Casts Sumo Wrestlers Tamawashi, Tamashoho](https://hypothes.is/a/-CCL9NcyEfG3AEcltRVi5g)
+- [Catholic Church Statistics 2026 - Agenzia Fides](https://hypothes.is/a/bmOCntYHEfG8Xj_vHrcVvw)
+- [Toys R Us is leaving Japan after 35 years in the country](https://hypothes.is/a/kRt3ur00EfGkasMLW6fL9g)
+- [Kimi Crawlers](https://hypothes.is/a/mk07lKfkEfG-NS9VibMnJg)
+- [[Note] Pokémon is Older than Tamagotchi](https://hypothes.is/a/gvC3iqZqEfGmSnfm-a289w)
+- [[Note] Pokémon is Older than Tamagotchi](https://hypothes.is/a/JNBWfKY_EfGjskdLKIpo-Q)
+- [Shame turnstile jumpers to cut down on fare evasion, MTA board member says | amNewYork](https://hypothes.is/a/07O_-KNgEfGdFqe6Jl5FYA)
+- [To the Moon creator explains why he still makes games with RPG Maker. The &quot;just right&quot; simplicity that lets you focus on the creative sides of development - AUTOMATON WEST](https://hypothes.is/a/2jRAhqNNEfGA8uM37_siAA)
+- [To the Moon creator explains why he still makes games with RPG Maker. The &quot;just right&quot; simplicity that lets you focus on the creative sides of development - AUTOMATON WEST](https://hypothes.is/a/i1neiqNNEfGfXrNMZFpWjg)
 <!-- HYP-ANN-LIST:END -->
 
 ## Socials
