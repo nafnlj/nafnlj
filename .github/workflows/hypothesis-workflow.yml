@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: HYP-ANN-LIST
-          max_post_count: 9
+          max_post_count: 12
           feed_list: "https://hypothes.is/stream.atom?user=nafnlj"
