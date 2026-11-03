@@ -41,6 +41,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: This dwnupd is hitting my NLJ images hard. But I blocked it []](https://social.emucafe.org/activitystream/p/314/)
 - [Nicholas A. Ferrell posted an update: My new visual novel review of Once Upon a Hallow&#39;s Eve []](https://social.emucafe.org/activitystream/p/313/)
 - [Nicholas A. Ferrell posted an update: My next OELVN review project is a 2010 piece called Memo. It []](https://social.emucafe.org/activitystream/p/311/)
 - [Nicholas A. Ferrell posted an update: I just published a visual novel review with an associated []](https://social.emucafe.org/activitystream/p/310/)
@@ -52,7 +53,6 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 - [Nicholas A. Ferrell posted an update: I added this Activity Stream to my GitHub Readme page. Hello, []](https://social.emucafe.org/activitystream/p/304/)
 - [Nicholas A. Ferrell posted an update: I was making peppermint hot chocolate on the stove. Added []](https://social.emucafe.org/activitystream/p/303/)
 - [Nicholas A. Ferrell posted an update: Now it&#39;s time for my favorite work activity: Adding []](https://social.emucafe.org/activitystream/p/302/)
-- [Nicholas A. Ferrell posted an update: I just added &quot;Nikole Hannah-Jones&quot; to my Miniflux []](https://social.emucafe.org/activitystream/p/301/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
