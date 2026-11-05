@@ -25,6 +25,8 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [All 47 Japanese Prefectures Have Produced a Sanyaku Sumo Wrestler](https://social.emucafe.org/naferrell/all-47-japanese-prefectures-have-produced-a-sanyaku-sumo-wrestler-11-05-26/)
+- [Revival of The Nihon Review](https://social.emucafe.org/naferrell/revival-of-the-nihon-review-11-04-26/)
 - [Nuclear Bacon](https://social.emucafe.org/naferrell/nuclear-bacon-11-03-26/)
 - [Pook-Emu Bee: Links For 11-03-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-11-03-26/)
 - [Tamawashi is an Anime Voice Actor](https://social.emucafe.org/naferrell/tamawashi-is-an-anime-voice-actor-11-02-26/)
@@ -32,8 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Tamawashi &lpar;41&rpar; Becomes Oldest Sumo Wrestler to Return to Top Division](https://social.emucafe.org/naferrell/tamawashi-41-becomes-oldest-sumo-wrestler-to-return-to-top-division-11-01-26/)
 - [If I had to rewatch a TV anime 10 times in a row…](https://social.emucafe.org/naferrell/if-i-had-to-rewatch-a-tv-anime-10-times-in-a-row-11-01-26/)
 - [Africa Has More Catholics than Europe](https://social.emucafe.org/naferrell/africa-has-more-catholics-than-europe-11-01-26/)
-- [Learning New Things About Ren’Py &lpar;Screenshots&rpar;](https://social.emucafe.org/naferrell/learning-new-things-about-renpy-10-31-26/)
-- [Webmaster PSA: RSSingBot](https://social.emucafe.org/naferrell/webmaster-psa-rssingbot-10-30-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
