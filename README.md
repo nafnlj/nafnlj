@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [On AI Disclosure Policies For Games](https://thenewleafjournal.com/on-ai-disclosure-policies-for-games/)
 - [Hair Color in Once Upon a Hallow&amp;#8217;s Eve &lpar;Visual Novel&rpar;](https://thenewleafjournal.com/hair-color-in-once-upon-a-hallows-eve-visual-novel/)
 - [Once Upon a Hallow&amp;#8217;s Eve &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/once-upon-a-hallows-eve-visual-novel-review/)
 - [Pumpkin Arranging and Pumpkin Clean-up](https://thenewleafjournal.com/pumpkin-arranging-and-pumpkin-clean-up/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [The Eyes of October in Brooklyn](https://thenewleafjournal.com/the-eyes-of-october-in-brooklyn/)
 - [Carroll Gardens Halloween Window Ghost and GIF](https://thenewleafjournal.com/carroll-gardens-halloween-window-ghost-and-gif/)
 - [Inflatable Jack-&amp;#8216;o-lanterns &lpar;Deflated and Inflated&rpar; Seen in Cobble Hill](https://thenewleafjournal.com/inflatable-jack-o-lanterns-deflated-and-inflated-seen-in-cobble-hill/)
-- [Carroll Gardens Library Set to Reopen 12-01-2026](https://thenewleafjournal.com/carroll-gardens-library-set-to-reopen-12-01-2026/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
