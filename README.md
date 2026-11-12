@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Checking in on the Kyushu Basho Through Day 4](https://social.emucafe.org/naferrell/checking-in-on-the-kyushu-basho-through-day-4-11-11-2026/)
 - [Pook-Emu Bee: Links For 11-11-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-11-11-26/)
 - [Facts About Best NBA Game Score Performances](https://social.emucafe.org/naferrell/facts-about-best-nba-game-score-performances-11-10-26/)
 - [World’s Largest Artificial Reefs](https://social.emucafe.org/naferrell/worlds-largest-artificial-reefs-11-10-26/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [Open Source Tools Behind ECS](https://social.emucafe.org/naferrell/neil-brown-is-an-english-lawyer-who-runs-11-08-26/)
 - [Random Endpoint Coming in WordPress 7.2](https://social.emucafe.org/naferrell/random-endpoint-coming-in-wordpress-7-2-11-08-26/)
 - [RSS Used in a Non-tech Quip](https://social.emucafe.org/naferrell/rss-used-in-a-non-tech-quip-11-07-26/)
-- [Ten Predictions For the 2026 Kyushu Basho](https://social.emucafe.org/naferrell/10-predictions-for-the-2026-kyushu-basho-11-06-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
