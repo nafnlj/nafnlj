@@ -41,6 +41,7 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/profile/) on *The Emu Café Social*. It has a micropost activity stream which is separate from the main part of the site. You can see it [here](https://social.emucafe.org/patrons/naferrell/). It has an [ATOM feed](https://social.emucafe.org/patrons/naferrell/activity/feed/atom/) if you want to add it to your reader.
 
 <!-- ECS-ACTIVITY-LIST:START -->
+- [Nicholas A. Ferrell posted an update: I don&#39;t want to jump the gun but I like what I&#39;ve seen from []](https://social.emucafe.org/activitystream/p/318/)
 - [Nicholas A. Ferrell posted an update: The SEO Framework now has fediverse:creator functionality []](https://social.emucafe.org/activitystream/p/317/)
 - [Nicholas A. Ferrell posted an update: Yoshinofuji&#39;s win over Onosato yesterday gets my yusho pick []](https://social.emucafe.org/activitystream/p/316/)
 - [Nicholas A. Ferrell posted an update: This has been a good stretch for website comebacks. First []](https://social.emucafe.org/activitystream/p/315/)
@@ -52,7 +53,6 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 - [Nicholas A. Ferrell posted an update: My main email account &lpar;Posteo&rpar; seems to have stopped []](https://social.emucafe.org/activitystream/p/308/)
 - [Nicholas A. Ferrell posted an update: On October 2, I made a small change to []](https://social.emucafe.org/activitystream/p/307/)
 - [Nicholas A. Ferrell posted an update: I just published my 7th NLJ article of October. I only []](https://social.emucafe.org/activitystream/p/306/)
-- [Nicholas A. Ferrell posted an update: Finally about to go outside. Weather app &lpar;Breezy Weather []](https://social.emucafe.org/activitystream/p/305/)
 <!-- ECS-ACTIVITY-LIST:END -->
 
 ## The Newsletter Leaf Journal... Newsletters
