@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Setting Up fediverse:creator Tags With The SEO Framework](https://thenewleafjournal.com/setting-up-fediversecreator-tags-with-the-seo-framework/)
 - [Minute Totals in Best NBA Game Score Performances](https://thenewleafjournal.com/minute-totals-in-best-nba-game-score-performances/)
 - [On AI Disclosure Policies For Games](https://thenewleafjournal.com/on-ai-disclosure-policies-for-games/)
 - [Hair Color in Once Upon a Hallow&amp;#8217;s Eve &lpar;Visual Novel&rpar;](https://thenewleafjournal.com/hair-color-in-once-upon-a-hallows-eve-visual-novel/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Halloween Ghosts in Brooklyn &lpar;Happy and Bibliophile&rpar;](https://thenewleafjournal.com/halloween-ghosts-in-brooklyn-happy-and-bibliophile/)
 - [Oniguisama &amp;#8211; Short Visual Novel Review](https://thenewleafjournal.com/oniguisama-short-visual-novel-review/)
 - [The Eyes of October in Brooklyn](https://thenewleafjournal.com/the-eyes-of-october-in-brooklyn/)
-- [Carroll Gardens Halloween Window Ghost and GIF](https://thenewleafjournal.com/carroll-gardens-halloween-window-ghost-and-gif/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
