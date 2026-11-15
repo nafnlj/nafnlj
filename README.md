@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [The Nice Boat and Quality Anime Train Wrecks](https://thenewleafjournal.com/the-nice-boat-and-quality-anime-train-wrecks/)
 - [Memo &lpar;2010&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/memo-2010-visual-novel-review/)
 - [Setting Up fediverse:creator Tags With The SEO Framework](https://thenewleafjournal.com/setting-up-fediversecreator-tags-with-the-seo-framework/)
 - [Minute Totals in Best NBA Game Score Performances](https://thenewleafjournal.com/minute-totals-in-best-nba-game-score-performances/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Once Upon a Hallow&amp;#8217;s Eve &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/once-upon-a-hallows-eve-visual-novel-review/)
 - [Pumpkin Arranging and Pumpkin Clean-up](https://thenewleafjournal.com/pumpkin-arranging-and-pumpkin-clean-up/)
 - [Halloween Ghosts in Brooklyn &lpar;Happy and Bibliophile&rpar;](https://thenewleafjournal.com/halloween-ghosts-in-brooklyn-happy-and-bibliophile/)
-- [Oniguisama &amp;#8211; Short Visual Novel Review](https://thenewleafjournal.com/oniguisama-short-visual-novel-review/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
