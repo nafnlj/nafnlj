@@ -25,6 +25,7 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- ECS-POST-LIST:START -->
+- [Handling Grand Theft @uto in Miniflux](https://social.emucafe.org/naferrell/handling-grand-theft-uto-in-miniflux-11-18-26/)
 - [The SEO Framework Adds Mastodon Tags](https://social.emucafe.org/naferrell/the-seo-framework-adds-mastodon-tags-11-13-26/)
 - [Pook-Emu Bee: Links For 11-13-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-11-13-26/)
 - [Checking in on the Kyushu Basho Through Day 4](https://social.emucafe.org/naferrell/checking-in-on-the-kyushu-basho-through-day-4-11-11-2026/)
@@ -33,7 +34,6 @@ Feed: https//social.emucafe.org/feed/ for the full site RSS feed (or /author/naf
 - [World’s Largest Artificial Reefs](https://social.emucafe.org/naferrell/worlds-largest-artificial-reefs-11-10-26/)
 - [Pook-Emu Bee: Links For 11-10-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-11-10-26/)
 - [Pook-Emu Bee: Links For 11-09-26](https://social.emucafe.org/naferrell/pook-emu-bee-links-for-11-09-26/)
-- [Open Source Tools Behind ECS](https://social.emucafe.org/naferrell/neil-brown-is-an-english-lawyer-who-runs-11-08-26/)
 <!-- ECS-POST-LIST:END -->
 
 ## The Emu Café Social Micropost Activity Stream
