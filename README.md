@@ -60,12 +60,12 @@ I created a "social" [profile](https://social.emucafe.org/patrons/naferrell/prof
 Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newsletter, so you can also [sign up by email](https://buttondown.com/newsletterleafjournal#subscribe-form).
 
 <!-- NLLJ-POST-LIST:START -->
+- [Holiday Memo 〜 Newsletter Leaf Journal CCCVII](https://buttondown.com/newsletterleafjournal/archive/307/)
 - [New Score Disclosures 〜 Newsletter Leaf Journal CCCVI](https://buttondown.com/newsletterleafjournal/archive/306/)
 - [Hallow&#39;s Leftovers 〜 Newsletter Leaf Journal CCCV](https://buttondown.com/newsletterleafjournal/archive/305/)
 - [Inbox Treat 〜 Booletter Leaf Journal CCCIV](https://buttondown.com/newsletterleafjournal/archive/304/)
 - [Newsletter Leaf Journal CCCIII 〜 Positively Ocular](https://buttondown.com/newsletterleafjournal/archive/303/)
 - [Newsletter Leaf Journal CCCII 〜 Delayed Opening](https://buttondown.com/newsletterleafjournal/archive/302/)
-- [The Katydid Next Door 〜 Newsletter Leaf Journal CCCI](https://buttondown.com/newsletterleafjournal/archive/301/)
 <!-- NLLJ-POST-LIST:END -->
 
 ## Hypothes.is
