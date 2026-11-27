@@ -9,6 +9,7 @@ I mainly use GitHub to follow projects and repositories that interest me.
 Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/naferrell/feed/ for mine). Add atom/ or json/ after /feed/ if you prefer those formats. For any twtxt users out there, you can follow the full site at /feed/twtxt/.
 
 <!-- NLJ-POST-LIST:START -->
+- [Happy Thanksgiving Inflatable Turkey](https://thenewleafjournal.com/happy-thanksgiving-inflatable-turkey/)
 - [Republishing &amp;#8220;Aunt Susanna&amp;#8217;s Thanksgiving Dinner&amp;#8221; by L.M. Montgomery](https://thenewleafjournal.com/republishing-aunt-susannas-thanksgiving-dinner-by-l-m-montgomery/)
 - [Tastefulness in Online Writing](https://thenewleafjournal.com/tastefulness-in-online-writing/)
 - [Animaj, AI in Cartoons, and Children&amp;#8217;s Media](https://thenewleafjournal.com/animaj-ai-in-cartoons-and-childrens-media/)
@@ -17,7 +18,6 @@ Feed: https//thenewleafjournal.com/feed/ for the full site RSS feed (or /author/
 - [Memo &lpar;2010&rpar; &amp;#8211; Visual Novel Review](https://thenewleafjournal.com/memo-2010-visual-novel-review/)
 - [Setting Up fediverse:creator Tags With The SEO Framework](https://thenewleafjournal.com/setting-up-fediversecreator-tags-with-the-seo-framework/)
 - [Minute Totals in Best NBA Game Score Performances](https://thenewleafjournal.com/minute-totals-in-best-nba-game-score-performances/)
-- [On AI Disclosure Policies For Games](https://thenewleafjournal.com/on-ai-disclosure-policies-for-games/)
 <!-- NLJ-POST-LIST:END -->
 
 ## The Emu Café Social Short Posts
