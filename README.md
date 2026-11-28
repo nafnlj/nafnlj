@@ -73,6 +73,7 @@ Feed: https://buttondown.com/newsletterleafjournal/rss (note this is a newslette
 Off my own site, you can also follow my most recent Hypothes.is annotations. This is available [via ATOM feed](https://hypothes.is/stream.atom?user=nafnlj).
 
 <!-- HYP-ANN-LIST:START -->
+- [Japanese Content | Palm Source - Palm Software and Palm OS](https://hypothes.is/a/dBJxUurwEfGUnSebZlyTvw)
 - [Sumo: 33-yr-old Churanoumi becomes 1st komusubi from Okinawa Pref. - The Mainichi](https://hypothes.is/a/Ri6BotjcEfGfiPcHiJOD6g)
 - [Sumo: 33-yr-old Churanoumi becomes 1st komusubi from Okinawa Pref. - The Mainichi](https://hypothes.is/a/_xLIbtjbEfGnpoPnhhKEwQ)
 - [Jaadugar: A Witch in Mongolia Anime Casts Sumo Wrestlers Tamawashi, Tamashoho](https://hypothes.is/a/-CCL9NcyEfG3AEcltRVi5g)
@@ -84,7 +85,6 @@ Off my own site, you can also follow my most recent Hypothes.is annotations. Thi
 - [Shame turnstile jumpers to cut down on fare evasion, MTA board member says | amNewYork](https://hypothes.is/a/07O_-KNgEfGdFqe6Jl5FYA)
 - [To the Moon creator explains why he still makes games with RPG Maker. The &quot;just right&quot; simplicity that lets you focus on the creative sides of development - AUTOMATON WEST](https://hypothes.is/a/2jRAhqNNEfGA8uM37_siAA)
 - [To the Moon creator explains why he still makes games with RPG Maker. The &quot;just right&quot; simplicity that lets you focus on the creative sides of development - AUTOMATON WEST](https://hypothes.is/a/i1neiqNNEfGfXrNMZFpWjg)
-- [Maxell brings back classic 1970s cassette tapes — 1970s ferric formula is custom-made for vintage PC data drives](https://hypothes.is/a/HmQ_rqDsEfG4xa8iZpK4pA)
 <!-- HYP-ANN-LIST:END -->
 
 ## Socials
